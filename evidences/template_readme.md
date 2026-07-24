@@ -36,11 +36,11 @@
 
 ## Key Errors Documented
 
-| # | Error | Description | Severity |
-|---|-------|-------------|----------|
-| 1 | [Error 1] | [Description] | [High/Medium/Low] |
-| 2 | [Error 2] | [Description] | [High/Medium/Low] |
-| 3 | [Error 3] | [Description] | [High/Medium/Low] |
+| # | Error | Severity |
+|---|-------|----------|
+| 1 | [Error 1] | [High/Medium/Low] |
+| 2 | [Error 2] | [High/Medium/Low] |
+| 3 | [Error 3] | [High/Medium/Low] |
 
 ---
 
@@ -48,8 +48,8 @@
 
 | Claim | Reality | Discrepancy |
 |-------|---------|-------------|
-| [Marketing claim 1] | [Actual behavior] | False |
-| [Marketing claim 2] | [Actual behavior] | False |
+| [Marketing claim 1] | [Actual behavior] | [False/True] |
+| [Marketing claim 2] | [Actual behavior] | [False/True] |
 
 ---
 
