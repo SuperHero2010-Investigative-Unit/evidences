@@ -1,0 +1,231 @@
+Me (1): [ToolDig.cs] Read the merged script. The bug is the cut logic slow to handle the mouse which is moved fast
+Me (2): [ToolDig.cs] Read the script. The bug is the cut logic slow to handle the mouse which is moved fast
+
+GPT-5.3 (1): The uploaded file has expired, so I can’t read the merged script.
+
+Please upload **ToolDig.cs** again (the merged script containing both scripts).
+
+Once you upload it:
+
+* I will read the whole logic carefully.
+* I will explain the **exact cause** of why fast mouse movement leaves pixels.
+* I will give you only the corrected code section (not rewriting everything).
+
+Upload it again and I’ll analyze it properly.
+
+GPT-5.3 (2): The uploaded file has expired, so I can’t read your script right now.
+
+Please upload the script again (both scripts in one file like you said), and I will:
+
+* Read it fully first
+* Identify the exact cause (not guess)
+* Explain why the cut logic feels slow when moving fast
+* Give you only the corrected code section
+
+Upload the file again and I’ll analyze it properly.
+
+Me: [ToolDig.cs] Read the script. The bug is the cut logic slow to handle the mouse which is moved fast
+GPT-5.4: I read the whole script carefully. I will explain **the real cause in your code**, not guess.
+
+---
+
+# 1️⃣ Main cause of the bug
+
+The slow cutting happens because **you only dig at the current mouse position each frame**.
+
+This line proves it:
+
+```csharp
+worldPositions.Add(world);
+```
+
+inside `TryGetAllDigWorldPositions()` 
+
+Then in `Update()` you only do:
+
+```csharp
+foreach (var world in digPositions)
+{
+    DigAtWorld(world);
+}
+```
+
+So every frame you only dig **ONE circle** at the mouse location.
+
+---
+
+# 2️⃣ What happens when the mouse moves fast
+
+Example:
+
+```
+Frame 1 mouse → (100,100)
+Frame 2 mouse → (140,100)
+```
+
+Distance = **40 pixels**
+
+But your `digRadius` is only:
+
+```
+digRadius = 6
+```
+
+So the engine digs like this:
+
+```
+Frame1:  O
+Frame2:                O
+```
+
+Everything between them is skipped:
+
+```
+O      XXXXXXXX      O
+```
+
+Those skipped pixels are the **sand left behind**.
+
+This is a **classic frame-sampling problem**.
+
+---
+
+# 3️⃣ The correct solution
+
+You must dig **along the line between the previous mouse position and the current mouse position**.
+
+So instead of:
+
+```
+dig(currentPosition)
+```
+
+you must do:
+
+```
+dig(previous → current)
+```
+
+and fill the path.
+
+---
+
+# 4️⃣ Minimal fix (add mouse interpolation)
+
+Add a variable to store previous position.
+
+### Add this variable
+
+Inside `ToolDig`:
+
+```csharp
+Vector3? previousWorldPos = null;
+```
+
+---
+
+# 5️⃣ Replace the Update() method
+
+Replace your `Update()` with this:
+
+```csharp
+void Update()
+{
+    if (currentTool == ToolMineralType.None) return;
+
+    if (!TryGetAllDigWorldPositions(digPositions))
+    {
+        previousWorldPos = null;
+        return;
+    }
+
+    foreach (var world in digPositions)
+    {
+        if (previousWorldPos == null)
+        {
+            DigAtWorld(world);
+        }
+        else
+        {
+            float dist = Vector3.Distance(previousWorldPos.Value, world);
+            int steps = Mathf.CeilToInt(dist * painter.pixelsPerUnit / digRadius);
+
+            for (int i = 0; i <= steps; i++)
+            {
+                Vector3 pos = Vector3.Lerp(previousWorldPos.Value, world, i / (float)steps);
+                DigAtWorld(pos);
+            }
+        }
+
+        previousWorldPos = world;
+    }
+}
+```
+
+---
+
+# 6️⃣ What this fix does
+
+If the mouse jumps:
+
+```
+A -------- B
+```
+
+The script now digs:
+
+```
+A • • • • • • • B
+```
+
+So **no pixels are skipped even when moving fast**.
+
+---
+
+# 7️⃣ Another hidden performance problem (very important)
+
+This line is extremely expensive:
+
+```csharp
+painter.RebuildTerrainTexture();
+```
+
+inside `DigAtWorld()` 
+
+Because it:
+
+* destroys colliders
+* rebuilds ALL colliders
+* recreates the sprite
+
+every time you dig.
+
+This is **very heavy**.
+
+Later you should change it to rebuild **less frequently** (for example every 0.1s).
+
+But that is a **separate optimization**.
+
+---
+
+# ✅ Result after fix
+
+When you move the shovel fast:
+
+Before:
+
+```
+O     O     O
+```
+
+After:
+
+```
+OOOOOOOOOOOO
+```
+
+Continuous digging.
+
+---
+
+✅ If you want, I can also show you **a much faster digging algorithm used in Terraria / Noita style games**, because your current system will become **very slow when the terrain gets big**.
