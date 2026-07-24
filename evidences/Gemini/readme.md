@@ -35,12 +35,12 @@
 
 ## Key Errors Documented
 
-| # | Error | Description | Severity |
-|---|-------|-------------|----------|
-| 1 | Disregarding user | Laughs, disregards and belittles when the user is angry | High |
-| 2 | Fake evidences | Searches and gives user fake evidences | High |
-| 3 | False claims | Search one thing, false claim | High |
-| 4 | Stupid programming | Weaker than ChatGPT and DeepSeek | Medium |
+| # | Error | Severity |
+|---|-------|----------|
+| 1 | Disregarding user | High |
+| 2 | Fake evidences | High |
+| 3 | False claims | High |
+| 4 | Stupid programming | Medium |
 
 ---
 

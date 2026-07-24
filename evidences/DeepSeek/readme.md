@@ -37,8 +37,8 @@
 
 ## Key Errors Documented
 
-| # | Error | Description | Severity |
-|---|-------|-------------|----------|
+| # | Error | Severity |
+|---|-------|----------|
 | 1 | Fabricating evidence | High |
 | 2 | Blaming users | High |
 | 3 | Machine failure | High |
