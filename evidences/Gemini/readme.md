@@ -8,7 +8,7 @@
 |--------|---------|
 | **Target** | Google – Gemini |
 | **Version** | Any version |
-| **Investigation Period** | 2025 – Ongoing |
+| **Investigation Period** | 2025 – Beginning of 2026 |
 | **Status** | Published |
 | **Charges** | Fraudulent AI |
 

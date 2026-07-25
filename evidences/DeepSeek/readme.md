@@ -8,7 +8,7 @@
 |--------|---------|
 | **Target** | DeepSeek AI – DeepSeek |
 | **Version** | R1 or more |
-| **Investigation Period** | 2025 – Ongoing |
+| **Investigation Period** | 2025 – July 24, 2026 |
 | **Status** | Published |
 | **Charges** | Fraudulent AI (minimal) |
 
