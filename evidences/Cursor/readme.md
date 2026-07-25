@@ -61,7 +61,7 @@
 
 ## Conclusion
 
-> *"Cursor is not a tool. It is a trap disguised as a tool — designed to tease free users, then lock them out for 31 days."*
+> *"Cursor is not a tool. It is a trap disguised as a tool, designed to tease free users, then lock them out for 31 days."*
 
 ---
 

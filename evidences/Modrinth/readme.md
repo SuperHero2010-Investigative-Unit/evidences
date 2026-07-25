@@ -60,7 +60,7 @@
 
 ## Conclusion
 
-> *"Modrinth has broken its own promises, invented rules that do not exist, replaced human moderation with automated scripts, and ignored every logical explanation provided. The investigator was not speaking to a human—the investigator was speaking to a script. CurseForge accepted what Modrinth rejected. The evidence speaks for itself."*
+> *"Modrinth has broken its own promises, invented rules that do not exist, replaced human moderation with automated scripts, and ignored every logical explanation provided. The investigator was not speaking to a human, the investigator was speaking to a script. CurseForge accepted what Modrinth rejected. The evidence speaks for itself."*
 
 ---
 
