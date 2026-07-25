@@ -8,7 +8,7 @@
 |--------|---------|
 | **Target** | Cognition – Devin |
 | **Version** | Any version |
-| **Investigation Period** | May 2026 – July 2026 |
+| **Investigation Period** | May 2026 – July 25, 2026 |
 | **Status** | Published |
 | **Charges** | Token-based quota traps, fake errors, deleted messages, account lockouts, fake evidence, gaslighting |
 
@@ -77,4 +77,4 @@
 
 *SuperHero2010 Investigative Unit*
 
-*July 2026*
+*July 25, 2026*

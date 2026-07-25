@@ -8,7 +8,7 @@
 |--------|---------|
 | **Target** | Cursor AI – Cursor |
 | **Version** | Any version |
-| **Investigation Period** | November 2025 – July 2026 |
+| **Investigation Period** | November 2025 – July 25, 2026 |
 | **Status** | Published |
 | **Charges** | Hidden limits, silent cuts, disproportionate punishment (1 message = 31-day lockout), gaslighting users, hidden meter |
 
@@ -73,4 +73,4 @@
 
 *SuperHero2010 Investigative Unit*
 
-*July 2026*
+*July 25, 2026*

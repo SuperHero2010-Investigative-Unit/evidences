@@ -8,7 +8,7 @@
 |--------|---------|
 | **Target** | Modrinth |
 | **Version** | Any version |
-| **Investigation Period** | November 13, 2025 – July 25, 2026 |
+| **Investigation Period** | January 12, 2024 – July 25, 2026 |
 | **Status** | Published |
 | **Charges** | Broken promises, invented rules, bot-driven silence, disrespect toward creators |
 
