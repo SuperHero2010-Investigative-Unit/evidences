@@ -1,0 +1,73 @@
+Project name: Explosive Block [Cracker's Wither Storm Mod and Enderite Mod]
+Created: Jan 12, 2024
+Published: Jan 21, 2024
+Last updated: Dec 16, 2024
+
+Content:
+Me (Jan 12, 2024): submitted the project for review.
+
+Moderator (Jan 16, 2024): #Unlinked SPDX License
+You've selected the License "Academic Free License v3.0" as a custom license without providing a License link, instead, you should enable SPDX in your license settings and use the identifier AFL-3.0.
+
+# Misuse of External Resources
+Per section 5.4 of Modrinth's Content Rules all links must lead to correctly labeled publicly available resources that are directly related to your project.
+Currently, your Source link directs to a Repo that contains no source code, make sure to upload your source, or remove this link before resubmitting.
+
+# Incorrect Use of Additional Files
+Per section 5.7 of Modrinth's Content Rules The Additional Files feature should only be used for specific purposes like a Sources.jar or configuration files that cannot be distributed as a part of the mod.
+
+Moderator changed the project's status from Under review to Rejected (Jan 16, 2024)
+
+Me (Jan 16, 2024): submitted the project for review.
+
+Moderator (Jan 18, 2024): Please address all moderation concerns before resubmission, Issues 2 and 3 and the previous moderation message are currently unaddressed:
+- Misuse of External Resources
+- Incorrect Use of Additional Files
+If you have any questions or additional information you'd like to provide, please do so here before your resubmission and we will be happy to help you get things worked out so your project can be approved.
+
+Moderator changed the project's status from Under review to Rejected (Jan 18, 2024)
+
+Me (Jan 18, 2024): submitted the project for review.
+Me (Jan 18, 2024): submitted the project for review.
+
+Moderator (Jan 21, 2024): The last issue, **Incorrect Use of Additional Files** remains unaddressed.
+Additionally, your latest version reuploads MCreator Link as an additional file.
+Per section 4 of Modrinth's Content Rules this is strictly forbidden. If your project relies on MCreator Link as a dependency, you must include a link to the project in your Description, you cannot reupload it.
+
+Moderator changed the project's status from Under review to Rejected (Jan 21, 2024)
+
+Me (Jan 21, 2024): submitted the project for review.
+
+Moderator (Jan 21, 2024): Thank you!
+
+Moderator changed the project's status from Under review to Listed (Jan 21, 2024)
+
+# After my project is listed, I added back additional mods
+
+Moderator (Sep 8, 2024): # Reuploads are forbidden
+This project appears to contain content from MCreator Link. Per section 4 of Modrinth's Content Rules this is strictly forbidden. Instead of Redistributing mods as additional files, be sure to correctly label them as dependencies in the dependencies section of each version, and optionally add a link to your project's Description.
+Note that per section 5.7 of Modrinth's Content Rules additional files should only be used for specific purposes, like a Sources.jar
+
+Moderator changed the project's status from Listed to Rejected (Sep 8, 2024)
+
+# After deleting the additional mod, I lost my temper and yelled
+# Many of the messages I wrote had grammatical errors
+
+Me (Sep 8, 2024): AHHHHHHHHHHH. WHY DO YOU BAN "MCreator Link"? MY MOD REQUIRES "MCreator Link" BUT YOU BAN IT. REMOVE THAT RULE NOW
+Me (Sep 8, 2024): submitted the project for review.
+Me (Sep 8, 2024): I MEAN YOU DON'T ALLOW IT TO BE POSTED IN THE SUPPLEMENTARY FILE. DELETE THAT RULE NOW
+Me (Sep 8, 2024): I MEAN YOU DON'T POST IT IN AN ADDITIONAL FILE. REMOVE THAT LAW NOW
+Me (Sep 8, 2024): I MEAN YOU DON'T ALLOW IT TO BE POSTED IN THE ADDITIONAL FILE. DELETE THAT RULE NOW
+
+Moderator (Sep 9, 2024): As has been explained before, this is a form of redistribution that is prohibited by Modrinth's Content Rules, and may be infringing on copyright, this rule cannot be waived.
+
+Moderator changed the project's status from Under review to Listed (Sep 9, 2024)
+
+Rule 4 content:
+You must own or have the necessary licenses, rights, consents, and permissions to store, share, and distribute the Content that is uploaded under your Modrinth account.
+
+Content may not be directly reuploaded from another source without explicit permission from the original author. If explicit permission has been granted, or it is a license-abiding "fork", this restriction does not apply. We define "forks" as modified copies of a project which have diverged substantially from the original project.
+
+Rule 5.7 content: "Additional files" are only used for special designated purposes, such as source JAR files. In other words, separate versions and/or projects are used where appropriate instead of additional files.
+
+# Modrinth refused MCreator Link while my mod requested it. The rules only protect them, not the users

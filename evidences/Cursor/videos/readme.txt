@@ -1,0 +1,2 @@
+- Cursor 1: I had sent 2 messages earlier and they worked. Then I sent extra 1 message and I got blocked
+- Cursor 2: I had sent 1 message earlier and it worked. Then I sent extra 1 message and I got blocked

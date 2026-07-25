@@ -7,7 +7,7 @@
 | Aspect | Details |
 |--------|---------|
 | **Target** | Google – Gemini |
-| **Version** | Unknown |
+| **Version** | Any version |
 | **Investigation Period** | 2025 – Ongoing |
 | **Status** | Published |
 | **Charges** | Fraudulent AI |

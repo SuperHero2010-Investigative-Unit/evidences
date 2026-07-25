@@ -6,7 +6,7 @@
 
 | Aspect | Details |
 |--------|---------|
-| **Target** | DeepSeek – DeepSeek |
+| **Target** | DeepSeek AI – DeepSeek |
 | **Version** | R1 or more |
 | **Investigation Period** | 2025 – Ongoing |
 | **Status** | Published |

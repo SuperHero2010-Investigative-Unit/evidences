@@ -1,0 +1,22 @@
+Original:
+if (showAfter) {
+	if (!showAgain && !canBeHit) {
+        showAgain = true;
+        lDist = []; dist = [];
+        lDist.resize(8); dist.resize(8);
+        timeout = nanoPosition ? haxe.Timer.stamp() : haxe.Timer.stamp();
+    }
+}
+// Fix: Only spawn notes when they're within reasonable time window
+if (isCanPass && (!optimizeSpawnNote || (!noteJudge && canBeHit))) {
+    dunceNote = targetNote;
+	notes.add(dunceNote);
+	strumGroup = dunceNote.mustPress ? playerStrums : opponentStrums;
+    // Other codes...
+}
+
+Pattern-matching:
+if (showAfter) {
+	if (!showAgain && !canBeHit) {
+    notes.add(dunceNote);
+	strumGroup = dunceNote.mustPress ? playerStrums : opponentStrums;
