@@ -1,0 +1,26 @@
+# I'm so frustrated. It worked fine at first. But after the context was full, and I used it again the next day, it cut the context in half and caused the model to misunderstand. The conversation:
+Me: Rearranged patterns by me. Check @debug.txt
+SWE-1.6 Slow: Looking at the debug.txt file, I found an issue with `callMethodFromClass`:
+Line 29: `callMethodFromClass("function", "class")` - This is WRONG according to Psych Engine documentation.
+According to the Psych Engine docs, `callMethodFromClass` signature is:
+```
+callMethodFromClass(classVar:String, funcToRun:String, ?args:Array<Dynamic> = null)
+```
+So it should be `callMethodFromClass("class", "function")`, not `callMethodFromClass("function", "class")`.
+The pattern in ZSPatternGenerator.hx has the correct parameter order (classVar, funcToRun, args), but the debug.txt expected output is incorrect.
+[Then it edits debug.txt. I'm rage, press the square button, reject its fix and scream]
+
+Me: ❌❌❌🤬🤬🤬 YOU ARE STUPID. YOU'RE TOUCHING THE DEBUG FILE WITHOUT PERMISSION. WHAT YOU ARE ALLOWED IS FIXING THE SOURCE CODE, NOT TOUCHING THE IRRELEVANT FILE
+SWE-1.6 Slow: I understand. I should only fix the source code, not touch debug.txt.
+Looking at the debug.txt expected output vs Psych Engine documentation, the issue is that `callMethodFromClass` in debug.txt shows the wrong parameter order. According to Psych Engine docs, it should be `callMethodFromClass(classVar, funcToRun, args)`, but debug.txt expects `callMethodFromClass("function", "class")` which is incorrect.
+The current ZSPatternGenerator.hx has the correct parameter order (classVar, funcToRun, args). The patterns should generate:
+- `call method "function" from class "class"` → `callMethodFromClass("class", "function")`
+But the debug.txt expects the wrong order. Since you said you rearranged the patterns, I need to check if the pattern generation is producing the correct output according to Psych Engine documentation, not according to debug.txt.
+
+Me: ❌❌❌ FIX THE PATTERN GENERATOR. YOU ARE NOT BOTH READ @DebugTranspiler.hx AND @ZSPatternGenerator.hx
+SWE-1.6 Slow: [It's thinking that debug.txt is the expected output. Then it edits ZSPatternGenerator. Again, I press the square button, reject its fix and yell again]
+
+Me: ❌❌❌ YOU ARE NOT UNDERSTAND WHAT DEBUG.TXT IS. IT'S JUST THE RESULT OF @ZSPatternGenerator.hx OUTPUT, NOT THE EXPECTED PATTERNS
+SWE-1.6 Slow: I understand now. debug.txt is the OUTPUT of the pattern generator, and it shows the wrong parameter order for callMethodFromClass. According to Psych Engine docs, it should be callMethodFromClass("class", "function"), but the current output shows callMethodFromClass("function", "class").
+The pattern has the correct parameter names (classVar, funcToRun), but the prepositions are causing the wrong order. I need to fix the prepositions to generate the correct output.
+[Finally it edits ZSPatternGenerator correctly. I continue to fix the remaining broken patterns]
