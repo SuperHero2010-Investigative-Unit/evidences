@@ -168,7 +168,7 @@ If I had a legal claim, I would have to act quickly. However, I am not pursuing 
 | Rejecting my datapack (2025-2026) | Content Rules | No. Versioning rule was invented |
 | Withholding my datapack for 9+ months | Content Rules | No. No valid reason given |
 | Using automated responses | N/A | No. Not specified in Terms |
-| Breaking promise to discuss | N/A | No. Not specified in Terms |
+| Breaking promise to withheld until all moderation concerns are addressed | N/A | No. Not specified in Terms |
 | Potential account suspension | Account Disablement | Maybe. They have the right, but not the justification |
 
 ---

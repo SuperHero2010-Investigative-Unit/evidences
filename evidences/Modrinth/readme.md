@@ -40,7 +40,7 @@
 | # | Error | Severity |
 |---|-------|----------|
 | 1 | Inventing rules to reject a project | High |
-| 2 | Breaking a promise to discuss until solved | High |
+| 2 | Breaking a promise to withheld until all moderation concerns are addressed | High |
 | 3 | Replacing human moderation with bots | High |
 | 4 | Ignoring logical explanations | Medium |
 | 5 | Forcing rigid rules onto datapacks | Medium |
