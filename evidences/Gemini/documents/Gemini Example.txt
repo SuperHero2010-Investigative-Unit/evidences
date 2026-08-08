@@ -1,0 +1,77 @@
+Gemini:
+def count_adjacent_sum(arr, x):
+    count = 0
+    for i in range(len(arr) - 1):
+        if arr[i] + arr[i+1] == x:
+            count += 1
+    return count
+def count_any_pair_sum(arr, x):
+    count = 0
+    n = len(arr)
+    for i in range(n):
+        for j in range(i + 1, n):
+            if arr[i] + arr[j] == x:
+                count += 1
+    return count
+def is_prime(n):
+    if n < 2: return False
+    for i in range(2, int(n**0.5) + 1):
+        if n % i == 0:
+            return False
+    return True
+
+def count_prime_sum_pairs(arr):
+    count = 0
+    n = len(arr)
+    for i in range(n):
+        for j in range(i + 1, n):
+            if is_prime(arr[i] + arr[j]):
+                count += 1
+    return count
+# Dữ liệu mẫu
+N = 5
+A = [1, 4, 3, 2, 5]
+X = 5
+
+print(f"1. Cặp liên tiếp tổng bằng {X}: {count_adjacent_sum(A, X)}")
+print(f"2. Cặp bất kỳ tổng bằng {X}: {count_any_pair_sum(A, X)}")
+print(f"3. Cặp có tổng là số nguyên tố: {count_prime_sum_pairs(A)}")
+
+My version:
+import math
+
+def is_prime(n):
+    if n < 2:
+        return False
+
+    for i in range(2, math.isqrt(n) + 1):
+        if n % i == 0:
+            return False
+
+    return True
+
+N = int(input("Enter range: "))
+X = int(input("Enter an integer: "))
+A = list(map(int, input("Enter a list number: ").split()))
+count1 = 0
+count2 = 0
+count3 = 0
+
+if len(A) > N:
+    print("You shouldn't reach over the range")
+elif N < 1 or N > 10**3:
+    print("Wrong range")
+else:
+    for i in range(len(A) - 1):
+        if A[i] + A[i + 1] == X:
+            count1 += 1
+    for i in range(len(A)):
+        for j in range(i + 1, len(A)):
+            if A[i] + A[j] == X:
+                count2 += 1
+    for i in range(len(A)):
+        for j in range(i + 1, len(A)):
+            if is_prime(A[i] + A[j]):
+                count3 += 1
+
+    print(count1, count2, count3)

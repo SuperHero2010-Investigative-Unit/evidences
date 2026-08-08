@@ -1,0 +1,94 @@
+Title: 20 hours blocked - You're repeating your fault
+
+Me: I can't believe that you're repeating your fault. What you did is same as past.
+
+You're blocking me for 20 hours. This is same exactly what you did in GPT-5 (11 - 30 hours blocked).
+
+I'm very angry. Please neft the limit. You're repeating your fault.
+
+Sincerely,
+SuperHero2010
+
+OpenAI Support: Case Number: 10759490
+
+Hi SuperHero2010 — I’m AI-assisted support.
+
+A “blocked for X hours” message is usually a usage-limit cooldown on the Free plan; when you hit the limit, access is paused until the reset time shown, and upgrading to Plus/Pro/Business resets your rates and gives higher limits. Please reply with the exact on-screen message (or a screenshot) and whether you’re using a VPN/proxy, since some blocks can also be triggered by traffic that looks automated/unusual.
+
+---
+This response was generated with AI support which can make mistakes. Your support conversation may be used to improve OpenAI services, including our models, if you have training enabled in Settings. Learn more: https://help.openai.com/articles/5722486-how-your-data-is-used-to-improve-model-performance.
+Sources:
+ChatGPT Free Tier FAQ: https://help.openai.com/articles/9275245?case_id=NTAwVlUwMDAwMTFjbURxWUFJ Troubleshooting ChatGPT Error Messages: https://help.openai.com/articles/7996703?case_id=NTAwVlUwMDAwMTFjbURxWUFJ
+
+# The AI explains things too generally, without carefully reading the messages at all.
+
+Me: YOU ARE MAKING ME ANGRY. YOU EXPLAIN INSTEAD OF LOOKING AT MY PROBLEM AND SEND TO OPENAI. PLEASE DO RIGHT NOW
+
+OpenAI Support: Case Number: 10759490
+
+Escalated to a support specialist; You can expect a response in the coming days. You can respond to this email with additional information if needed.
+
+---
+This response was generated with AI support which can make mistakes.
+
+Chloe: Case Number: 10759490
+
+Hello,
+
+Thank you for reaching out to OpenAI Support.
+
+After reviewing your account, I can confirm that you're currently using the Free plan. Free-tier users have limited access to GPT-5.5 within a rolling 5-hour window. These usage limits are dynamic and may vary based on factors such as system demand, market availability, abuse-prevention measures, and individual usage patterns.
+
+ChatGPT applies message limits based on your subscription tier. Once your usage limit has been reached, access is temporarily paused until your quota resets. We understand that these limits can sometimes feel unexpected, but we're not able to manually remove or adjust them, nor can we provide specific timelines or guarantees regarding when limits will reset.
+
+If you'd like higher usage limits and more consistent access to GPT-5.5, you may consider upgrading to one of our paid plans.
+
+Please also note that all usage must comply with our Terms of Use. OpenAI uses automated guardrails to help prevent misuse, and in some cases these systems may temporarily restrict access. If you believe a restriction was applied in error, you've already done the right thing by contacting Support. Based on our review, we don't see any indication that a manual restriction has been applied to your account.
+
+If you have any additional questions, please let us know.
+
+Best,
+Chloe
+OpenAI Support
+
+# Chloe doesn't understand my message
+
+Me: You are not reading carefully my reported issue. You are just explaining without confirming that 20 hours blocked is your repeated behavior. Please read and analyze again my reported issue earlier now
+
+Chloe: Case Number: 10759490
+
+Hello,
+
+After reviewing your account, I can confirm that we aren't able to determine or confirm a specific timeline for when GPT-5.5 access will be available again on your account. Usage limits and availability are dynamic and can vary based on factors such as system demand, your plan tier, and our abuse-prevention guardrails.
+
+Please note that some models have separate usage allowances, and all usage must comply with our Terms of Use. OpenAI also uses automated guardrails to help prevent misuse. In some cases, these guardrails may result in a temporary usage restriction. If a restriction is determined to have been applied in error, access will be restored following review.
+
+At this time, we're unable to manually remove or override these temporary limits, and we can't provide a specific timeframe for when GPT-5.5 access will reset or become available again.
+
+Best,
+Chloe
+OpenAI Support
+
+# Chloe still hasn't learned her lesson. He still doesn't understand. He still keeps trying to explain, still stubbornly persists
+
+Me: You're misunderstand. You read my email, then do other things that not related to my reported problem. You're just covering your limit. I exposed, but you refused. There's no way you can say you "aren't able to determine or confirm a specific timeline for when GPT-5.5 access will be available again on my account". You're just lying to me, you don't listen to me. Please neft the limit or I'll continue to expose
+
+Chloe: Case Number: 10759490
+
+Hello,
+
+Thank you for reaching out to OpenAI Support.
+
+After reviewing your account, we can confirm that we cannot determine or provide a timeline for when GPT-5.5 access will become available again. Model availability and usage limits are dynamic and are determined by factors including system demand, your subscription tier, and our automated abuse-prevention systems.
+
+Please note that certain models have separate usage allowances, and all usage is subject to our Terms of Use. In some cases, our automated guardrails may temporarily restrict access. If a restriction is determined to have been applied in error, access will be restored following review.
+
+At this time, we are unable to manually remove, override, or expedite these temporary restrictions, nor can we provide an estimated timeframe for when GPT-5.5 access will reset or become available again.
+
+We have shared all the information available regarding your request.
+
+Best,
+Chloe
+OpenAI Support
+
+# Lies beget lies. As the owner, and he dares say it can't be overwritten. He won't admit the limitations, hides them, doesn't understand. That's all he knows how to do. I give up
