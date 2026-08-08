@@ -82,19 +82,27 @@ This creates a situation where I bear risk for using the service, while Cognitio
 
 ---
 
-### 2.5. Class Action Waiver: NO CHANGE
+### 2.5. Dispute Resolution and Mandatory Arbitration: A Weak Shield for Systemic Deception
 
-| Aspect | April 2025 (Old) | June 2026 (New) |
-|--------|------------------|-----------------|
-| **Class Action Waiver** | I can't participate in class-action lawsuits. (Section 11) | I can't participate in class-action lawsuits. (Section 11.2) |
+**Text (Old - April 2025):** *"The parties will first try in good faith to settle any Dispute within 30 days... If the Dispute is not resolved within 30 days, it shall be resolved by binding arbitration."* (Section 11.1)
+
+**Text (New - June 2026):** *"IN THE EVENT A DISPUTE... THE DISPUTE WILL BE RESOLVED BY BINDING ARBITRATION RATHER THAN IN COURT."* (Section 11.1)
 
 **Analysis:**
-The class action waiver remains unchanged. I can't join with other users to sue Cognition collectively.
+- Both the old and new versions contain a mandatory arbitration clause and a class action waiver
+- However, this clause **isn't an absolute defense** for Devin. Courts are increasingly unwilling to enforce such waivers when there is strong evidence of **fraud, deceptive trade practices, or violations of public policy**
 
-**Relevance to My Experience:**
-This makes individual legal action impractical and reinforces the need for public documentation.
+**My Evidence Undermines This Clause:**
+The strength of my documented evidence against Devin (token-based traps, fake errors, deleted messages, account lockouts, and an admission that SWE-1.6 isn't free on the Free plan) suggests that Devin has engaged in **systemic deception**. This is precisely the kind of case where courts may allow class action lawsuits to proceed despite a waiver, as it serves the public interest.
 
-**Verdict: Effectively Blocks Collective Action**
+**The Threat to Devin:**
+If a class action lawsuit is certified, Devin could face significant penalties, including:
+- **Compensatory damages** for users who suffered losses
+- **Punitive damages** for intentional misconduct
+- **Injunctive relief** forcing changes to their policies (e.g., restoring message-based limits, clarifying data usage)
+- **Legal fees** and other costs
+
+**Verdict: The waiver is a defensive tactic, not a guarantee of immunity. My evidence could be the key to overcoming it**
 
 ---
 
