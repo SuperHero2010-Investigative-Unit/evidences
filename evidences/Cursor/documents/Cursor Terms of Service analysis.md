@@ -169,7 +169,7 @@ If a class action lawsuit is certified, Cursor could face significant penalties,
 
 ### Overall Assessment:
 
-> *"Cursor's Terms of Service is a well-crafted legal document designed to protect the company at the expense of user rights. It allows Cursor to enforce hidden limits, lock users out, and avoid liability — all while appearing compliant with standard practices."*
+> *"Cursor's Terms of Service is a well-crafted legal document designed to protect the company at the expense of user rights. It allows Cursor to enforce hidden limits, lock users out, and avoid liability, all while appearing compliant with standard practices."*
 
 ### Final Statement:
 
