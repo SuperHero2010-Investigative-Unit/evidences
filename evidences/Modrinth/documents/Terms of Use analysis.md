@@ -31,7 +31,7 @@ This analysis examines the relevant sections of Modrinth's Terms of Use in relat
 
 **Implication:**
 
-Modrinth can suspend accounts without evidence, without warning, and without justification. This is legal but creates a system where creators have no recourse.
+Modrinth can suspend accounts without evidence, without warning, and without justification. This is illegal because it creates a system where creators have no means to appeal (limited) or seek redress.
 
 ---
 
