@@ -191,7 +191,7 @@ If I had a legal claim, I would have to act quickly. However, I am not pursuing 
 |-------|----------|
 | Modrinth has the right to act unfairly | Yes, the Terms grant them broad discretion |
 | Modrinth is acting unfairly | Yes, my evidence proves this |
-| Modrinth broke their own promises | Yes, "We will discuss until solved" was followed by silence |
+| Modrinth broke their own promises | Yes, "Your project will remain Withheld until all moderation concerns are addressed" was followed by silence |
 | Modrinth invented rules | Yes, no versioning rule exists in Content Rules |
 | Modrinth misapplied rules | Yes, Rule 4 and Rule 5.7 were misapplied |
 

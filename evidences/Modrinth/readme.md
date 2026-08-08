@@ -18,7 +18,7 @@
 
 | # | Finding | Description |
 |---|---------|-------------|
-| 1 | Broken Promise | Modrinth stated: "Your project will remain Withheld until all moderation concerns are addressed". After that message, 5+ months of complete silence followed. |
+| 1 | Broken Promise | Modrinth stated: "Your project will remain Withheld until all moderation concerns are addressed". After that message, 9+ months of complete silence followed. |
 | 2 | Invented Rules | Modrinth cited policies that do not exist in their published guidelines (linear versioning requirement, forced project splitting, etc.). |
 | 3 | Bot-Driven Moderation | Detailed explanations from the investigator were met with identical copy-pasted responses, indicating an automated system, not human review. |
 | 4 | Disrespect Toward Creators | Logical arguments about datapacks vs. mods, user clarity, and CurseForge comparisons were completely ignored. |
