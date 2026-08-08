@@ -52,7 +52,7 @@ Modrinth can suspend accounts without evidence, without warning, and without jus
 
 **Implication:**
 
-Modrinth can reject projects without justification. This explains how my datapack was withheld for 5+ months without a valid explanation.
+Modrinth can reject projects without justification. This explains how my datapack was withheld for 9+ months without a valid explanation.
 
 ---
 
