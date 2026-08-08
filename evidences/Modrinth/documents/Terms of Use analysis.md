@@ -132,7 +132,7 @@ Modrinth's Limitation on Liability clause is a contractual shield, not an absolu
 | I am not filing a lawsuit | My goal is public documentation, not legal action |
 | The clause is a deterrent | It is designed to make users think they can't sue |
 | But it isn't absolute | Courts can and do reject such clauses in cases of bad faith |
-| My evidence documents bad faith | Broken promises, invented rules, and silence are evidence of unfair conduct |
+| My evidence documents bad faith | Unreasonable conditions, invented rules, and silence are evidence of unfair conduct |
 
 **My Verdict:**
 
@@ -168,7 +168,7 @@ If I had a legal claim, I would have to act quickly. However, I am not pursuing 
 | Rejecting my datapack (2025-2026) | Content Rules | No. Versioning rule was invented |
 | Withholding my datapack for 9+ months | Content Rules | No. No valid reason given |
 | Using automated responses | N/A | No. Not specified in Terms |
-| Breaking promise to withheld until all moderation concerns are addressed | N/A | No. Not specified in Terms |
+| Unreasonable condition (withheld until all moderation concerns are addressed) | N/A | No. Not specified in Terms |
 | Potential account suspension | Account Disablement | Maybe. They have the right, but not the justification |
 
 ---
@@ -191,13 +191,13 @@ If I had a legal claim, I would have to act quickly. However, I am not pursuing 
 |-------|----------|
 | Modrinth has the right to act unfairly | Yes, the Terms grant them broad discretion |
 | Modrinth is acting unfairly | Yes, my evidence proves this |
-| Modrinth broke their own promises | Yes, "Your project will remain Withheld until all moderation concerns are addressed" was followed by silence |
+| Modrinth created unreasonable conditions | Yes, "Your project will remain Withheld until all moderation concerns are addressed" was followed by silence |
 | Modrinth invented rules | Yes, no versioning rule exists in Content Rules |
 | Modrinth misapplied rules | Yes, Rule 4 and Rule 5.7 were misapplied |
 
 ### My Final Statement
 
-> *"Modrinth's Terms of Use grant them immense power. But power doesn't justify unfairness. My evidence shows that Modrinth has misapplied rules, invented rules, ignored creators, and broken promises. This isn't a legal argument. This is a public record of systemic failure."*
+> *"Modrinth's Terms of Use grant them immense power. But power doesn't justify unfairness. My evidence shows that Modrinth has misapplied rules, invented rules, ignored creators, and unreasonable conditions. This isn't a legal argument. This is a public record of systemic failure."*
 
 ---
 

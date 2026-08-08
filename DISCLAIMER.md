@@ -32,7 +32,7 @@ If any error or misrepresentation is found, please open an issue or contact the 
 
 ### 4. No Liability
 
-The SuperHero2010 Investigative Unit and its contributors are **not liable** for:
+The SuperHero2010 Investigative Unit and its contributors **aren't liable** for:
 - Any actions taken by users based on the content of this repository.
 - Any damages, losses, or consequences arising from the use of this information.
 - Any reliance on the accuracy or completeness of the evidence.
@@ -56,7 +56,7 @@ These are used for **criticism, comment, and investigative reporting** and are b
 
 ### 6. No Endorsement
 
-Mention of any company, product, service, or platform in this repository does **not** constitute endorsement. All findings represent the independent opinion of the SuperHero2010 Investigative Unit.
+Mention of any company, product, service, or platform in this repository **doesn't** constitute endorsement. All findings represent the independent opinion of the SuperHero2010 Investigative Unit.
 
 ---
 

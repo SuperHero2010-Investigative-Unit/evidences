@@ -55,13 +55,13 @@
 | "Free tier available" | 1 message then 31-day lockout | False |
 | "Transparent" | No meter, hidden dashboard | False |
 | "Listen to users" | Emails ignored, staff deflects | False |
-| "Build with AI" | 1 message is not enough to build anything | False |
+| "Build with AI" | 1 message isn't enough to build anything | False |
 
 ---
 
 ## Conclusion
 
-> *"Cursor is not a tool. It is a trap disguised as a tool, designed to tease free users, then lock them out for 31 days."*
+> *"Cursor isn't a tool. It is a trap disguised as a tool, designed to tease free users, then lock them out for 31 days."*
 
 ---
 

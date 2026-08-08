@@ -31,7 +31,7 @@ This analysis examines whether these rules were correctly applied and whether Mo
 | **Project** | Explosive Block [Cracker's Wither Storm Mod and Enderite Mod] |
 | **Issue** | My mod required MCreator Link as a dependency |
 | **Modrinth's Claim** | I was "reuploading" MCreator Link by including it as an additional file |
-| **My Position** | My mod required MCreator Link to function; I could not distribute it separately |
+| **My Position** | My mod required MCreator Link to function; I couldn't distribute it separately |
 
 ### Analysis
 
@@ -39,13 +39,13 @@ This analysis examines whether these rules were correctly applied and whether Mo
 |----------|--------|
 | Did I upload MCreator Link? | Yes (as an additional file) |
 | Did I claim ownership of MCreator Link? | No |
-| Did I have permission to distribute it? | Unclear. Modrinth did not investigate |
+| Did I have permission to distribute it? | Unclear. Modrinth didn't investigate |
 | Was this a "reupload" under Rule 4? | Ambiguous. I was distributing a dependency, not claiming it as my own |
 | Did Rule 4 specifically forbid this? | No. Rule 4 prohibits *claiming ownership* of others' work, not distributing dependencies |
 
 ### My Verdict
 
-**Rule 4 was misapplied.** Rule 4 exists to prevent copyright infringement and content theft. I was not claiming MCreator Link as my own work. I was distributing a required dependency. Modrinth's own policy (Rule 5.7) addresses this situation, but they cited Rule 4 instead. This is a category error.
+**Rule 4 was misapplied.** Rule 4 exists to prevent copyright infringement and content theft. I wasn't claiming MCreator Link as my own work. I was distributing a required dependency. Modrinth's own policy (Rule 5.7) addresses this situation, but they cited Rule 4 instead. This is a category error.
 
 ---
 
@@ -76,7 +76,7 @@ This analysis examines whether these rules were correctly applied and whether Mo
 
 ### My Verdict
 
-**Rule 5.7 was rigidly enforced with no flexibility.** The rule does not explicitly prohibit dependencies. Modrinth rejected my project multiple times instead of helping me find a solution. A more constructive approach would have been to guide me toward using the Dependencies section (Rule 5.6) instead of punishing me for using additional files.
+**Rule 5.7 was rigidly enforced with no flexibility.** The rule doesn't explicitly prohibit dependencies. Modrinth rejected my project multiple times instead of helping me find a solution. A more constructive approach would have been to guide me toward using the Dependencies section (Rule 5.6) instead of punishing me for using additional files.
 
 ---
 
@@ -103,7 +103,7 @@ This analysis examines whether these rules were correctly applied and whether Mo
 
 ### My Verdict
 
-**Modrinth invented a rule that does not exist.** The versioning policy they cited is not present in the Content Rules document. They created a requirement out of thin air and enforced it as if it were official policy. This is not a misinterpretation, it is a fabrication.
+**Modrinth invented a rule that doesn't exist.** The versioning policy they cited isn't present in the Content Rules document. They created a requirement out of thin air and enforced it as if it were official policy. This isn't a misinterpretation, it is a fabrication.
 
 ---
 
@@ -137,14 +137,14 @@ This analysis examines whether these rules were correctly applied and whether Mo
 | CurseForge accepted my mod (2024) | My mod structure was valid and acceptable |
 | Modrinth rejected my mod (2024) | Modrinth's rules were misapplied |
 | CurseForge accepted my datapack (2025-2026) | My datapack structure was valid and acceptable |
-| Modrinth withheld my datapack (2025-2026) | Modrinth invented a rule that does not exist |
-| Same projects, different outcomes | The issue is not my projects. The issue is Modrinth's moderation. |
+| Modrinth withheld my datapack (2025-2026) | Modrinth invented a rule that doesn't exist |
+| Same projects, different outcomes | The issue isn't my projects. The issue is Modrinth's moderation. |
 
 ---
 
 #### My Verdict
 
-> *"The same projects were accepted by CurseForge and rejected by Modrinth. This proves the issue is not my projects. The issue is Modrinth's moderation.*
+> *"The same projects were accepted by CurseForge and rejected by Modrinth. This proves the issue isn't my projects. The issue is Modrinth's moderation.*
 >
 > *Overwolf owns CurseForge. Overwolf is also connected to Modrinth. If Overwolf accepted what Modrinth rejected, Modrinth's decision is indefensible.*
 >
@@ -168,12 +168,12 @@ This analysis examines whether these rules were correctly applied and whether Mo
 |---------|----------|
 | Rule 4 was misapplied to a dependency distribution case | High |
 | Rule 5.7 was rigidly enforced with no constructive guidance | Medium |
-| A versioning rule was invented that does not exist in the Content Rules | High |
+| A versioning rule was invented that doesn't exist in the Content Rules | High |
 | Multiple projects were rejected based on unclear or invented rules | High |
 
 ### My Final Statement
 
-> *"Modrinth's moderation of my projects relied on misapplied rules, rigid enforcement without guidance, and at least one rule that does not exist in their published Content Rules. This pattern suggests systemic moderation failures, not isolated mistakes."*
+> *"Modrinth's moderation of my projects relied on misapplied rules, rigid enforcement without guidance, and at least one rule that doesn't exist in their published Content Rules. This pattern suggests systemic moderation failures, not isolated mistakes."*
 
 ---
 

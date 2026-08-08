@@ -63,11 +63,4 @@ Moderator (Sep 9, 2024): As has been explained before, this is a form of redistr
 
 Moderator changed the project's status from Under review to Listed (Sep 9, 2024)
 
-Rule 4 content:
-You must own or have the necessary licenses, rights, consents, and permissions to store, share, and distribute the Content that is uploaded under your Modrinth account.
-
-Content may not be directly reuploaded from another source without explicit permission from the original author. If explicit permission has been granted, or it is a license-abiding "fork", this restriction does not apply. We define "forks" as modified copies of a project which have diverged substantially from the original project.
-
-Rule 5.7 content: "Additional files" are only used for special designated purposes, such as source JAR files. In other words, separate versions and/or projects are used where appropriate instead of additional files.
-
 # Modrinth refused MCreator Link while my mod requested it. The rules only protect them, not the users

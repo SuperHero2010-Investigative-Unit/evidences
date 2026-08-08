@@ -54,7 +54,7 @@
 
 | Claim | Reality | Discrepancy |
 |-------|---------|-------------|
-| "Most advanced AI" | Cannot read files reliably | False |
+| "Most advanced AI" | Can't read files reliably | False |
 | "Helpful assistant" | Defensive, blames users | False |
 | "Accurate" | Fabricates evidence | False |
 
