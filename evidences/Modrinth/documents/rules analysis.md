@@ -112,7 +112,7 @@ This analysis examines whether these rules were correctly applied and whether Mo
 | Project | CurseForge (Overwolf) | Modrinth |
 |---------|-----------------------|----------|
 | **Mod (2024)** | Accepted with additional mods | Rejected (Rule 4 & 5.7) |
-| **Datapack (2025 - 2026)** | Accepted immediately | Withheld for 5+ months |
+| **Datapack (2025 - 2026)** | Accepted immediately | Withheld for 9+ months |
 
 ---
 
