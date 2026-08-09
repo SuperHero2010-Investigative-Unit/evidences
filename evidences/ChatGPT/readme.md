@@ -6,9 +6,9 @@
 
 | Aspect | Details |
 |--------|---------|
-| **Target** | OpenAI – ChatGPT |
+| **Target** | OpenAI − ChatGPT |
 | **Version** | 9 (GPT-4, GPT-4o, GPT-5, GPT-5.1, GPT-5.2, GPT-5.3, GPT-5.4, GPT-5.5, GPT-5.6, Ongoing) |
-| **Investigation Period** | October 2024 – July 24, 2026 |
+| **Investigation Period** | October 2024 − July 24, 2026 |
 | **Status** | Published |
 | **Charges** | Fraudulent AI, scams free and paid users |
 

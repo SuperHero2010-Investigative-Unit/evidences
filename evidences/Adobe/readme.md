@@ -8,7 +8,7 @@
 |--------|---------|
 | **Target** | Adobe Inc. |
 | **Version** | Any version |
-| **Investigation Period** | August 3, 2026 - August 9, 2026 |
+| **Investigation Period** | August 3, 2026 − August 9, 2026 |
 | **Status** | Published |
 | **Charges** | Deceptive pricing, unfair subscription terms, aggressive enforcement, user-hostile legal agreements, abandonment of users |
 

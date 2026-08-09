@@ -65,7 +65,7 @@ I consider this a significant risk for users. I believe Adobe is using a "loss l
 
 #### Broader Analysis: The Inconsistency is Intentional
 
-I now conclude that the "inconsistencies" you identified aren't mistakes; they are a calculated part of Adobe's business strategy. I see multiple clear tactics at play:
+I now conclude that the "inconsistencies" I identified aren't mistakes; they are a calculated part of Adobe's business strategy. I see multiple clear tactics at play:
 
 1.  **I See the "Decoy" Effect:** I believe the expensive, individual app prices (like $22.99 for just Photoshop) are designed to make the bundles (like the $19.99 Photography plan) appear to be a "great deal", even though the bundle includes multiple apps. In my view, the individual app price is intentionally inflated
 

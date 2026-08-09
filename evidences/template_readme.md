@@ -7,9 +7,9 @@
 
 | Aspect | Details |
 |--------|---------|
-| **Target** | [Company name] – [Product name] |
+| **Target** | [Company name] − [Product name] |
 | **Version** | [Enter your version, write "Any version" if issues aren't fixed] |
-| **Investigation Period** | [Start date] – [End date] |
+| **Investigation Period** | [Start date] − [End date] |
 | **Status** | [Published/Not Yet] |
 | **Charges** | [Brief summary of charges] |
 

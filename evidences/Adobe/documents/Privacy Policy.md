@@ -1,4 +1,4 @@
-# Adobe [Privacy Policy](https://www.adobe.com/vn_en/privacy/policy.html)
+# Adobe [Privacy Policy](https://www.adobe.com/vn_en/privacy/policy.html): Analysis
 
 - **Document:** Privacy Policy
 - **Company:** Adobe Inc.
@@ -28,9 +28,9 @@ Adobe collects an excessive amount of personal information, far beyond what is n
 
 **My Concern:** This violates the GDPR principle of data minimization (Article 5). Adobe doesn't need this much data to provide creative software.
 
-**Legal Violation:** Overcollection violates GDPR Article 5(1)(c) – data should be adequate, relevant, and limited to what is necessary.
+**Legal Violation:** Overcollection violates GDPR Article 5(1)(c): data should be adequate, relevant, and limited to what is necessary.
 
-### 2.2. Content Analytics – The Opt-Out Trap
+### 2.2. Content Analytics: The Opt-Out Trap
 
 Adobe states: *"Subject to your opt-out rights, we may perform analytics with Cloud Content to help us understand how our users are using our Services and Software."*
 
@@ -73,7 +73,7 @@ Adobe processes biometric identifiers (faceprints, voiceprints) when users use c
 
 **Legal Violation:** Processing biometric data without explicit consent violates GDPR Article 9 (special categories of data) and CCPA.
 
-### 2.7. Children's Data – COPPA Compliance Concerns
+### 2.7. Children's Data: COPPA Compliance Concerns
 
 Adobe collects student data under COPPA, but with limited transparency.
 
