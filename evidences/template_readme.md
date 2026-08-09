@@ -1,3 +1,4 @@
+<!-- This is the standard template. You can use this template or use it as reference, you can create your own readme.md but it must fit the organization -->
 # Case [number]: [Case name]
 
 ---
@@ -31,6 +32,12 @@
 | 1 | `filename.pdf` | PDF | [Description] |
 | 2 | `filename.txt` | Text | [Description] |
 | 3 | `filename.md` | Markdown | [Description] |
+
+---
+<!-- You should choose key findings or key errors documented -->
+## Key Findings
+
+<!-- Split to sections with "###" -->
 
 ---
 
