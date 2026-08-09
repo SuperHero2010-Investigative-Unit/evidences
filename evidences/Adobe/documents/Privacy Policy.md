@@ -107,6 +107,6 @@ This creates a powerful dynamic where Adobe has minimal responsibility and maxim
 
 ## 5. My Conclusion
 
-Adobe's Privacy Policy isn't a protection for users. It is a permission slip for Adobe. It allows overcollection, opt-out analytics, human review, cross-border transfers, excessive retention, and biometric processing—all without meaningful consent. This isn't privacy. This is exploitation.
+Adobe's Privacy Policy isn't a protection for users. It is a permission slip for Adobe. It allows overcollection, opt-out analytics, human review, cross-border transfers, excessive retention, and biometric processing, all without meaningful consent. This isn't privacy. This is exploitation.
 
 My analysis reveals a clear and consistent pattern: Adobe uses these legal documents (TOU & Privacy Policy) to create a user-hostile environment where they retain maximum control over user data, content, and accounts, while accepting minimal accountability or responsibility for their actions or the failures of their products. This is, in my view, a fundamental aspect of the Adobe ecosystem and a major source of the problems I have documented in the user reports.

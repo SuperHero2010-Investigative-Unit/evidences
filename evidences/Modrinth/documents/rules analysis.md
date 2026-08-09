@@ -9,7 +9,7 @@
 Modrinth cited specific rules during the moderation of my two projects:
 
 - **Rule 4 (Copyright and Reuploads)**: Cited for my mod project (2024) regarding MCreator Link
-- **Rule 5.7 (Miscellaneous — Additional Files)**: Cited for my mod project (2024) regarding additional files
+- **Rule 5.7 [Miscellaneous (Additional Files)]**: Cited for my mod project (2024) regarding additional files
 - **Uncited Rule (Versioning)**: Applied to my datapack project (2025-2026) despite no explicit rule existing
 
 This analysis examines whether these rules were correctly applied and whether Modrinth's demands were supported by their published policies.
