@@ -121,7 +121,7 @@ This document provides a clear, structured guide for reporting Modrinth's violat
 
 If multiple creators report similar issues, Overwolf is more likely to act.
 
-| If You Are Not the Only One | Action |
+| If You Aren't the Only One | Action |
 |-----------------------------|--------|
 | Coordinate with other reporters | Share evidence, compare experiences |
 | Submit separate reports | Each report strengthens the case |

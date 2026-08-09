@@ -233,4 +233,4 @@ For questions or to contribute:
 
 ---
 
-*This document is provided for informational purposes and does not constitute legal advice. Consult a qualified attorney for legal guidance.*
+*This document is provided for informational purposes and doesn't constitute legal advice. Consult a qualified attorney for legal guidance.*

@@ -31,11 +31,11 @@ The cancellation terms are where I identify the most significant financial trap:
 
 ### 2.3. The 14-Day Refund Window
 
-While there is a 14-day refund window, I find it to be a short period. Combined with the automatic renewal terms, I consider this a system designed to extract money from users who forget to cancel or are not fully satisfied with the product.
+While there is a 14-day refund window, I find it to be a short period. Combined with the automatic renewal terms, I consider this a system designed to extract money from users who forget to cancel or aren't fully satisfied with the product.
 
 ### 2.4. Generative AI Credits
 
-The terms introduce **"generative credits"** for AI features, which expire each month and do not roll over.
+The terms introduce **"generative credits"** for AI features, which expire each month and don't roll over.
 
 **My Concern:** I see this as a potential future trap. It introduces a new, metered resource that could become a significant additional cost. If AI features become essential to my workflow, I will be forced to manage and potentially purchase these credits, adding another layer of expense and complexity. This is reminiscent of the "hidden limits" I have documented in AI chatbots.
 
@@ -43,7 +43,7 @@ The terms introduce **"generative credits"** for AI features, which expire each 
 
 If a payment method fails, Adobe may **suspend my subscription**. During this time, I may lose access to features and functionality.
 
-**My Concern:** This is a standard practice, but I view it as a source of significant risk. A simple payment error could lead to a disruption of my work, and regaining access is not instantaneous.
+**My Concern:** This is a standard practice, but I view it as a source of significant risk. A simple payment error could lead to a disruption of my work, and regaining access isn't instantaneous.
 
 ### 2.6. Academic Eligibility Verification
 
@@ -62,7 +62,7 @@ I now see the Subscription Terms as the final piece of a comprehensive business 
 - **Scam Ecosystem (Article 2):** Thrives on the demand created by high prices
 - **Subscription Traps (This Document):** Creates a financial lock-in, making it expensive and difficult for users to leave
 
-I conclude that this document is not a neutral contract but a strategically designed financial instrument. The combination of automatic renewal and a 50% early termination fee is, in my view, a clear and intentional barrier to prevent users from canceling. The "generative credits" introduce a new, metered cost that I expect to become more significant over time.
+I conclude that this document isn't a neutral contract but a strategically designed financial instrument. The combination of automatic renewal and a 50% early termination fee is, in my view, a clear and intentional barrier to prevent users from canceling. The "generative credits" introduce a new, metered cost that I expect to become more significant over time.
 
 ---
 

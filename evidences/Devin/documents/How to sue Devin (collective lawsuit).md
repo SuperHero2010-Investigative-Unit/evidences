@@ -38,8 +38,8 @@ Devin (Cognition AI, Inc.) has been documented engaging in systematic deceptive 
 **Violation:** Devin has engaged in deceptive practices, including fake errors ("High demand", "Model provider unreachable"), deleted messages, and account lockouts.
 
 **Evidence:**
-- Screenshots of "High demand" and "Model provider unreachable" errors.
-- Deleted messages requiring users to retype.
+- Screenshots of "High demand" and "Model provider unreachable" errors *(if user has them)*.
+- Deleted messages requiring users to retype *(if user has recorded)*.
 - "No eligible accounts found", auto-logout, no explanation.
 
 **Legal Basis:**
@@ -50,7 +50,7 @@ Devin (Cognition AI, Inc.) has been documented engaging in systematic deceptive 
 
 ### 2.3. Breach of Good Faith and Fair Dealing
 
-**Violation:** Devin has changed its policies (credit-based → token-based) without adequate notice, undermining user trust.
+**Violation:** Devin has changed its policies (credit-based/message-based → token-based) without adequate notice, undermining user trust.
 
 **Evidence:**
 - TOS comparison showing changes from April 2025 to June 2026.
@@ -68,7 +68,7 @@ Devin (Cognition AI, Inc.) has been documented engaging in systematic deceptive 
 **Violation:** Devin's new TOS allows automatic use of free users' data for model training without opt-out.
 
 **Evidence:**
-- TOS comparison: free users cannot opt out of data training (June 2026 TOS).
+- TOS comparison: free users can't opt out of data training (June 2026 TOS).
 - Lack of clear opt-out instructions.
 
 **Legal Basis:**
@@ -97,7 +97,7 @@ Devin (Cognition AI, Inc.) has been documented engaging in systematic deceptive 
 
 **Evidence:**
 - Chat logs showing user frustration.
-- Video recordings of users being blocked.
+- Video recordings of users being blocked *(if user has recorded)*.
 - Email silence after complaints.
 
 **Legal Basis:** Tort law, intentional infliction of emotional distress.
@@ -232,7 +232,7 @@ devin_collective_lawsuit/
 
 ## 5. Resources
 
-- **Evidence Repository:** [Link to SuperHero2010 Investigative Unit evidences]
+- **Evidence Repository:** https://github.com/SuperHero2010-Investigative-Unit/evidences
 - **TOS Analysis:** `Devin Terms of Service analysis (Old vs New).md`
 - **Sample Complaint:** *(Can be drafted based on this document)*
 
@@ -247,4 +247,4 @@ For questions or to contribute:
 
 ---
 
-*This document is provided for informational purposes and does not constitute legal advice. Consult a qualified attorney for legal guidance.*
+*This document is provided for informational purposes and doesn't constitute legal advice. Consult a qualified attorney for legal guidance.*

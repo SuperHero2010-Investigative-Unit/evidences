@@ -88,7 +88,7 @@ This analysis examines whether these rules were correctly applied and whether Mo
 |--------|---------|
 | **Project** | Player boss bar |
 | **My Structure** | Two versions: `v0.1 - Singleplayer` and `v0.2 - Multiplayer` |
-| **Modrinth's Claim** | Versions must be "strictly a linear upgrade" and cannot be split by environment |
+| **Modrinth's Claim** | Versions must be "strictly a linear upgrade" and can't be split by environment |
 | **My Position** | Clear labels help users choose the correct version for their world |
 
 ### Analysis

@@ -111,7 +111,7 @@ I see a clear and deliberate system:
 
 ### 4. My Conclusion
 
-**I conclude that the Adobe pricing structure, as reflected in the plans I have listed, is intentionally designed to be overwhelming, confusing, and financially burdensome.** This is not a neutral price list; it is a tool of profit maximization that I believe exploits users' confusion and need for creative tools.
+**I conclude that the Adobe pricing structure, as reflected in the plans I have listed, is intentionally designed to be overwhelming, confusing, and financially burdensome.** This isn't a neutral price list; it is a tool of profit maximization that I believe exploits users' confusion and need for creative tools.
 
 The "overwhelming, chaotic, inconsistent naming and prices" and "too expensive and heavy" characteristics I observed are, in my view, the result of a deliberate strategy to force users into expensive, locked-in subscriptions and to generate massive revenue. This is the foundation upon which the entire problematic ecosystem I have documented is built.
 
