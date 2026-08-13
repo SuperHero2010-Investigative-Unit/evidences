@@ -5,11 +5,11 @@
 
 # Template evidence structure
 ```markdown
-evidences/
+evidences/evidences/
 │
-└── [company_name]/ *(Your target company/organization/foundation name)*
-    ├── readme.txt *(Your evidence info, suport any format)*
+└── [product_name]/ *(Your target product/company/organization/foundation name)*
+    ├── readme.md *(Your evidence info, support any format)*
     ├── documents/ *(Evidence type: document, support any format)*
     ├── images/ *(Evidence type: image, support any extension)*
-    └── videos/ *(Evidence type: video)*
+    └── videos/ *(Evidence type: video, support any format)*
 ```

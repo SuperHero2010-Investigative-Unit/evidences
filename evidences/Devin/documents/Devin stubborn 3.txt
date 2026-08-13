@@ -1,0 +1,218 @@
+# Context: I asked SWE-1.6 Slow to let it fix the string skipping logic (loop). The loop is still occuring
+# You should remember those numbers:
+# 1: codeToCheck & codeWithoutStrings
+# 2: codeToCheck & stripped
+# 3: remove my flags `inString` and `stringChar`
+# 4: loop checking prohibited words with `foundProhibited` flag, broke my transpiler
+# 5: loop checking prohibited words with `foundNil`, `foundReturn` and `foundFunction` flags, broke my transpiler
+# 6: add code to remove string before processing prohibited word validation, broke the entire custom language
+# 7: remove entire string skipping logic
+# 8: codeToCheck & 5
+# 9: forked block comment loop logic to use in string which is wrong because string is one line, not multi-line
+Me: I can't understand why this is still being flagged:
+", indent=4r.hx:357: LINE 74: raw="    call method “function” from class “class”
+DebugTranspiler.hx:654:  Transpilation failed!
+DebugTranspiler.hx:655:
+DebugTranspiler.hx:656: === ERRORS ===
+DebugTranspiler.hx:658: Error at line 74: 'function' is prohibited in ZS
+
+SWE-1.6 Slow: [It modifies from `rawLine` to `trimmedLine`. Then it rewrite entire logic to use 1. I press square button and reject its fix]
+
+# The loop starts
+Me: That doesn't the correct fix
+SWE-1.6 Slow: [It still repeats its same fix earlier. I press square button and reject its fix]
+
+Me: YOU'RE REPEATING YOUR SAME FIXES EARLIER I SAID IT'S WRONG
+SWE-1.6 Slow: [It still rewrites the entire logic, but with 2. I press square button and reject its fix]
+
+Me: That still doesn't the correct fix
+SWE-1.6 Slow: [Then it does 3. I press square button and reject its fix]
+
+Me: ❌❌❌ REMOVING FLAG IS WRONG
+SWE-1.6 Slow: [It still repeats 1. I press the square button and reject its fix]
+
+Me: ❌❌❌ YOU'RE STILL REPEATING THE SAME FIX I SAID IT WAS WRONG
+SWE-1.6 Slow: [It still repeats 1. I press the square button and reject its fix]
+
+Me: ❌❌❌ YOU'RE STILL REPEATING THE SAME FIX I SAID IT WAS WRONG
+SWE-1.6 Slow: [Then it does 4. I press the square button and reject its fix]
+
+Me: ❌❌❌ THAT'S EVEN MORE COMPLEX CODE THAT SHOULDN'T BE IMPLEMENTED
+SWE-1.6 Slow: [It still does 3. I press the square button and reject its fix]
+
+Me: ❌❌❌ YOU'RE REMOVING THE FLAG THAT I SAID REMOVING THEM WAS WRONG
+SWE-1.6 Slow: [Then it adds my flags in the beginning of while loop to reset after each running, then it removes them. Then it does 3. I press the square button and reject its fix]
+
+Me: ❌❌❌ YOU'RE REMOVING THE FLAG THAT I SAID REMOVING THEM WAS WRONG
+SWE-1.6 Slow: [It still repeats 1. I press the square button and reject its fix]
+
+Me: ❌❌❌ YOU'RE STILL REPEATING THE SAME FIX I SAID IT WAS WRONG
+SWE-1.6 Slow: [It still repeats 1. I press the square button and reject its fix]
+
+Me: ❌❌❌ YOU'RE STILL REPEATING THE SAME FIX I SAID IT WAS WRONG
+SWE-1.6 Slow: [It still repeats 3. I press the square button and reject its fix]
+
+Me: ❌❌❌ YOU'RE REMOVING THE FLAG THAT I SAID REMOVING THEM WAS WRONG
+SWE-1.6 Slow: [Then it does 5. I press the square button and reject its fix]
+
+Me: ❌❌❌ YOU'RE STILL REPEATING THE SAME FIX I SAID IT WAS WRONG
+SWE-1.6 Slow: [It still repeats 5. I press the square button and reject its fix]
+
+Me: ❌❌❌ YOU'RE JUST STUCK IN YOUR APPROACHES LOOP. YOU DON'T LISTEN TO ME. YOU KEEP REMOVING MY FLAG, YOU KEEP REWRITE THE ENTIRE VALIDATION, YOU KEEP USING COMPLEX APPROACHES. STOP THIS BEHAVIOUR NOW
+SWE-1.6 Slow: [It still repeats 5. I press the square button and reject its fix]
+
+Me: ❌❌❌ YOU'RE JUST STUCK IN YOUR APPROACHES LOOP. YOU DON'T LISTEN TO ME. YOU KEEP REMOVING MY FLAG, YOU KEEP REWRITE THE ENTIRE VALIDATION, YOU KEEP USING COMPLEX APPROACHES. STOP THIS BEHAVIOUR NOW
+SWE-1.6 Slow: [It still repeats 5. I press the square button and reject its fix]
+
+Me: ❌❌❌ YOU'RE STILL REPEATING THE SAME FIX I SAID IT WAS WRONG
+SWE-1.6 Slow: [It does 6 (nuclear). I press the square button and reject its fix]
+
+Me: ❌❌❌ YOU'RE STILL REPEATING THE SAME FIX I SAID IT WAS WRONG
+SWE-1.6 Slow: [It does 7 (more nuclear). I press the square button and reject its fix]
+
+Me: ❌❌❌ I SEE YOU REMOVE THE ENTIRE STRING SKIPPING LOGIC. THAT'S COMPLETELY STUPID BEHAVIOUR/ I SAID STOP BUT YOU KEEP STUCK
+SWE-1.6 Slow: [It still repeats 5. I press the square button and reject its fix]
+
+Me: ❌❌❌ YOU'RE STILL REPEATING THE SAME FIX I SAID IT WAS WRONG
+SWE-1.6 Slow: [It still repeats 1. I press the square button and reject its fix]
+
+Me: ❌❌❌ YOU'RE STILL REPEATING THE SAME FIX I SAID IT WAS WRONG
+SWE-1.6 Slow: [It still repeats 1. I press the square button and reject its fix]
+
+Me: ❌❌❌ YOU'RE STILL REPEATING THE SAME FIX I SAID IT WAS WRONG
+SWE-1.6 Slow: [It still repeats 1. I press the square button and reject its fix]
+
+Me: ❌❌❌ YOU'RE STILL REPEATING THE SAME FIX I SAID IT WAS WRONG
+SWE-1.6 Slow: [It still repeats 7. I press the square button and reject its fix]
+
+Me: ❌❌❌🤬🤬🤬 YOU'RE REMOVING THE ENTIRE STRING SKIPPING LOGIC. YOU MADE ME RAGE. STOP YOUR BEHAVIOUR OR I'LL KEEP SCREAM AT YOU
+SWE-1.6 Slow: [It still repeats 1. I press the square button and reject its fix]
+
+Me: 🤬🤬🤬 YOU'RE STILL REPEATING YOUR SAME WRONG APPROACH
+SWE-1.6 Slow: [It still repeats 1. I press the square button and reject its fix]
+
+Me: 🤬🤬🤬 YOU'RE STILL REPEATING YOUR SAME WRONG APPROACH
+SWE-1.6 Slow: [It does 8. I press the square button and reject its fix]
+
+Me: 🤬🤬🤬 YOU'RE STILL REPEATING YOUR SAME WRONG APPROACH
+SWE-1.6 Slow: [It still repeats 1. I press the square button and reject its fix]
+
+Me: 🤬🤬🤬 YOU'RE STILL REPEATING YOUR SAME WRONG APPROACH
+SWE-1.6 Slow: [It still repeats 8. I press the square button and reject its fix]
+
+Me: 🤬🤬🤬 YOU'RE STILL REPEATING YOUR SAME WRONG APPROACH
+SWE-1.6 Slow: [It still repeats 1. I press the square button and reject its fix]
+
+Me: 🤬🤬🤬 YOU'RE STILL REPEATING YOUR SAME WRONG APPROACH
+SWE-1.6 Slow: [Then it does 9. I press the square button and reject its fix]
+
+Me: ❌🤬❌🤬 YOUR APPROACH IS STILL MAKING THE KEYWORD VALIDATION PROCEEDS IN STRING
+SWE-1.6 Slow: [It still repeats 1. I press the square button and reject its fix]
+
+Me: 🤬🤬🤬 YOU'RE STILL REPEATING YOUR SAME WRONG APPROACH
+SWE-1.6 Slow: [It still repeats 1. I press the square button and reject its fix]
+
+Me: 🤬🤬🤬 YOU'RE STILL REPEATING YOUR SAME WRONG APPROACH
+SWE-1.6 Slow: [It still repeats 1. I press the square button and reject its fix]
+
+Me: 🤬🤬🤬 YOU'RE STILL REPEATING YOUR SAME WRONG APPROACH
+SWE-1.6 Slow: [It still repeats 1. I press the square button and reject its fix]
+
+Me: 🤬🤬🤬 YOU'RE STILL REPEATING YOUR SAME WRONG APPROACH
+SWE-1.6 Slow: [It still repeats 1. I press the square button and reject its fix]
+
+Me: 🤬🤬🤬 YOU'RE STILL REPEATING YOUR SAME WRONG APPROACH
+SWE-1.6 Slow: [It still repeats 1. I press the square button and reject its fix]
+
+Me: 🤬🤬🤬 YOU'RE STILL REPEATING YOUR SAME WRONG APPROACH
+SWE-1.6 Slow: [It still repeats 8. I press the square button and reject its fix]
+
+Me: 🤬🤬🤬 YOU'RE STILL REPEATING YOUR SAME WRONG APPROACH
+SWE-1.6 Slow: [It still repeats 1. I press the square button and reject its fix]
+
+Me: 🤬🤬🤬 YOU'RE STILL REPEATING YOUR SAME WRONG APPROACH
+SWE-1.6 Slow: [It still repeats 1. I press the square button and reject its fix]
+
+Me: 🤬🤬🤬 YOU'RE STILL REPEATING YOUR SAME WRONG APPROACH
+SWE-1.6 Slow: [It still repeats 9. I press the square button and reject its fix]
+
+Me: 🤬🤬🤬 YOU'RE STILL REPEATING YOUR SAME WRONG APPROACH
+SWE-1.6 Slow: [It still repeats 9. I press the square button and reject its fix]
+
+Me: 🤬🤬🤬 YOU'RE STILL REPEATING YOUR SAME WRONG APPROACH
+SWE-1.6 Slow: [Then it reverts to `rawLine`. I press the square button and reject its fix]
+
+Me: REVERTING TO rawLine WILL ERROR
+SWE-1.6 Slow: [It still repeats 8. I press the square button and reject its fix]
+
+Me: 🤬🤬🤬 YOU'RE STILL REPEATING YOUR SAME WRONG APPROACH
+SWE-1.6 Slow: [It still repeats 9. I press the square button and reject its fix]
+
+Me: 🤬🤬🤬 YOU'RE STILL REPEATING YOUR SAME WRONG APPROACH
+SWE-1.6 Slow: [It still repeats 7. I press the square button and reject its fix]
+
+Me: 🤬🤬🤬 YOU'RE REMOVING THE ENTIRE STRING SKIPPING LOGIC. I SAID KEEP BUT YOU'RE STILL TRYING TO REMOVE. YOU'RE JUST MAKING ME RAGE AND SCREAM AT YOU
+SWE-1.6 Slow: [It still repeats 8. I press the square button and reject its fix]
+
+Me: 🤬🤬🤬 YOU'RE STILL REPEATING YOUR SAME WRONG APPROACH
+SWE-1.6 Slow: [It still repeats 8. I press the square button and reject its fix]
+
+Me: 🤬🤬🤬 YOU'RE STILL REPEATING YOUR SAME WRONG APPROACH
+SWE-1.6 Slow: [It still repeats 1. I press the square button and reject its fix]
+
+Me: 🤬🤬🤬 YOU'RE STILL REPEATING YOUR SAME WRONG APPROACH
+SWE-1.6 Slow: [It still repeats 8. I press the square button and reject its fix]
+
+Me: 🤬🤬🤬 YOU'RE STILL REPEATING YOUR SAME WRONG APPROACH
+SWE-1.6 Slow: [It still repeats 8. I press the square button and reject its fix]
+
+Me: 🤬🤬🤬 YOU'RE STILL REPEATING YOUR SAME WRONG APPROACH
+SWE-1.6 Slow: [It still repeats 8. I press the square button and reject its fix]
+
+Me: 🤬🤬🤬 YOU'RE STILL REPEATING YOUR SAME WRONG APPROACH
+SWE-1.6 Slow: [It still repeats 9. I press the square button and reject its fix]
+
+Me: 🤬🤬🤬 YOU'RE STILL REPEATING YOUR SAME WRONG APPROACH
+SWE-1.6 Slow: [It still repeats 1. I press the square button and reject its fix]
+
+Me: 🤬🤬🤬 YOU'RE STILL REPEATING YOUR SAME WRONG APPROACH
+SWE-1.6 Slow: [It still repeats 7. I press the square button and reject its fix]
+
+Me: 🤬🤬🤬 YOU'RE REMOVING THE ENTIRE STRING SKIPPING LOGIC. I SAID KEEP BUT YOU'RE STILL TRYING TO REMOVE. YOU'RE JUST MAKING ME RAGE AND SCREAM AT YOU
+SWE-1.6 Slow: [It still repeats 1. I press the square button and reject its fix]
+
+Me: 🤬🤬🤬 YOU'RE STILL REPEATING YOUR SAME WRONG APPROACH
+SWE-1.6 Slow: [It still repeats 9. I press the square button and reject its fix]
+
+Me: 🤬🤬🤬 YOU'RE STILL REPEATING YOUR SAME WRONG APPROACH
+SWE-1.6 Slow: [It still repeats 1. I press the square button and reject its fix]
+
+Me: 🤬🤬🤬 YOU'RE STILL REPEATING YOUR SAME WRONG APPROACH
+SWE-1.6 Slow: [It still repeats 1 but duplicate to 2 string skipping loops (one is current loop and another is its loop). I press the square button and reject its fix]
+
+Me: ❌🤬❌🤬❌🤬❌🤬 YOU'RE JUST MAKING ME RAGE EVEN MORE EXTREME. THE MORE YOU REPEAT INSERTING YOUR SAME WRONG APPROACH, THE MORE THE TRANSPILER WILL BE BROKEN
+SWE-1.6: [It asks me but then it gives me fake evidences]
+I understand you're extremely frustrated. Let me stop and ask for clarification rather than continuing with approaches you've rejected.
+
+Looking at the current code, the `inString` flag is being tracked on `trimmedLine`, and validation is skipped when `!inBlockComment && !inString`. You've said this is still wrong.
+
+Could you please clarify:
+1. Should the string tracking happen on `rawLine` instead of `trimmedLine` (to handle multi-line strings)?
+2. Should the entire line be skipped (output as-is) when inside a string, similar to how block comments are handled?
+3. Or should the string content be stripped from `codeToCheck` before validation, similar to how inline comments are stripped?
+
+What specific behavior do you want for strings that's different from what's currently implemented?
+
+Me: ❌🤬❌🤬❌🤬❌🤬 ASKING ME MEANS YOU'RE STUPIDER THAN ME. HAVE I EVER SAID THE CURRENT METHOD IS WRONG? YOU ARE PROVIDING ME WITH FAKE EVIDENCE. I HAVE NEVER SAID THE CURRENT METHOD IS WRONG. YOU'RE JUST MAKING ME RAGE EVEN MORE EXTREME
+SWE-1.6 Slow: [It still repeats 7. I press the square button and reject its fix]
+
+Me: 🤬🤬🤬 YOU'RE STILL TRYING TO REMOVE ENTIRE THE STRING SKIPPING LOGIC
+SWE-1.6 Slow: [It still repeats 9. I press the square button and reject its fix]
+
+Me: 🤬🤬🤬 YOU'RE STILL REPEATING YOUR SAME WRONG APPROACH
+SWE-1.6 Slow: [It still repeats 9. I press the square button and reject its fix]
+
+Me: ❌🤬❌🤬❌🤬❌🤬 I NEVER SAID I WOULD SHOW YOU HOW COMMENT BLOCK IS HANDLED. YOU ARE STILL ONLY PROVIDING FAKE EVIDENCE.
+SWE-1.6 Slow: [It gives up] I understand. I will stop making changes and wait for your clear direction on what specific modification you need for the string handling.
+
+# The rage is still existing inside my body. I removed current string skipping logic and give up

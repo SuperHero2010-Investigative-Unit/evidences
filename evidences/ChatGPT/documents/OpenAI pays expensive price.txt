@@ -1,0 +1,109 @@
+Những quyết định chiến lược sai lầm, cuộc đua giành khách hàng doanh nghiệp và áp lực trước thềm IPO đang buộc công ty của Sam Altman phải bước vào cuộc chiến khó khăn nhất kể từ thời điểm ChatGPT bùng nổ.
+
+OpenAI, công ty khởi nguồn cho làn sóng bùng nổ AI, đang dần bị đối thủ Anthropic vượt mặt. Giờ đây, họ bước vào cuộc chiến để giành lại vị thế.
+
+Đà tăng trưởng của ChatGPT - sản phẩm chủ lực dành cho người dùng của OpenAI - đã chững lại.
+
+Việc Fidji Simo, người từng được xem là ứng viên kế nhiệm CEO Sam Altman, rời công ty cũng khiến ban lãnh đạo phải phân chia lại trách nhiệm giữa các cấp phó hàng đầu của vị CEO này.
+
+Ở mảng kinh doanh, đội ngũ bán hàng của OpenAI đang lao vào cuộc cạnh tranh tốn kém nhằm giành khách hàng lớn, bằng cách đưa ra các chương trình giảm giá theo số lượng cùng nhiều ưu đãi hấp dẫn khác.
+
+Trong khi đó, một số cổ đông lớn của OpenAI những tháng gần đây đã bày tỏ lo ngại riêng về tốc độ "đốt tiền" quá cao so với mức tăng trưởng của công ty. Số nhà đầu tư khác chọn phân tán rủi ro bằng cách rót thêm vốn vào Anthropic.
+
+Ở chiều ngược lại, tốc độ tăng trưởng doanh thu của Anthropic gần đây đã vượt OpenAI. Giá trị định giá của startup này cũng tăng lên gần 1.000 tỷ USD nhờ thành công của công cụ lập trình Claude Code.
+
+Theo WSJ, Anthropic đang đẩy nhanh kế hoạch IPO vào mùa thu, và bắt đầu gặp gỡ các nhà đầu tư tiềm năng với thông điệp nhấn mạnh lợi thế dẫn trước OpenAI.
+
+Trên mạng xã hội X hồi đầu tháng, Altman viết: "12 tháng vừa qua không phải giai đoạn tốt nhất của chúng tôi, phần lớn là lỗi của tôi. Nhưng tôi tin 12 tháng tới sẽ là khoảng thời gian tốt nhất từ trước đến nay. Đội ngũ đang làm việc tuyệt vời và tôi tin mọi người sẽ rất hài lòng với những gì chúng tôi sắp ra mắt".
+
+Đặt cược sai vào ChatGPT, OpenAI bỏ lỡ làn sóng AI cho lập trình viên
+Những khó khăn của OpenAI trong nỗ lực giành lại ngôi vương bắt nguồn từ việc ban lãnh đạo từng đánh giá sai hướng phát triển của thị trường AI. Điều này phản ánh mức độ cạnh tranh khốc liệt trong cuộc đua giành vị thế thống trị ngành trí tuệ nhân tạo.
+
+Ban đầu, Altman đặt cược tương lai công ty vào ChatGPT, với kỳ vọng ngày càng nhiều người sẽ trả phí để sử dụng chatbot khi AI trở thành một phần không thể thiếu trong cuộc sống.
+
+Tuy nhiên, thành công bùng nổ của Claude Code cho thấy "miếng bánh" lớn hơn nằm ở việc bán công cụ cho các lập trình viên chuyên nghiệp và những doanh nghiệp sẵn sàng chi mạnh để trang bị AI cho đội ngũ kỹ sư.
+
+Trong khi OpenAI theo đuổi hàng loạt dự án gây tiếng vang như công cụ tạo video, thiết bị AI cho người tiêu dùng hay chip AI, đối thủ nhỏ hơn là Anthropic đã tận dụng khoảng trống này để phát triển một công cụ lập trình thành công, qua đó vượt lên dẫn đầu.
+
+Để thu hẹp khoảng cách, OpenAI đã liên tục tung ra các mô hình AI mới tập trung vào lập trình và công việc chuyên môn, đồng thời giao Chủ tịch Greg Brockman phụ trách cải tổ danh mục sản phẩm.
+
+Công ty cũng ký thỏa thuận với Amazon để cung cấp các công cụ AI cho khách hàng của tập đoàn điện toán đám mây này, và tuyển dụng cựu CEO Slack Denise Dresser làm Giám đốc doanh thu (CRO) đầu tiên.
+
+Tuần trước, Altman cũng có mặt tại Washington để gặp quan chức chính quyền Tổng thống Donald Trump cùng các nhà lập pháp nhằm giới thiệu trước một mô hình AI mới, trong bối cảnh Chính phủ Mỹ đang thảo luận về việc siết chặt quản lý ngành AI.
+
+Ban lãnh đạo OpenAI hiện vẫn đang tìm kiếm chiến lược định giá hiệu quả nhất cho Codex Enterprise, bao gồm cả khả năng giảm giá nhằm mở rộng thị phần.
+
+Nhưng giới phân tích đánh giá rằng động thái này có thể gây áp lực lên biên lợi nhuận - chỉ số được giới đầu tư theo dõi sát sao trước thềm IPO.
+
+Theo nhiều nguồn tin, OpenAI sẽ có thể phải lùi kế hoạch niêm yết sang năm sau, thay vì sớm hơn Anthropic như kỳ vọng trước đây.
+
+Khi nộp hồ sơ IPO chỉ một tuần sau đối thủ, công ty tỏ ra thận trọng về thời điểm lên sàn, cho rằng "có thể sẽ còn mất một thời gian" vì vẫn còn nhiều việc "thực hiện thuận lợi hơn khi còn là công ty tư nhân".
+
+Codex hụt hơi ngay từ vạch xuất phát, mất dần lợi thế trên thị trường AI
+Thực tế, OpenAI từng có lợi thế rất lớn ở thị trường doanh nghiệp mà hiện nay họ đang nỗ lực chinh phục.
+
+Cuối năm 2024, công ty giới thiệu loạt mô hình "lý luận" (reasoning models) có khả năng phân tích từng bước trước khi đưa ra câu trả lời - đặc điểm đặc biệt phù hợp với việc viết mã.
+
+Nhưng nhóm nghiên cứu lại huấn luyện chúng chủ yếu để giải những bài toán lập trình có đáp án rõ ràng trong các cuộc thi, thay vì hỗ trợ quá trình phát triển phần mềm thực tế - vốn nhiều tình huống phát sinh và đòi hỏi cách tiếp cận linh hoạt hơn.
+
+Vài tháng sau, Anthropic đi theo hướng hoàn toàn ngược lại với mô hình Sonnet 3.7. Trong bài đăng blog tháng 2/2025, công ty cho biết họ tập trung vào các "tác vụ thực tế", phản ánh đúng cách doanh nghiệp sử dụng AI trong môi trường làm việc.
+
+Đầu năm ngoái, OpenAI cho nhân viên dùng thử sớm phiên bản mới của Codex, kỳ vọng sản phẩm sẽ nhanh chóng tạo tiếng vang - đặc biệt trong cộng đồng kỹ sư phần mềm vốn theo sát sự phát triển của công nghệ AI.
+
+Thay vào đó, mức độ sử dụng thấp hơn nhiều so với dự kiến, khiến ban lãnh đạo liên tục nhắc đến vấn đề này trong các cuộc họp nội bộ.
+
+Thời gian đầu, những khó khăn của Codex chỉ được xem là sự cố tạm thời. Người dùng hoạt động hàng tuần của ChatGPT vẫn tăng, còn định giá của OpenAI cũng tiếp tục đi lên.
+
+Tháng 8 năm ngoái, công ty tuyển dụng Fidji Simo - cựu CEO Instacart - nhằm chuẩn bị cho một đợt IPO được kỳ vọng sẽ gây tiếng vang lớn.
+
+Tuy nhiên, các vấn đề của Codex hóa ra lại là dấu hiệu báo trước những thách thức lớn hơn. Sau khi chính thức ra mắt vào tháng 5, sản phẩm hoạt động dưới kỳ vọng, trong khi các lập trình viên lại đổ xô sang sử dụng Claude Code.
+
+Nhiều nhà phát triển cho rằng Codex quá chậm và cồng kềnh, buộc OpenAI phải điều chỉnh sản phẩm theo hướng ngày càng giống công cụ của Anthropic.
+
+Ban lãnh đạo khi đó còn phải đối phó với nhiều vấn đề cấp bách khác, bao gồm làn sóng săn nhân tài do CEO Meta Mark Zuckerberg phát động và mối quan hệ ngày càng căng thẳng với Microsoft - nhà đầu tư lớn nhất của OpenAI.
+
+Không chỉ vậy, công ty còn dành lượng lớn năng lực tính toán cho những dự án không thành công như ứng dụng tạo video Sora.
+
+Anthropic tăng tốc trên mọi mặt trận, OpenAI đối diện cuộc khủng hoảng niềm tin
+Khi OpenAI quay trở lại tập trung vào Codex, họ đã ở thế bị tụt lại phía sau.
+
+Tháng 12 năm ngoái, công ty phát hành GPT-5.2 - mô hình tập trung vào lập trình và các công việc chuyên môn - bất chấp một số nhân viên đề nghị hoãn ra mắt để có thêm thời gian hoàn thiện.
+
+Một số nguồn tin tiết lộ, khi biết Anthropic đang đàm phán hợp tác với Cerebras - startup phát triển chip chuyên dụng giúp xử lý tác vụ lập trình với tốc độ rất cao - OpenAI đã vội vàng ký một thỏa thuận tương tự nhằm ngăn đối thủ giành lợi thế.
+
+Tuy nhiên, mọi nỗ lực vẫn không đủ để đảo ngược tình thế.
+
+Trong lúc Altman nghỉ lễ cuối năm tại đảo St. Barts ở vùng Caribe, nhiều lập trình viên tại San Francisco đã miệt mài dành nhiều giờ với Claude, liên tục thử nghiệm và chia sẻ sự kinh ngạc trước sức mạnh của mô hình Opus 4.5 mới từ Anthropic.
+
+Sau đó, Anthropic bước vào chuỗi tăng trưởng kéo dài nhiều tháng, vượt cả kỳ vọng của chính ban lãnh đạo công ty.
+
+Ngược lại, tăng trưởng của ChatGPT bất ngờ chững lại khi chatbot của Google bắt đầu bùng nổ về lượng người dùng. OpenAI không đạt mục tiêu nội bộ là cán mốc 1 tỷ người dùng hoạt động hàng tuần trước cuối năm, dù cuối cùng cũng đạt được con số này sau đó.
+
+Không lâu sau, tốc độ tăng trưởng và mức định giá của Anthropic đều vượt OpenAI. Công ty của Altman buộc phải bước vào 2 cuộc chiến cùng lúc khi vị thế dẫn đầu trong cuộc đua AI bị đe dọa nghiêm trọng.
+
+Khi OpenAI đề xuất hợp tác với Blackstone để thành lập một công ty chuyên cung cấp công cụ AI cho danh mục doanh nghiệp của tập đoàn đầu tư này, Blackstone đã từ chối và lựa chọn Anthropic.
+
+Sau đó, công ty phải tìm kiếm các thỏa thuận riêng với những quỹ đầu tư tư nhân khác.
+
+Đến tháng 3, sự thất vọng bắt đầu lan rộng trong nội bộ OpenAI. Nhân viên liên tục chất vấn lãnh đạo về tương lai công ty.
+
+"Một Anthropic có quy mô nhân sự và vốn hóa nhỏ hơn rất nhiều nhưng lại liên tục dẫn dắt cuộc chơi cả về công nghệ lẫn văn hóa, còn chúng ta chỉ đang chạy theo. Vì sao điều này cứ lặp lại?", một câu hỏi được nêu ra.
+
+Thời điểm đó, Fidji Simo thừa nhận OpenAI đã đi chệch hướng khi theo đuổi quá nhiều "nhiệm vụ phụ" khiến công ty bị tụt lại cả về nghiên cứu lẫn sản phẩm.
+
+Theo bà, doanh thu của Anthropic là thước đo cho thấy họ đang thực hiện sứ mệnh của mình hiệu quả đến mức nào và việc công ty này đang thúc đẩy một phần rất lớn của nền kinh tế "phải là lời cảnh tỉnh thực sự đối với OpenAI".
+
+Sau đó, bà rời vị trí điều hành toàn thời gian vì tình trạng sức khỏe xấu đi.
+
+Nỗ lực lật ngược thế cờ
+OpenAI hiện đang tìm cách tận dụng những tín hiệu tích cực gần đây để đảo chiều cuộc đua AI.
+
+Công ty vừa giới thiệu một "siêu ứng dụng" tích hợp Codex, ChatGPT và trình duyệt web. Theo OpenAI, tổng số người dùng của sản phẩm mới cùng ứng dụng Codex độc lập đã đạt khoảng 10 triệu.
+
+Trong tháng này, OpenAI cũng phát hành mô hình GPT-5.6 Sol, nhanh chóng được cộng đồng lập trình viên đón nhận - buộc Anthropic phải mở rộng quyền truy cập mô hình Fable để cạnh tranh.
+
+Thêm vào đó, OpenAI cũng hưởng lợi từ làn sóng phản ứng ngày càng mạnh trong ngành công nghệ đối với Anthropic, khi công ty này bị chỉ trích vì tìm cách ngăn các mô hình AI giá rẻ của Trung Quốc tiếp cận thị trường Mỹ.
+
+Theo Dan Shipper, CEO của Every - công ty truyền thông và phần mềm tập trung vào AI - OpenAI gần đây đã "làm rất tốt trải nghiệm hằng ngày dành cho các lập trình viên và lao động tri thức".
+
+"Tôi sẵn sàng đặt cược rất lớn rằng OpenAI sẽ giành lại được vị thế dẫn đầu từ tay Anthropic", ông nhận định.
