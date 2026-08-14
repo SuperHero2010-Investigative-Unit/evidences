@@ -1,7 +1,5 @@
 # Case 1: ChatGPT scams users
 
----
-
 ## Case Overview
 
 | Aspect | Details |

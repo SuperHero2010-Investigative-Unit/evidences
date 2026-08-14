@@ -173,7 +173,7 @@ If a class action lawsuit is certified, Cursor could face significant penalties,
 
 ### Final Statement:
 
-> *"The TOS doesn't explicitly permit deceptive practices, but it doesn't prohibit them either. It is a legal shield, not a commitment to fairness."*
+> *"The TOS doesn't explicitly permit deceptive practices, but it doesn't prohibit them either. It's a legal shield, not a commitment to fairness."*
 
 ---
 

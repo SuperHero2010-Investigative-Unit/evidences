@@ -44,7 +44,7 @@ Adobe repeatedly states: *"We don't train generative AI models on your or your c
 
 This is a significant trap. I would be required to **indemnify** (legally defend and pay for) Adobe against any claims or damages arising from my use of their services, my content, or my violation of the Terms.
 
-**My Concern:** This places a massive legal and financial burden on me as a user. It is a one-sided protection for Adobe and a significant risk for me, even if I believe a claim against Adobe is without merit.
+**My Concern:** This places a massive legal and financial burden on me as a user. It's a one-sided protection for Adobe and a significant risk for me, even if I believe a claim against Adobe is without merit.
 
 ### 2.5 Limitation of Liability (Section 10): The Shield of Impunity
 
@@ -64,13 +64,13 @@ Adobe's total liability is capped at the greater of **US $100** or **the amount 
 
 **Why This Is Illegal:**
 
-- **Disproportionate and Unfair:** A $100 cap on liability for a service that costs hundreds of dollars per year is grossly disproportionate to the potential harm. It is an unfair contract term under EU and UK law, and may be void under the Unfair Contract Terms Act
+- **Disproportionate and Unfair:** A $100 cap on liability for a service that costs hundreds of dollars per year is grossly disproportionate to the potential harm. It's an unfair contract term under EU and UK law, and may be void under the Unfair Contract Terms Act
 - **No Meaningful Remedy:** Users have no real recourse. They are forced to accept a product that may fail catastrophically, with no financial protection. This encourages Adobe to neglect quality and security, knowing they will never face meaningful consequences
 - **Violates Basic Justice:** A company can't sell a product for a high price and then claim it owes nothing if that product destroys the user's livelihood. This isn't a contract. This is a protection racket
 
 **The True Gravity:**
 
-Adobe's limitation of liability isn't a neutral clause. It is a calculated strategy to evade accountability. It sends a clear message: *"We take your money, but we take no responsibility for your work."*. If a critical bug wipes out months of creative work, Adobe will offer $100 and walk away. This is legalized theft.
+Adobe's limitation of liability isn't a neutral clause. It's a calculated strategy to evade accountability. It sends a clear message: *"We take your money, but we take no responsibility for your work."*. If a critical bug wipes out months of creative work, Adobe will offer $100 and walk away. This is legalized theft.
 
 ### 2.6 Mandatory Arbitration and Class Action Waiver (Section 14): The Muzzle of Justice
 
@@ -83,7 +83,7 @@ This clause forces users to resolve any dispute through individual, confidential
 - **Denial of Access to Justice:** Individual arbitration is expensive. Filing fees, arbitrator costs, and legal representation can cost thousands of dollars. Most users can't afford this. They are effectively barred from seeking justice. This is a deliberate tactic to silence users
 - **Conceals Systemic Harm:** By forcing arbitration and banning class actions, Adobe ensures that widespread failures never come to light. If 10,000 users lose their work due to a bug, Adobe faces only 10,000 individual arbitration cases, not a single class action. The scale of the harm is hidden. The public never knows. Adobe never pays
 - **Unconscionable as a Contract Term:** Courts have repeatedly struck down mandatory arbitration clauses when they are hidden, one-sided, or oppressive. In many jurisdictions, such clauses are void if they aren't clearly and conspicuously presented. Adobe buries this clause in dense legal language, with a mere 30-day window to opt out
-- **Violates the Right to a Jury Trial:** The Seventh Amendment to the U.S. Constitution protects the right to a jury trial. Forced arbitration waives this right. Users don't knowingly or willingly give up this fundamental right; it is taken from them through fine print
+- **Violates the Right to a Jury Trial:** The Seventh Amendment to the U.S. Constitution protects the right to a jury trial. Forced arbitration waives this right. Users don't knowingly or willingly give up this fundamental right, it's taken from them through fine print
 
 **The 30-Day Opt-Out Trap:**
 
@@ -91,7 +91,7 @@ Adobe allows users to opt out of arbitration, but only within 30 days of first u
 
 **The True Gravity:**
 
-Adobe's mandatory arbitration and class action waiver isn't a neutral clause. It is a muzzle. It silences users. It hides harm. It ensures that Adobe will never face the consequences of its failures. It is a weapon used against users, designed to protect Adobe from accountability.
+Adobe's mandatory arbitration and class action waiver isn't a neutral clause. It's a muzzle. It silences users. It hides harm. It ensures that Adobe will never face the consequences of its failures. It's a weapon used against users, designed to protect Adobe from accountability.
 
 ### 2.7 Account and Content Termination (Sections 3.3 & 11)
 

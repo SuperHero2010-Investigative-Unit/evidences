@@ -14,8 +14,8 @@ This document provides a roadmap for users who have been harmed by Adobe's decep
 | **Subscription Traps** | Automatic renewal, 50% early termination fee, no refund after 14 days |
 | **User-Hostile Legal Terms** | Broad content license, $100 liability cap, mandatory arbitration |
 | **Aggressive Enforcement** | AGS scans and locks out legitimate users |
-| **Selective Enforcement** | Older versions are ignored; only latest versions are scanned |
-| **Abandonment of Users** | No official archive of older versions; users forced to third-party sites |
+| **Selective Enforcement** | Older versions are ignored, only latest versions are scanned |
+| **Abandonment of Users** | No official archive of older versions, users forced to third-party sites |
 | **Privacy Violations** | Opt-out data collection, human review of content |
 | **Indemnification** | Users must defend Adobe against legal claims |
 | **Data Retention** | Ten years retention of personal information |

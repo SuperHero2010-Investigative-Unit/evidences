@@ -1,8 +1,6 @@
 <!-- This is the standard template. You can use this template or use it as reference, you can create your own readme.md but it must fit the organization -->
 # Case [number]: [Case name]
 
----
-
 ## Case Overview
 
 | Aspect | Details |

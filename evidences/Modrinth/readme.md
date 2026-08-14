@@ -1,7 +1,5 @@
 # Case 6: The truth of Modrinth
 
----
-
 ## Case Overview
 
 | Aspect | Details |

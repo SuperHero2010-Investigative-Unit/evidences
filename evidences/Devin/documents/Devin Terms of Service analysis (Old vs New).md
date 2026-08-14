@@ -156,7 +156,7 @@ The introduction of "Service Tier" confirms that my experience as a free user is
 
 ### Final Statement:
 
-> *"The changes aren't accidental. They reflect a deliberate strategy to monetize free users' data, lock them out when convenient, and shield the company from accountability. My documented experience with hidden limits, arbitrary lockouts, and deceptive policies isn't a bug, it is a feature, now codified in their Terms of Service."*
+> *"The changes aren't accidental. They reflect a deliberate strategy to monetize free users' data, lock them out when convenient, and shield the company from accountability. My documented experience with hidden limits, arbitrary lockouts, and deceptive policies isn't a bug, it's a feature, now codified in their Terms of Service."*
 
 ---
 

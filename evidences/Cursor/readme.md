@@ -1,7 +1,5 @@
 # Case 4: Cursor lies everyone
 
----
-
 ## Case Overview
 
 | Aspect | Details |
@@ -61,7 +59,7 @@
 
 ## Conclusion
 
-> *"Cursor isn't a tool. It is a trap disguised as a tool, designed to tease free users, then lock them out for 31 days."*
+> *"Cursor isn't a tool. It's a trap disguised as a tool, designed to tease free users, then lock them out for 31 days."*
 
 ---
 

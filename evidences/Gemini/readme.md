@@ -1,7 +1,5 @@
 # Case 3: Gemini errors
 
----
-
 ## Case Overview
 
 | Aspect | Details |

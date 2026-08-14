@@ -13,7 +13,7 @@
 
 ### 2.1. The "Fraud Detection" System is a Black Box
 
-The article describes the **Adobe Genuine Service (AGS)** as a background process that "remembers" a device's history, even if pirated software was previously installed and since removed. I find this to be an invasive and punitive measure. It creates a permanent "digital fingerprint" that Adobe can use to justify terminating a paid account, regardless of a user's current compliance. This isn't anti-piracy; it's retroactive punishment for past actions, which I consider fundamentally unfair.
+The article describes the **Adobe Genuine Service (AGS)** as a background process that "remembers" a device's history, even if pirated software was previously installed and since removed. I find this to be an invasive and punitive measure. It creates a permanent "digital fingerprint" that Adobe can use to justify terminating a paid account, regardless of a user's current compliance. This isn't anti-piracy, it's retroactive punishment for past actions, which I consider fundamentally unfair.
 
 ### 2.2. The Three Groups of Affected Users
 
@@ -81,7 +81,7 @@ The article details a classic scam: third-party sellers offer Adobe subscription
 
 ### 2.2. The Devastating Consequence: Data Loss
 
-The article states that when these accounts are terminated, **"toàn bộ file làm việc lưu trên Cloud bị xóa sạch không thể khôi phục"** (all work files stored on the Cloud are completely deleted and can't be recovered). I find this to be a catastrophic outcome, especially for professionals or students working on time-sensitive projects. This isn't just a financial loss; it is a loss of intellectual property and hours of work.
+The article states that when these accounts are terminated, **"toàn bộ file làm việc lưu trên Cloud bị xóa sạch không thể khôi phục"** (all work files stored on the Cloud are completely deleted and can't be recovered). I find this to be a catastrophic outcome, especially for professionals or students working on time-sensitive projects. This isn't just a financial loss, it's a loss of intellectual property and hours of work.
 
 ### 2.3. The Unhelpful "Solution"
 
@@ -101,8 +101,8 @@ I consider this article further proof of the harmful consequences of the "user-h
 | The Failure | My Observation |
 | :--- | :--- |
 | **Predatory Scammers** | Exploit users' financial needs and Adobe's complex licensing |
-| **Adobe's Punitive System** | They don't simply deactivate the account; they **permanently delete the user's content without warning**. I believe this is a disproportionate response designed to inflict maximum pain and discourage future violations, but it also harms innocent users who may have been victims of fraud |
-| **The User's Plight** | Users are caught in the middle, losing money and work. They are often unaware they are even violating the terms until it is too late |
+| **Adobe's Punitive System** | They don't simply deactivate the account, they **permanently delete the user's content without warning**. I believe this is a disproportionate response designed to inflict maximum pain and discourage future violations, but it also harms innocent users who may have been victims of fraud |
+| **The User's Plight** | Users are caught in the middle, losing money and work. They are often unaware they are even violating the terms until it's too late |
 
 ---
 
@@ -166,7 +166,7 @@ I conclude that this is a self-reinforcing cycle:
 
 ## 4. My Conclusion
 
-**I conclude that this article, by simply listing the prices, provides critical context for understanding the ecosystem of scams and user frustration surrounding Adobe.** The high cost of entry isn't a neutral fact; it is an active driver of user behavior and a direct contributor to the problems described in the other articles.
+**I conclude that this article, by simply listing the prices, provides critical context for understanding the ecosystem of scams and user frustration surrounding Adobe.** The high cost of entry isn't a neutral fact, it's an active driver of user behavior and a direct contributor to the problems described in the other articles.
 
 I don't see the prices as a simple reflection of value. In my view, the pricing strategy is a core component of a business model that creates both an incentive for piracy/scams and a justification for aggressive enforcement. This leaves the user, particularly the individual freelancer or student, in a vulnerable position where they are financially pressured, at risk of scams, and subject to a system that offers them little recourse.
 
@@ -187,32 +187,32 @@ I don't see the prices as a simple reflection of value. In my view, the pricing 
 
 The article frames the issue as a user error: businesses are buying cheap licenses and suffering the consequences.
 
-**My Concern:** I see this as a classic victim-blaming narrative. While I acknowledge that businesses should be cautious, I believe the article fails to hold Adobe accountable for its own actions. The real problem is not that users are buying cheap licenses; it is that Adobe has created a system where users are at constant risk, and where legitimate, paying users can be locked out without warning. The article does not address the fundamental unfairness of Adobe's enforcement system, which I have documented extensively.
+**My Concern:** I see this as a classic victim-blaming narrative. While I acknowledge that businesses should be cautious, I believe the article fails to hold Adobe accountable for its own actions. The real problem isn't that users are buying cheap licenses; it's that Adobe has created a system where users are at constant risk, and where legitimate, paying users can be locked out without warning. The article doesn't address the fundamental unfairness of Adobe's enforcement system, which I have documented extensively.
 
 ### 2.2. The Consequence: Total Data Loss
 
 The article states that when an account is terminated, **"toàn bộ tài nguyên lưu trữ trên nền tảng đám mây, các dự án đang triển khai của doanh nghiệp sẽ bị xóa sạch"** (all cloud storage resources and ongoing projects of the business will be completely deleted).
 
-**My Concern:** I find this to be an extreme and disproportionate punishment. A business that unknowingly purchases an illegitimate license loses not just access but also all of its work. This is not a reasonable enforcement measure; it is a form of corporate violence against users. The article presents this as a natural consequence, but I see it as a deliberate, punitive policy designed to inflict maximum damage and deter violations.
+**My Concern:** I find this to be an extreme and disproportionate punishment. A business that unknowingly purchases an illegitimate license loses not just access but also all of its work. This isn't a reasonable enforcement measure, it's a form of corporate violence against users. The article presents this as a natural consequence, but I see it as a deliberate, punitive policy designed to inflict maximum damage and deter violations.
 
 ### 2.3. The "Official Channel" Solution is Inadequate
 
 The article advises businesses to buy only through official channels.
 
-**My Concern:** I consider this an insufficient solution. While it is good advice, it does not address the root causes I have identified:
+**My Concern:** I consider this an insufficient solution. While it's good advice, it doesn't address the root causes I have identified:
 
 - **High Official Prices:** Adobe's official pricing is inaccessible to many businesses, driving them to seek alternatives
 - **Punitive Enforcement:** Even legitimate users can be locked out, as I have documented
-- **No Real Recourse:** Businesses have no meaningful way to appeal a termination or recover their data, even if they are not at fault
+- **No Real Recourse:** Businesses have no meaningful way to appeal a termination or recover their data, even if they aren't at fault
 
 ### 2.4. The Missing Context: Adobe's Responsibility
 
-The article does not mention that:
+The article doesn't mention that:
 
 - Adobe's official pricing is chaotic, confusing, and extremely high
 - Adobe's enforcement system is opaque and has a history of false positives
-- Adobe does not provide a meaningful appeals process
-- Adobe does not provide official archives of older versions, forcing users to rely on unsafe sources
+- Adobe doesn't provide a meaningful appeals process
+- Adobe doesn't provide official archives of older versions, forcing users to rely on unsafe sources
 
 **My Concern:** By omitting this context, the article implicitly defends Adobe's practices. It frames the issue as a matter of user behavior, not a systemic failure by Adobe.
 
@@ -234,6 +234,6 @@ I see this article as another piece of evidence confirming the pattern I have do
 
 ## 4. My Conclusion
 
-**I conclude that this article, while well-intentioned, is a victim-blaming piece that fails to hold Adobe accountable for its own practices.** It warns businesses about the risks of buying cheap licenses, but it does not question why the official pricing is so high, why the enforcement system is so punitive and opaque, or why Adobe does not provide a fair appeals process.
+**I conclude that this article, while well-intentioned, is a victim-blaming piece that fails to hold Adobe accountable for its own practices.** It warns businesses about the risks of buying cheap licenses, but it doesn't question why the official pricing is so high, why the enforcement system is so punitive and opaque, or why Adobe doesn't provide a fair appeals process.
 
-The article is evidence of a pattern I have seen repeatedly: when users are harmed by a company's policies, the company and the media shift the blame onto the users. The real story is not that businesses are buying cheap licenses; it is that Adobe has created a system where users are vulnerable, where they can lose everything without warning, and where they have no real recourse. This is not a warning; it is a confession of Adobe's own failures.
+The article is evidence of a pattern I have seen repeatedly: when users are harmed by a company's policies, the company and the media shift the blame onto the users. The real story isn't that businesses are buying cheap licenses; it's that Adobe has created a system where users are vulnerable, where they can lose everything without warning, and where they have no real recourse. This isn't a warning, it's a confession of Adobe's own failures.

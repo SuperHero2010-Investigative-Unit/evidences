@@ -23,7 +23,7 @@ The pricing appears illogical and inconsistent to me:
 
 | Plan | My Observed Price | My Concern |
 | :--- | :--- | :--- |
-| **Creative Cloud Pro, Stock AI Studio** | $34.99/month | High price for a combined plan; I question the value of the AI Studio component. |
+| **Creative Cloud Pro, Stock AI Studio** | $34.99/month | High price for a combined plan, I question the value of the AI Studio component. |
 | **Photography (Lr + Ps), Acrobat Pro, Firefly Pro** | $19.99/month | This seems like a value bundle, but I note it includes Firefly Pro, which is also sold separately for a different price. |
 | **Firefly Premium** | $139.91/month | I consider this price shockingly high. This is a massive cost for a single AI feature. I see this as an intentional "premium" tier to make other plans seem more reasonable. |
 | **Substance 3D Collection** | $59.99/month | Very expensive for a specialized set of tools. |
@@ -65,7 +65,7 @@ I consider this a significant risk for users. I believe Adobe is using a "loss l
 
 #### Broader Analysis: The Inconsistency is Intentional
 
-I now conclude that the "inconsistencies" I identified aren't mistakes; they are a calculated part of Adobe's business strategy. I see multiple clear tactics at play:
+I now conclude that the "inconsistencies" I identified aren't mistakes, they are a calculated part of Adobe's business strategy. I see multiple clear tactics at play:
 
 1.  **I See the "Decoy" Effect:** I believe the expensive, individual app prices (like $22.99 for just Photoshop) are designed to make the bundles (like the $19.99 Photography plan) appear to be a "great deal", even though the bundle includes multiple apps. In my view, the individual app price is intentionally inflated
 
@@ -84,7 +84,7 @@ My analysis of these prices, combined with my analysis of the Subscription and C
 - **Segmenting the market** to extract maximum revenue from different user types
 - **Locking users in** with a confusing array of plans and a punitive cancellation policy
 
-I see this as the logical conclusion of my investigation into Adobe's practices. The "inconsistent prices" aren't a bug; they are a core feature of a user-hostile business model designed to maximize profit at the expense of clarity and fairness for the user.
+I see this as the logical conclusion of my investigation into Adobe's practices. The "inconsistent prices" aren't a bug, they are a core feature of a user-hostile business model designed to maximize profit at the expense of clarity and fairness for the user.
 
 ---
 
@@ -111,7 +111,7 @@ I see a clear and deliberate system:
 
 ### 4. My Conclusion
 
-**I conclude that the Adobe pricing structure, as reflected in the plans I have listed, is intentionally designed to be overwhelming, confusing, and financially burdensome.** This isn't a neutral price list; it is a tool of profit maximization that I believe exploits users' confusion and need for creative tools.
+**I conclude that the Adobe pricing structure, as reflected in the plans I have listed, is intentionally designed to be overwhelming, confusing, and financially burdensome.** This isn't a neutral price list, it's a tool of profit maximization that I believe exploits users' confusion and need for creative tools.
 
 The "overwhelming, chaotic, inconsistent naming and prices" and "too expensive and heavy" characteristics I observed are, in my view, the result of a deliberate strategy to force users into expensive, locked-in subscriptions and to generate massive revenue. This is the foundation upon which the entire problematic ecosystem I have documented is built.
 

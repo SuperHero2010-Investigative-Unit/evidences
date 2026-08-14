@@ -1,7 +1,5 @@
 # Case 5: Devin lies everyone
 
----
-
 ## Case Overview
 
 | Aspect | Details |

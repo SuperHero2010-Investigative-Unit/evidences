@@ -1,7 +1,5 @@
 # Case 2: DeepSeek errors
 
----
-
 ## Case Overview
 
 | Aspect | Details |

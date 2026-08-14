@@ -1,7 +1,5 @@
 # Case 7: The truth of Adobe
 
----
-
 ## Case Overview
 
 | Aspect | Details |
@@ -22,8 +20,8 @@
 | 2 | **Subscription Traps** | Automatic renewal, 50% early termination fee, no refund after 14 days |
 | 3 | **User-Hostile Legal Terms** | Broad content license, $100 liability cap, mandatory arbitration |
 | 4 | **Aggressive Enforcement** | AGS scans and locks out legitimate users |
-| 5 | **Selective Enforcement** | Older versions are ignored; only latest versions are scanned |
-| 6 | **Abandonment of Users** | No official archive of older versions; users forced to third-party sites |
+| 5 | **Selective Enforcement** | Older versions are ignored, only latest versions are scanned |
+| 6 | **Abandonment of Users** | No official archive of older versions, users forced to third-party sites |
 | 7 | **Privacy Violations** | Opt-out data collection, human review of content |
 | 8 | **Indemnification** | Users must defend Adobe against legal claims |
 

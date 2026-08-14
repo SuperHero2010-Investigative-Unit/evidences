@@ -27,7 +27,7 @@ This analysis examines the relevant sections of Modrinth's Terms of Use in relat
 | Can Modrinth suspend my account? | Yes |
 | Do they need to prove a violation? | No |
 | Can they suspend "for any or no reason"? | Yes |
-| Is this standard for platforms? | Yes, but it is still a power imbalance |
+| Is this standard for platforms? | Yes, but it's still a power imbalance |
 
 **Implication:**
 
@@ -114,7 +114,7 @@ Modrinth takes no responsibility for the quality or fairness of their service. T
 
 **Implication:**
 
-Modrinth's Limitation on Liability clause is a contractual shield, not an absolute legal defense. It is designed to discourage lawsuits, but it doesn't guarantee that a court would enforce it. If Modrinth's conduct is found to be unlawful, fraudulent, or in bad faith, a court could disregard or limit the enforceability of this clause.
+Modrinth's Limitation on Liability clause is a contractual shield, not an absolute legal defense. It's designed to discourage lawsuits, but it doesn't guarantee that a court would enforce it. If Modrinth's conduct is found to be unlawful, fraudulent, or in bad faith, a court could disregard or limit the enforceability of this clause.
 
 ### The Gravity of Lawsuits
 
@@ -130,7 +130,7 @@ Modrinth's Limitation on Liability clause is a contractual shield, not an absolu
 | Point | Explanation |
 |-------|-------------|
 | I am not filing a lawsuit | My goal is public documentation, not legal action |
-| The clause is a deterrent | It is designed to make users think they can't sue |
+| The clause is a deterrent | It's designed to make users think they can't sue |
 | But it isn't absolute | Courts can and do reject such clauses in cases of bad faith |
 | My evidence documents bad faith | Unreasonable conditions, invented rules, and silence are evidence of unfair conduct |
 

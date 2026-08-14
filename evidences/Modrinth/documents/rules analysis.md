@@ -31,7 +31,7 @@ This analysis examines whether these rules were correctly applied and whether Mo
 | **Project** | Explosive Block [Cracker's Wither Storm Mod and Enderite Mod] |
 | **Issue** | My mod required MCreator Link as a dependency |
 | **Modrinth's Claim** | I was "reuploading" MCreator Link by including it as an additional file |
-| **My Position** | My mod required MCreator Link to function; I couldn't distribute it separately |
+| **My Position** | My mod required MCreator Link to function, I couldn't distribute it separately |
 
 ### Analysis
 
@@ -62,7 +62,7 @@ This analysis examines whether these rules were correctly applied and whether Mo
 | **Project** | Explosive Block [Cracker's Wither Storm Mod and Enderite Mod] |
 | **Issue** | I included MCreator Link as an additional file |
 | **Modrinth's Claim** | Additional files should only be used for source JARs, not dependencies |
-| **My Position** | My mod required MCreator Link; I had no other way to distribute it |
+| **My Position** | My mod required MCreator Link, I had no other way to distribute it |
 
 ### Analysis
 
@@ -103,7 +103,7 @@ This analysis examines whether these rules were correctly applied and whether Mo
 
 ### My Verdict
 
-**Modrinth invented a rule that doesn't exist.** The versioning policy they cited isn't present in the Content Rules document. They created a requirement out of thin air and enforced it as if it were official policy. This isn't a misinterpretation, it is a fabrication.
+**Modrinth invented a rule that doesn't exist.** The versioning policy they cited isn't present in the Content Rules document. They created a requirement out of thin air and enforced it as if it were official policy. This isn't a misinterpretation, it's a fabrication.
 
 ---
 

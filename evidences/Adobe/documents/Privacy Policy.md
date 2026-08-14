@@ -53,7 +53,7 @@ Adobe admits that human review of Cloud Content may occur:
 
 Adobe transfers personal information to the U.S. and India. While they claim compliance with data transfer agreements, the legal landscape is unstable post-Schrems II.
 
-**My Concern:** Users' data may be subject to U.S. surveillance laws, violating GDPR protections. The Privacy Shield framework was invalidated; Adobe's reliance on Standard Contractual Clauses (SCCs) may be insufficient.
+**My Concern:** Users' data may be subject to U.S. surveillance laws, violating GDPR protections. The Privacy Shield framework was invalidated, Adobe's reliance on Standard Contractual Clauses (SCCs) may be insufficient.
 
 **Legal Violation:** Cross-border transfers may violate GDPR Chapter V if not adequately protected.
 
@@ -61,7 +61,7 @@ Adobe transfers personal information to the U.S. and India. While they claim com
 
 Adobe retains personal information for "ten years after your last interaction".
 
-**My Concern:** This is excessive and unnecessary. Ten years is far longer than needed for any legitimate purpose. Users' data is retained long after it is no longer needed.
+**My Concern:** This is excessive and unnecessary. Ten years is far longer than needed for any legitimate purpose. Users' data is retained long after it's no longer needed.
 
 **Legal Violation:** Excessive retention violates the GDPR principle of storage limitation (Article 5(1)(e)).
 
@@ -107,6 +107,6 @@ This creates a powerful dynamic where Adobe has minimal responsibility and maxim
 
 ## 5. My Conclusion
 
-Adobe's Privacy Policy isn't a protection for users. It is a permission slip for Adobe. It allows overcollection, opt-out analytics, human review, cross-border transfers, excessive retention, and biometric processing, all without meaningful consent. This isn't privacy. This is exploitation.
+Adobe's Privacy Policy isn't a protection for users. It's a permission slip for Adobe. It allows overcollection, opt-out analytics, human review, cross-border transfers, excessive retention, and biometric processing, all without meaningful consent. This isn't privacy. This is exploitation.
 
 My analysis reveals a clear and consistent pattern: Adobe uses these legal documents (TOU & Privacy Policy) to create a user-hostile environment where they retain maximum control over user data, content, and accounts, while accepting minimal accountability or responsibility for their actions or the failures of their products. This is, in my view, a fundamental aspect of the Adobe ecosystem and a major source of the problems I have documented in the user reports.
