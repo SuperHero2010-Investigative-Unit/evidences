@@ -132,7 +132,7 @@
 
 ## Conclusion
 
-> *"YouTube isn't a platform for creators. It is a platform for control. The Terms of Service, Privacy Policy, moderation, monetization, and termination systems are all designed to protect YouTube's interests, not its users. Creators aren't partners, they are sources of content to be exploited. Users aren't customers, they are data to be collected. The system is broken, and it is broken by design."*
+> *"YouTube isn't a platform for creators. It's a platform for control. The Terms of Service, Privacy Policy, moderation, monetization, and termination systems are all designed to protect YouTube's interests, not its users. Creators aren't partners, they are sources of content to be exploited. Users aren't customers, they are data to be collected. The system is broken, and it's broken by design."*
 
 ---
 

@@ -14,7 +14,7 @@ Image-Line claims to be fully GDPR compliant. However, the Terms of Use analysis
 > *"There will be no fee charged for a Data Subject Access request and any request will be responded to within one month of receipt."*
 
 **Analysis:**
-This is a standard GDPR compliance statement. However, the Terms of Use state that Image-Line "won't grant access to any account unless the requesting party can be positively identified as the rightful owner." This could create a circular problem: to access your data, you must provide additional personal data.
+This is a standard GDPR compliance statement. However, the Terms of Use state that Image-Line "won't grant access to any account unless the requesting party can be positively identified as the rightful owner". This could create a circular problem: to access your data, you must provide additional personal data.
 
 ## 3. Data Breach Reporting
 

@@ -219,7 +219,7 @@ The **strongest claim** is **False Advertising / Unfair Commercial Practices** b
 | Evidence Type | Examples | Source |
 |---------------|----------|--------|
 | **Terms of Use** | TOU analysis, relevant clauses | Image-Line website |
-| **Marketing Claims** | "Fully functionable," "Try before you buy" | Image-Line website, promotional materials |
+| **Marketing Claims** | "Fully functionable", "Try before you buy" | Image-Line website, promotional materials |
 | **Trial Exit Page** | Screenshot of the page | Image-Line website |
 | **Forum Posts** | User complaints about trial restriction, paid users in trial mode | Image-Line Forum, Reddit, Facebook |
 | **User Testimonies** | Written accounts from users | Recruited plaintiffs |

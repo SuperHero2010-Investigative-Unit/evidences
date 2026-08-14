@@ -85,7 +85,7 @@ The article states that when these accounts are terminated, **"toàn bộ file l
 
 ### 2.3. The Unhelpful "Solution"
 
-The article ends by advising users to **"say no to floating software"** and to buy only from **"official distributors."**
+The article ends by advising users to **"say no to floating software"** and to buy only from **"official distributors".**
 
 **My Concern:** I see this as a victim-blaming conclusion. While avoiding scams is wise, this advice doesn't address the underlying issues I have identified:
 

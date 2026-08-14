@@ -49,9 +49,9 @@ This reveals a common user behavior: users stay on the trial for extended period
 
 This Facebook post is significant because it presents the trial restriction in **plain, non-marketing language**:
 
-1. It openly calls the restriction a "catch."
-2. It admits the trial is only good for learning, not finishing tracks.
-3. It acknowledges billing issues.
+1. It openly calls the restriction a "catch"
+2. It admits the trial is only good for learning, not finishing tracks
+3. It acknowledges billing issues
 
 This is **user-generated content** that confirms the pattern documented in the official Terms of Use and the "Trial Exit" page.
 

@@ -5,7 +5,7 @@
 | Aspect | Details |
 |--------|---------|
 | **Document** | YouTube Paid Service Terms of Service |
-| **My Assessment** | A legal document that governs paid services like rentals, memberships, and subscriptions. Like the general YouTube ToS, it is designed to protect YouTube, not users. It contains numerous traps, including automatic renewal, limited refunds, and broad rights for YouTube to change or remove content |
+| **My Assessment** | A legal document that governs paid services like rentals, memberships, and subscriptions. Like the general YouTube ToS, it's designed to protect YouTube, not users. It contains numerous traps, including automatic renewal, limited refunds, and broad rights for YouTube to change or remove content |
 
 ---
 

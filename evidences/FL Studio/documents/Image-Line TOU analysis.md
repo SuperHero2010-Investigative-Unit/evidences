@@ -126,7 +126,7 @@ FL Studio's trial is **uniquely restrictive** among major DAWs.
 
 ## Conclusion
 
-> *"Image Line's Terms of Use are legally sound but practically deceptive. The free version is marketed as 'fully functionable' but deliberately blocks users from reopening saved projects. This creates a trap where users must pay to access their own work. While not just illegal, it's anti-user and designed to exploit the time and effort users invest before discovering the limitation."*
+> *"Image Line's Terms of Use are illegally sound and practically deceptive. The free version is marketed as 'fully functionable' but deliberately blocks users from reopening saved projects. This creates a trap where users must pay to access their own work. While not just illegal, it's anti-user and designed to exploit the time and effort users invest before discovering the limitation."*
 
 ---
 
