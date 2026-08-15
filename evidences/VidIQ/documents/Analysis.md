@@ -6,7 +6,7 @@ This document analyzes the VidIQ system to expose bad features and the truth.
 
 ---
 
-## 1. VidIQ Extensio: Bad Features
+## 1. VidIQ Extension: Bad Features
 
 | Feature | Issue | My Concern |
 |---------|-------|------------|
