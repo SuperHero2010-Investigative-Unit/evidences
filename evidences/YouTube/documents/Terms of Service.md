@@ -62,7 +62,7 @@ YouTube can delete your content for **any reason they deem "reasonable"**. There
 **Why this is illegal:**
 - **Due Process Violation:** You have a right to a fair hearing before your property is destroyed
 - **Vague and Subjective:** The term "reasonable" is so broad it allows arbitrary enforcement
-- **Platform Immunity is Not Absolute:** Courts are increasingly limiting the protection of Section 230
+- **Platform Immunity isn't Absolute:** Courts are increasingly limiting the protection of Section 230
 
 **The Mass Lawsuit:** Thousands of creators have been unfairly demonetized or terminated. A class action could force YouTube to provide a real appeals process with independent review.
 

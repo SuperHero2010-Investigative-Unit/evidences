@@ -29,7 +29,7 @@ The pricing appears illogical and inconsistent to me:
 | **Substance 3D Collection** | $59.99/month | Very expensive for a specialized set of tools |
 | **Creative Cloud Standard** | $54.99/month | This appears to be a core plan, but the price is still very high, especially when compared to the $19.99 Photography plan |
 
-**My Concern:** I see no clear logic to the pricing. I believe these prices are not based on the cost of providing the service but are instead optimized to extract the maximum amount from different user segments.
+**My Concern:** I see no clear logic to the pricing. I believe these prices aren't based on the cost of providing the service but are instead optimized to extract the maximum amount from different user segments.
 
 ### 2.3. Inconsistent and Confusing Naming
 

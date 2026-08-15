@@ -7,7 +7,7 @@
 | **Document** | Adobe Privacy Policy |
 | **Company** | Adobe Inc. |
 | **Last Updated** | October 24, 2025 |
-| **My Assessment** | This is not a privacy policy. This is a **permission slip for Adobe to steal your data, your identity, and your creative work.** Adobe has crafted a document that gives them unlimited access to your personal information, your content, and your biometric data; all while claiming to "protect your privacy". **This is a lie. This is a trap. This is war** |
+| **My Assessment** | This isn't a privacy policy. This is a **permission slip for Adobe to steal your data, your identity, and your creative work.** Adobe has crafted a document that gives them unlimited access to your personal information, your content, and your biometric data; all while claiming to "protect your privacy". **This is a lie. This is a trap. This is war** |
 
 ---
 
@@ -45,12 +45,12 @@ Adobe collects everything about you. Your name, your location, your face, your v
 
 **Severity: EXTREME. This is a hidden tax on your creativity.**
 
-You are automatically enrolled in Content Analytics. Adobe profits from analyzing your content without your explicit consent. **They are not asking. They are taking.**
+You are automatically enrolled in Content Analytics. Adobe profits from analyzing your content without your explicit consent. **They aren't asking. They are taking.**
 
 **Why this is illegal:**
-- **Violates GDPR Article 7:** Consent must be freely given, specific, informed, and unambiguous. Opt-out is not consent
+- **Violates GDPR Article 7:** Consent must be freely given, specific, informed, and unambiguous. Opt-out isn't consent
 - **Violates ePrivacy Directive:** The Directive requires consent for such processing
-- **Deceptive Practice:** Users are not informed of this practice
+- **Deceptive Practice:** Users aren't informed of this practice
 
 **The Mass Lawsuit:** Adobe is profiting from your data without your consent. A class action could force them to switch to an opt-in system and pay damages.
 
@@ -63,12 +63,12 @@ Human review of Cloud Content may occur when content is flagged as illegal or ab
 
 **Severity: SEVERE. This is a violation of trust.**
 
-Adobe employees can view your content without your explicit consent. **This is not privacy. This is surveillance by humans.**
+Adobe employees can view your content without your explicit consent. **This isn't privacy. This is surveillance by humans.**
 
 **Why this is illegal:**
 - **Violates GDPR Article 6:** Lack of lawfulness of processing
 - **Violates GDPR Article 13:** Lack of transparency
-- **Violates Trust:** Users are not informed of this practice
+- **Violates Trust:** Users aren't informed of this practice
 
 **The Mass Lawsuit:** This practice is a clear violation of privacy. A class action could force Adobe to obtain explicit consent for human review.
 
@@ -81,7 +81,7 @@ Adobe transfers personal information to the U.S. and India.
 
 **Severity: EXTREME. This is a data loophole.**
 
-Adobe sends your data to countries with weaker privacy protections. **Your data is not safe. It's being shipped around the world.**
+Adobe sends your data to countries with weaker privacy protections. **Your data isn't safe. It's being shipped around the world.**
 
 **Why this is illegal:**
 - **Violates GDPR Chapter V:** Cross-border transfers must be adequately protected
@@ -102,7 +102,7 @@ Adobe retains personal information for "ten years after your last interaction".
 Adobe keeps your data for a decade. Even after you stop using their services, they keep your information. **You can't escape.**
 
 **Why this is illegal:**
-- **Violates GDPR Article 5:** Storage limitation, data should not be kept longer than necessary
+- **Violates GDPR Article 5:** Storage limitation, data shouldn't be kept longer than necessary
 - **Excessive Retention:** Ten years is far longer than needed for any legitimate purpose
 
 **The Mass Lawsuit:** This is a clear violation of data protection laws. A class action could force Adobe to reduce retention periods and delete old data.
@@ -138,7 +138,7 @@ Adobe is collecting data from children without proper parental consent. **This i
 
 **Why this is illegal:**
 - **Violates COPPA:** COPPA requires verifiable parental consent for collection of personal information from children under 13
-- **Violates Trust:** Parents are not properly informed
+- **Violates Trust:** Parents aren't properly informed
 
 **The Mass Lawsuit:** COPPA violations are a serious legal risk. Regulators are already taking action against companies that violate COPPA.
 
@@ -149,18 +149,18 @@ Adobe is collecting data from children without proper parental consent. **This i
 | Adobe's Mistake | The Reality |
 |------------------|-------------|
 | **They think they can collect everything** | Courts are striking down excessive data collection |
-| **They think opt-out is consent** | It's not. GDPR is clear |
+| **They think opt-out is consent** | It isn't. GDPR is clear |
 | **They think they can retain data forever** | Regulators are cracking down on excessive retention |
 | **They think they can collect biometrics** | BIPA and GDPR provide for massive damages |
 | **They think they can silence critics** | The evidence is public. The outrage is growing |
 
-**Adobe is not untouchable. They are vulnerable. They are arrogant. They are underestimating the law and the mass of lawsuits that are coming.**
+**Adobe isn't untouchable. They are vulnerable. They are arrogant. They are underestimating the law and the mass of lawsuits that are coming.**
 
 ---
 
 ## 4. My Analysis of the Evidence
 
-Adobe's Privacy Policy is not a protection. It's a **permission slip for surveillance and exploitation.**
+Adobe's Privacy Policy isn't a protection. It's a **permission slip for surveillance and exploitation.**
 
 | Pattern | How This Policy Confirms It |
 |---------|-----------------------------|
@@ -176,7 +176,7 @@ Adobe's Privacy Policy is not a protection. It's a **permission slip for surveil
 
 ## 5. My Conclusion
 
-**I conclude that the Adobe Privacy Policy is a weapon designed to exploit your data, your identity, and your creativity.** This is not a privacy policy. It's a **permission slip for surveillance and exploitation.**
+**I conclude that the Adobe Privacy Policy is a weapon designed to exploit your data, your identity, and your creativity.** This isn't a privacy policy. It's a **permission slip for surveillance and exploitation.**
 
 **Adobe is underestimating the law. They are underestimating the mass of lawsuits. They think they are untouchable. They are wrong.**
 
@@ -186,7 +186,7 @@ Adobe's Privacy Policy is not a protection. It's a **permission slip for surveil
 
 | Action | Why |
 |--------|-----|
-| **Do not accept these terms** | They are not normal. They are not acceptable |
+| **Don't accept these terms** | They aren't normal. They aren't acceptable |
 | **Demand change** | Write to regulators, file complaints, speak out |
 | **Join a class action** | Collective action is the only way to force change |
 | **Spread the word** | Share the evidence. Make others aware |
@@ -195,7 +195,7 @@ Adobe's Privacy Policy is not a protection. It's a **permission slip for surveil
 
 ## Statement
 
-> *"Adobe's Privacy Policy is not a protection. It's a permission slip for surveillance and exploitation. It's time to fight back."*
+> *"Adobe's Privacy Policy isn't a protection. It's a permission slip for surveillance and exploitation. It's time to fight back."*
 
 ---
 
