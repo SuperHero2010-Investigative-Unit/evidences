@@ -16,7 +16,7 @@
 
 | # | Finding | Description |
 |---|---------|-------------|
-| 1 | **One-Sided Terms of Service** | Grants Meta a broad, perpetual license to user content; use of name/likeness for ads without compensation; zero liability cap |
+| 1 | **One-Sided Terms of Service** | Grants Meta a broad, perpetual license to user content, use of name/likeness for ads without compensation, zero liability cap |
 | 2 | **Data Exploitation** | Vast data collection, surveillance, targeted advertising, and AI training without meaningful consent |
 | 3 | **Biometric Data Collection** | Collects biometric information without proper consent (BIPA violation) |
 | 4 | **Paywalled Appeals** | Appeals for account suspension are only available to paying users (Meta Verified) |

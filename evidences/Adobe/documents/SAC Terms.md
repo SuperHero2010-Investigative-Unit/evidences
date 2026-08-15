@@ -43,7 +43,7 @@ Adobe puts the burden on you to remember to cancel. If you forget, they keep cha
 
 **Severity: EXTREME. This is a ransom fee.**
 
-Adobe charges you 50% of your remaining contract to leave. This is a **punitive barrier** designed to trap you. They aren't encouraging loyalty; they are **holding you hostage.** You can't leave without paying a steep penalty.
+Adobe charges you 50% of your remaining contract to leave. This is a **punitive barrier** designed to trap you. They aren't encouraging loyalty, they are **holding you hostage.** You can't leave without paying a steep penalty.
 
 **Why this is illegal:**
 - **Unconscionable:** A 50% penalty is grossly disproportionate and designed to punish, not compensate
@@ -96,7 +96,7 @@ If a payment method fails, Adobe may suspend your subscription.
 
 **Severity: SEVERE. This is a disruption tactic.**
 
-A simple payment error can cause a disruption of your work. Adobe isn't forgiving; they are punitive.
+A simple payment error can cause a disruption of your work. Adobe isn't forgiving, they are punitive.
 
 **Why this is illegal:**
 - **Disproportionate:** A single payment error shouldn't cause a complete disruption

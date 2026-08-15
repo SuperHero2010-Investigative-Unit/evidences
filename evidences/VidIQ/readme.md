@@ -18,7 +18,7 @@
 |---|---------|-------------|
 | 1 | **Context-Blind AI** | AI suggestions are Western-centric and irrelevant to non-Western creators |
 | 2 | **Defensive AI Coach** | Ignores user input, blames user, gives generic advice, gives up after complaints |
-| 3 | **Arbitrary Limits** | Extension is crippled with limits; AI Coach charges 10 credits per message |
+| 3 | **Arbitrary Limits** | Extension is crippled with limits, AI Coach charges 10 credits per message |
 | 4 | **Paywall Traps** | Basic tools are locked behind a paywall |
 | 5 | **Western-Centric Standards** | Video rating system judges content based on Western standards only |
 | 6 | **No Region-Specific Options** | No options to tailor suggestions to local context |

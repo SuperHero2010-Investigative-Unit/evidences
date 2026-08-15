@@ -76,7 +76,7 @@ The Community Standards are global in scope but don't provide details on how the
 
 **Severity: EXTREME. This is a blank check for censorship.**
 
-The vagueness of the rules gives Facebook enormous discretion. **You can violate a policy you didn't even know existed, with no clear, objective criteria for what is prohibited.** This isn't a rule of law; it is a rule of whims.
+The vagueness of the rules gives Facebook enormous discretion. **You can violate a policy you didn't even know existed, with no clear, objective criteria for what is prohibited.** This isn't a rule of law, it is a rule of whims.
 
 **Why this is illegal:**
 - **Due Process Violation:** You can't be punished for violating rules you don't know exist
