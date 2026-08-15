@@ -30,10 +30,10 @@ This document provides a roadmap for users who have been harmed by Adobe's decep
 
 | Clause | Why It's Unconscionable |
 |--------|-------------------------|
-| **$100 Liability Cap** | Grossly disproportionate to the harm caused. A $600/year service can't cap liability at $100. |
-| **50% Early Termination Fee** | A punitive penalty designed to lock users in. |
-| **Mandatory Arbitration** | Denies users access to justice and hides systemic harm. |
-| **Indemnification** | Shifts legal costs to users, forcing them to defend a billion-dollar corporation. |
+| **$100 Liability Cap** | Grossly disproportionate to the harm caused. A $600/year service can't cap liability at $100 |
+| **50% Early Termination Fee** | A punitive penalty designed to lock users in |
+| **Mandatory Arbitration** | Denies users access to justice and hides systemic harm |
+| **Indemnification** | Shifts legal costs to users, forcing them to defend a billion-dollar corporation |
 
 **Legal Basis:** U.S. contract law (unconscionability), EU Unfair Contract Terms Directive, UK Unfair Contract Terms Act.
 
@@ -43,10 +43,10 @@ This document provides a roadmap for users who have been harmed by Adobe's decep
 
 | Violation | Evidence |
 |-----------|----------|
-| **False Advertising** | "Creative Cloud for everyone", but pricing is inaccessible to most. |
-| **Deceptive Pricing** | Photography plan cheaper than Photoshop alone. Inconsistent naming. |
-| **Hidden Fees** | Automatic renewal, early termination fees. |
-| **Unfair Opt-Out** | Content Analytics is opt-out by default. Users aren't informed. |
+| **False Advertising** | "Creative Cloud for everyone", but pricing is inaccessible to most |
+| **Deceptive Pricing** | Photography plan cheaper than Photoshop alone. Inconsistent naming |
+| **Hidden Fees** | Automatic renewal, early termination fees |
+| **Unfair Opt-Out** | Content Analytics is opt-out by default. Users aren't informed |
 
 **Legal Basis:** FTC Act (U.S.), EU Unfair Commercial Practices Directive, Australian Consumer Law.
 
@@ -56,11 +56,11 @@ This document provides a roadmap for users who have been harmed by Adobe's decep
 
 | Violation | Evidence |
 |-----------|----------|
-| **Overcollection** | Adobe collects excessive personal data, including biometrics. |
-| **Opt-Out Analytics** | Users are automatically enrolled in Content Analytics. |
-| **Human Review** | No explicit consent for human review of content. |
-| **Excessive Retention** | Ten years retention of personal information. |
-| **Biometric Data** | Processed without explicit consent. |
+| **Overcollection** | Adobe collects excessive personal data, including biometrics |
+| **Opt-Out Analytics** | Users are automatically enrolled in Content Analytics |
+| **Human Review** | No explicit consent for human review of content |
+| **Excessive Retention** | Ten years retention of personal information |
+| **Biometric Data** | Processed without explicit consent |
 
 **Legal Basis:** GDPR (EU), CCPA (California), COPPA (children's data).
 
@@ -70,9 +70,9 @@ This document provides a roadmap for users who have been harmed by Adobe's decep
 
 | Violation | Evidence |
 |-----------|----------|
-| **Data Loss** | Users lose access to their work without warning. |
-| **Account Lockouts** | Legitimate users are locked out by AGS. |
-| **No Support** | Users are ignored by Adobe support. |
+| **Data Loss** | Users lose access to their work without warning |
+| **Account Lockouts** | Legitimate users are locked out by AGS |
+| **No Support** | Users are ignored by Adobe support |
 
 **Legal Basis:** Common law (negligence, breach of duty of care).
 
@@ -82,12 +82,12 @@ This document provides a roadmap for users who have been harmed by Adobe's decep
 
 | Evidence Type | Source |
 |---------------|--------|
-| **Pricing Pages** | Adobe's own website shows inconsistent, chaotic pricing. |
-| **Terms of Use** | One-sided, unconscionable terms. |
-| **Privacy Policy** | Opt-out data collection, biometric processing. |
-| **User Reports** | Hundreds of users locked out, data deleted. |
-| **Articles** | News reports on account lockouts, scam ecosystem. |
-| **My Documentation** | Full conversation logs, analysis, and summaries. |
+| **Pricing Pages** | Adobe's own website shows inconsistent, chaotic pricing |
+| **Terms of Use** | One-sided, unconscionable terms |
+| **Privacy Policy** | Opt-out data collection, biometric processing |
+| **User Reports** | Hundreds of users locked out, data deleted |
+| **Articles** | News reports on account lockouts, scam ecosystem |
+| **My Documentation** | Full conversation logs, analysis, and summaries |
 
 ---
 
@@ -97,9 +97,9 @@ This document provides a roadmap for users who have been harmed by Adobe's decep
 
 | Criteria | Description |
 |----------|-------------|
-| **Harmed Users** | Users who have been locked out, lost data, or been unfairly charged. |
-| **Geographic Spread** | Users from multiple jurisdictions (U.S., EU, Australia, Vietnam, etc.). |
-| **Type of Harm** | Financial, data loss, reputational damage, wasted time. |
+| **Harmed Users** | Users who have been locked out, lost data, or been unfairly charged |
+| **Geographic Spread** | Users from multiple jurisdictions (U.S., EU, Australia, Vietnam, etc.) |
+| **Type of Harm** | Financial, data loss, reputational damage, wasted time |
 
 ---
 
@@ -107,10 +107,10 @@ This document provides a roadmap for users who have been harmed by Adobe's decep
 
 | Evidence | How to Collect |
 |----------|----------------|
-| **Receipts** | Keep all Adobe billing records. |
-| **Error Messages** | Screenshots of account lockouts, deletion notices. |
-| **Support Communications** | Save all emails and chat logs with Adobe support. |
-| **Work Lost** | Document the value of lost projects. |
+| **Receipts** | Keep all Adobe billing records |
+| **Error Messages** | Screenshots of account lockouts, deletion notices |
+| **Support Communications** | Save all emails and chat logs with Adobe support |
+| **Work Lost** | Document the value of lost projects |
 
 ---
 
@@ -118,9 +118,9 @@ This document provides a roadmap for users who have been harmed by Adobe's decep
 
 | Option | Description |
 |--------|-------------|
-| **Class Action Lawsuit** | A single lawsuit on behalf of all affected users. |
-| **Mass Arbitration** | File hundreds of individual arbitration claims simultaneously. |
-| **Regulatory Complaint** | File complaints with FTC, EU regulators, or consumer protection agencies. |
+| **Class Action Lawsuit** | A single lawsuit on behalf of all affected users |
+| **Mass Arbitration** | File hundreds of individual arbitration claims simultaneously |
+| **Regulatory Complaint** | File complaints with FTC, EU regulators, or consumer protection agencies |
 
 ---
 
@@ -139,10 +139,10 @@ This document provides a roadmap for users who have been harmed by Adobe's decep
 
 | Outcome | Description |
 |---------|-------------|
-| **Financial Compensation** | Refund of subscription fees, damages for lost work. |
-| **Injunctive Relief** | Court orders Adobe to change its terms and practices. |
-| **Regulatory Action** | Fines and penalties imposed by regulators. |
-| **Public Apology** | Adobe forced to admit wrongdoing. |
+| **Financial Compensation** | Refund of subscription fees, damages for lost work |
+| **Injunctive Relief** | Court orders Adobe to change its terms and practices |
+| **Regulatory Action** | Fines and penalties imposed by regulators |
+| **Public Apology** | Adobe forced to admit wrongdoing |
 
 ---
 
@@ -150,10 +150,10 @@ This document provides a roadmap for users who have been harmed by Adobe's decep
 
 | Weakness | Why It Matters |
 |----------|----------------|
-| **$100 Liability Cap** | Courts may strike this down as unconscionable. |
-| **Arbitration Clause** | Courts are increasingly hostile to forced arbitration. |
-| **Opt-Out Data Collection** | GDPR and CCPA violations are clear. |
-| **Public Evidence** | My documentation is public and irrefutable. |
+| **$100 Liability Cap** | Courts may strike this down as unconscionable |
+| **Arbitration Clause** | Courts are increasingly hostile to forced arbitration |
+| **Opt-Out Data Collection** | GDPR and CCPA violations are clear |
+| **Public Evidence** | My documentation is public and irrefutable |
 
 ---
 

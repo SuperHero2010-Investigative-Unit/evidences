@@ -138,7 +138,7 @@ This analysis examines whether these rules were correctly applied and whether Mo
 | Modrinth rejected my mod (2024) | Modrinth's rules were misapplied |
 | CurseForge accepted my datapack (2025-2026) | My datapack structure was valid and acceptable |
 | Modrinth withheld my datapack (2025-2026) | Modrinth invented a rule that doesn't exist |
-| Same projects, different outcomes | The issue isn't my projects. The issue is Modrinth's moderation. |
+| Same projects, different outcomes | The issue isn't my projects. The issue is Modrinth's moderation |
 
 ---
 

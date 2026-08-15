@@ -16,11 +16,11 @@
 
 | # | Finding | Description |
 |---|---------|-------------|
-| 1 | Unreasonable condition with no path to resolution | Modrinth stated: "Your project will remain Withheld until all moderation concerns are addressed". After that message, 9+ months of complete silence followed. |
-| 2 | Invented Rules | Modrinth cited policies that don't exist in their published guidelines (linear versioning requirement, forced project splitting, etc.). |
-| 3 | Bot-Driven Moderation | Detailed explanations from the investigator were met with identical copy-pasted responses, indicating an automated system, not human review. |
-| 4 | Disrespect Toward Creators | Logical arguments about datapacks vs. mods, user clarity, and CurseForge comparisons were completely ignored. |
-| 5 | Systemic Inflexibility | Even when human moderators responded, they enforced rules rigidly with no flexibility, reflecting a cultural problem, not just a technical one. |
+| 1 | Unreasonable condition with no path to resolution | Modrinth stated: "Your project will remain Withheld until all moderation concerns are addressed". After that message, 9+ months of complete silence followed |
+| 2 | Invented Rules | Modrinth cited policies that don't exist in their published guidelines (linear versioning requirement, forced project splitting, etc.) |
+| 3 | Bot-Driven Moderation | Detailed explanations from the investigator were met with identical copy-pasted responses, indicating an automated system, not human review |
+| 4 | Disrespect Toward Creators | Logical arguments about datapacks vs. mods, user clarity, and CurseForge comparisons were completely ignored |
+| 5 | Systemic Inflexibility | Even when human moderators responded, they enforced rules rigidly with no flexibility, reflecting a cultural problem, not just a technical one |
 
 ---
 

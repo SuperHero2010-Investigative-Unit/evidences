@@ -20,7 +20,7 @@ I have compared the two versions of Cognition's Terms of Service to identify cha
 | Aspect | April 2025 (Old) | June 2026 (New) |
 |--------|------------------|-----------------|
 | **Model Training Opt-In** | **Opt-in required.** I must explicitly agree to allow my data to be used for training. (Section 3.3.1) | **Opt-out only for paid users.** Cognition may use my data for training unless I am a paid subscriber and actively opt out. (Section 3.3.1) |
-| **Free Users** | My data is safe unless I agree. | My data can be used for training automatically. I can't opt out. |
+| **Free Users** | My data is safe unless I agree | My data can be used for training automatically. I can't opt out |
 
 **Analysis:**
 This is the most significant change. In April 2025, my data was protected by default, I had to opt in to allow training. In June 2026, the default is reversed: my data can be used for training unless I pay and opt out. This means free users like me have lost control over how our code and inputs are used.
@@ -36,8 +36,8 @@ When I used Devin, I assumed my data was safe. This change reveals that my assum
 
 | Aspect | April 2025 (Old) | June 2026 (New) |
 |--------|------------------|-----------------|
-| **Termination Without Notice** | Cognition may suspend or terminate my access if I breach the Terms. | Cognition may suspend or terminate my access at any time, **for any reason**, without notice. (Section 7.2) |
-| **Refund on Termination** | If Cognition terminates my subscription for any reason other than breach, I receive a pro-rata refund. | Same, but the expanded termination rights make it easier for Cognition to avoid refunds. |
+| **Termination Without Notice** | Cognition may suspend or terminate my access if I breach the Terms | Cognition may suspend or terminate my access at any time, **for any reason**, without notice. (Section 7.2) |
+| **Refund on Termination** | If Cognition terminates my subscription for any reason other than breach, I receive a pro-rata refund | Same, but the expanded termination rights make it easier for Cognition to avoid refunds |
 
 **Analysis:**
 The new clause explicitly allows Cognition to terminate my account for any reason, without notice. This is a significant expansion of their power over my access.
@@ -53,7 +53,7 @@ My account was locked with the message "No eligible accounts found", which I now
 
 | Aspect | April 2025 (Old) | June 2026 (New) |
 |--------|------------------|-----------------|
-| **Liability Cap** | Capped at amounts paid in the last 6 months. | Capped at the greater of (A) amounts paid in the last 6 months, or (B) $100. (Section 10.2) |
+| **Liability Cap** | Capped at amounts paid in the last 6 months | Capped at the greater of (A) amounts paid in the last 6 months, or (B) $100. (Section 10.2) |
 
 **Analysis:**
 The liability cap remains the same. For free users like me, this means I can't claim more than $100 in damages, regardless of the harm caused.
@@ -69,8 +69,8 @@ Even if I suffer significant damage to my project or time, I have no legal recou
 
 | Aspect | April 2025 (Old) | June 2026 (New) |
 |--------|------------------|-----------------|
-| **Cognition's Indemnification** | Applies to all users. | **Applies only to paid users.** Free users aren't covered. (Section 9.1) |
-| **My Indemnification** | I must indemnify Cognition for claims arising from my use. | I must indemnify Cognition for claims arising from my use, including claims related to my data. |
+| **Cognition's Indemnification** | Applies to all users | **Applies only to paid users.** Free users aren't covered. (Section 9.1) |
+| **My Indemnification** | I must indemnify Cognition for claims arising from my use | I must indemnify Cognition for claims arising from my use, including claims related to my data |
 
 **Analysis:**
 Cognition has expanded its protection while reducing its obligations to free users. If a third party sues Cognition because of my use of the service, I am responsible for their legal costs.
@@ -110,9 +110,9 @@ If a class action lawsuit is certified, Devin could face significant penalties, 
 
 | Aspect | April 2025 (Old) | June 2026 (New) |
 |--------|------------------|-----------------|
-| **Service Tier** | Not defined. | Explicitly defined. (Section 1.6) |
-| **Zero Data Retention (ZDR)** | Not defined. | Explicitly defined. (Section 1.8) |
-| **Enterprise Customers** | Referenced but not defined. | Explicitly excluded from the TOS. (Section 2.6) |
+| **Service Tier** | Not defined | Explicitly defined. (Section 1.6) |
+| **Zero Data Retention (ZDR)** | Not defined | Explicitly defined. (Section 1.8) |
+| **Enterprise Customers** | Referenced but not defined | Explicitly excluded from the TOS. (Section 2.6) |
 
 **Analysis:**
 The new TOS introduces definitions for "Service Tier" and "Zero Data Retention", suggesting these concepts are now formalized. This reflects the shift toward a tiered, paid model.

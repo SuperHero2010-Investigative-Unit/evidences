@@ -4,10 +4,10 @@
 
 | Aspect | My Assessment |
 | :--- | :--- |
-| **Pricing Structure** | Overwhelming, chaotic, and inconsistent. |
-| **Cost Level** | Extremely expensive for individual creators and small businesses. |
-| **Naming Convention** | Confusing and non-intuitive, making it difficult to compare plans. |
-| **My Conclusion** | The pricing page is intentionally designed to be confusing and to maximize revenue, not to help users find the best solution for their needs. |
+| **Pricing Structure** | Overwhelming, chaotic, and inconsistent |
+| **Cost Level** | Extremely expensive for individual creators and small businesses |
+| **Naming Convention** | Confusing and non-intuitive, making it difficult to compare plans |
+| **My Conclusion** | The pricing page is intentionally designed to be confusing and to maximize revenue, not to help users find the best solution for their needs |
 
 ---
 
@@ -23,11 +23,11 @@ The pricing appears illogical and inconsistent to me:
 
 | Plan | My Observed Price | My Concern |
 | :--- | :--- | :--- |
-| **Creative Cloud Pro, Stock AI Studio** | $34.99/month | High price for a combined plan, I question the value of the AI Studio component. |
-| **Photography (Lr + Ps), Acrobat Pro, Firefly Pro** | $19.99/month | This seems like a value bundle, but I note it includes Firefly Pro, which is also sold separately for a different price. |
-| **Firefly Premium** | $139.91/month | I consider this price shockingly high. This is a massive cost for a single AI feature. I see this as an intentional "premium" tier to make other plans seem more reasonable. |
-| **Substance 3D Collection** | $59.99/month | Very expensive for a specialized set of tools. |
-| **Creative Cloud Standard** | $54.99/month | This appears to be a core plan, but the price is still very high, especially when compared to the $19.99 Photography plan. |
+| **Creative Cloud Pro, Stock AI Studio** | $34.99/month | High price for a combined plan, I question the value of the AI Studio component |
+| **Photography (Lr + Ps), Acrobat Pro, Firefly Pro** | $19.99/month | This seems like a value bundle, but I note it includes Firefly Pro, which is also sold separately for a different price |
+| **Firefly Premium** | $139.91/month | I consider this price shockingly high. This is a massive cost for a single AI feature. I see this as an intentional "premium" tier to make other plans seem more reasonable |
+| **Substance 3D Collection** | $59.99/month | Very expensive for a specialized set of tools |
+| **Creative Cloud Standard** | $54.99/month | This appears to be a core plan, but the price is still very high, especially when compared to the $19.99 Photography plan |
 
 **My Concern:** I see no clear logic to the pricing. I believe these prices are not based on the cost of providing the service but are instead optimized to extract the maximum amount from different user segments.
 
@@ -60,8 +60,8 @@ I consider this a significant risk for users. I believe Adobe is using a "loss l
 #### Example
 | Example | My Analysis of the Inconsistency | Why I Consider This a Problem |
 | :--- | :--- | :--- |
-| **Photography ($19.99) is cheaper than Lightroom ($11.99) and Photoshop ($22.99) individually.** | I find this completely illogical. A bundle of two applications is priced **between** the cost of the two individual applications. This creates a confusing scenario where a user might unintentionally pay more for less. | This is a classic decoy pricing strategy. I see it as a deliberate attempt to confuse me about the true value of each product and push me toward a bundle I may not fully need. |
-| **Substance 3D Texturing ($24.99) is cheaper than Substance 3D Collection ($59.99).** | I consider this illogical because "Texturing" (Sa + Ds + Pt) is a subset of the "Collection". | I believe this is a tactic to segment the market. The cheaper "Texturing" plan is designed to hook users, who will then be upsold to the much more expensive "Collection" when they need a specific tool not included in the cheaper plan. |
+| **Photography ($19.99) is cheaper than Lightroom ($11.99) and Photoshop ($22.99) individually** | I find this completely illogical. A bundle of two applications is priced **between** the cost of the two individual applications. This creates a confusing scenario where a user might unintentionally pay more for less | This is a classic decoy pricing strategy. I see it as a deliberate attempt to confuse me about the true value of each product and push me toward a bundle I may not fully need |
+| **Substance 3D Texturing ($24.99) is cheaper than Substance 3D Collection ($59.99)** | I consider this illogical because "Texturing" (Sa + Ds + Pt) is a subset of the "Collection" | I believe this is a tactic to segment the market. The cheaper "Texturing" plan is designed to hook users, who will then be upsold to the much more expensive "Collection" when they need a specific tool not included in the cheaper plan |
 
 #### Broader Analysis: The Inconsistency is Intentional
 
@@ -94,11 +94,11 @@ I now see this pricing page as the final piece of the evidence, confirming the p
 
 | Document | My Key Finding | How the Pricing Page Fits |
 | :--- | :--- | :--- |
-| **General Terms of Use** | Broad license, indemnification, liability cap. | The pricing page is the "bait" that gets users to agree to these terms. |
-| **Subscription & Cancellation Terms** | Automatic renewal, 50% early termination fee. | The pricing page sets the high cost that makes the early termination fee so painful. |
-| **Article 1 (Account Lockout)** | Users with licensed accounts are blocked. | The high prices and confusing plans make users more likely to fall for scams or use accounts in ways that trigger Adobe's automated systems. |
-| **Article 2 (The "Cheap" Trap)** | Scammers exploit users with cheap accounts. | The high prices create a massive demand for cheaper alternatives, which scammers exploit. |
-| **Article 3 (High Cost)** | Official prices are very high. | This page provides the raw data confirming that observation. |
+| **General Terms of Use** | Broad license, indemnification, liability cap | The pricing page is the "bait" that gets users to agree to these terms |
+| **Subscription & Cancellation Terms** | Automatic renewal, 50% early termination fee | The pricing page sets the high cost that makes the early termination fee so painful |
+| **Article 1 (Account Lockout)** | Users with licensed accounts are blocked | The high prices and confusing plans make users more likely to fall for scams or use accounts in ways that trigger Adobe's automated systems |
+| **Article 2 (The "Cheap" Trap)** | Scammers exploit users with cheap accounts | The high prices create a massive demand for cheaper alternatives, which scammers exploit |
+| **Article 3 (High Cost)** | Official prices are very high | This page provides the raw data confirming that observation |
 
 I see a clear and deliberate system:
 
