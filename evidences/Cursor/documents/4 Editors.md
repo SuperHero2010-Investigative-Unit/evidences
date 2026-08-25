@@ -29,7 +29,7 @@ The article reframes the comparison:
 
 > *"The question is no longer which tool is technically the smartest. The question is which one your team should actually pay for based on how you ship software."*
 
-This is a useful framing, but it ignores a critical dimension that our investigation has uncovered.
+This is a useful framing, but it ignores a critical dimension that my investigation has uncovered.
 
 ---
 
@@ -44,9 +44,9 @@ This is a useful framing, but it ignores a critical dimension that our investiga
 
 ---
 
-## 5. Connecting to Our Investigation
+## 5. Connecting to My Investigation
 
-| Article's Implicit Message | Our Evidence Shows |
+| Article's Implicit Message | My Evidence Shows |
 |----------------------------|-------------------|
 | "Pick the best tool for your team" | "Pick the tool that doesn't lie to you" |
 | "Devin killed its $500 plan" | "Devin still traps free users with token-based quotas" |
