@@ -35,7 +35,7 @@ This is a useful framing, but it ignores a critical dimension that my investigat
 
 ## 4. What the Article Misses
 
-| Dimension | What the Article Focuses On | What We Found |
+| Dimension | What the Article Focuses On | What I Found |
 |-----------|----------------------------|---------------|
 | **Cost** | Which is worth paying for | Free users are being systematically trapped |
 | **Performance** | Which ships faster | Performance doesn't excuse hidden limits and deception |
