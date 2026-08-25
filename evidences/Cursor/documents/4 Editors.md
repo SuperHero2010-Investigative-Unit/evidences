@@ -1,8 +1,8 @@
 # 4 Editors: Claude Code, Cursor, Devin, and Copilot
 
-**Source:** https://medium.com/data-science-collective/claude-code-vs-cursor-vs-devin-vs-copilot-in-2026-the-comparison-everyone-is-still-getting-wrong-5afd6ceff3e7
-**Date:** May 8, 2026
-**Author:** SuperHero2010 Investigative Unit (Analysis)
+- **Source:** https://medium.com/data-science-collective/claude-code-vs-cursor-vs-devin-vs-copilot-in-2026-the-comparison-everyone-is-still-getting-wrong-5afd6ceff3e7
+- **Date:** May 8, 2026
+- **Author:** SuperHero2010 Investigative Unit (Analysis)
 
 ---
 

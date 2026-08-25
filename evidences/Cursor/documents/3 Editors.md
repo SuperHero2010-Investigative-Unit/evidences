@@ -1,8 +1,8 @@
 # 3 Editors: VS Code, Cursor, and Devin Desktop
 
-**Source:** https://daily.dev/posts/i-tried-vs-code-cursor-and-devin-desktop-for-a-month-and-i-have-a-clear-winner-for-you-qhzdo4hur
-**Date:** August 22, 2026
-**Author:** SuperHero2010 Investigative Unit (Analysis)
+- **Source:** https://daily.dev/posts/i-tried-vs-code-cursor-and-devin-desktop-for-a-month-and-i-have-a-clear-winner-for-you-qhzdo4hur
+- **Date:** August 22, 2026
+- **Author:** SuperHero2010 Investigative Unit (Analysis)
 
 ---
 

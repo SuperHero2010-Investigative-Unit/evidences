@@ -1,8 +1,8 @@
 # Origin & Continuity: Cursor's Git Infrastructure
 
-**Source:** https://www.theregister.com/devops/2026/08/23/how-cursor-beat-gits-scalability-shortcomings/5291421
-**Date:** August 23, 2026
-**Author:** SuperHero2010 Investigative Unit (Analysis)
+- **Source:** https://www.theregister.com/devops/2026/08/23/how-cursor-beat-gits-scalability-shortcomings/5291421
+- **Date:** August 23, 2026
+- **Author:** SuperHero2010 Investigative Unit (Analysis)
 
 ---
 
