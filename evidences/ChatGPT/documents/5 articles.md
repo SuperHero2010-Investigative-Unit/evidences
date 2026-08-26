@@ -294,3 +294,69 @@ I see this article as providing crucial context for the user-hostile behavior I 
 **I conclude that this article provides a comprehensive account of OpenAI's decline, driven by strategic failures, internal turmoil, and a fundamental misreading of the market.** The company that once led the AI boom is now struggling to catch up to Anthropic. The failure of Codex is a particularly telling example of OpenAI's inability to serve its users effectively.
 
 I see this as a validation of my own findings. The company that can't fix basic bugs, ignores user feedback, and prioritizes profit over quality is now paying the price for its arrogance. OpenAI isn't just user-hostile, it's strategically adrift. The user-hostile behavior I documented is a symptom of a deeper, systemic failure within the company. The "hefty price" they are paying isn't just financial, it's reputational and strategic. And it's a direct consequence of their own choices.
+
+# Article Analysis 5: ["OpenAI Unexpectedly 'Tightens' Limits for ChatGPT Plus Users"](https://thanhnien.vn/openai-bat-ngo-siet-gioi-han-nguoi-dung-chatgpt-plus-185260826094553682.htm)
+
+---
+
+### 1. Article Overview
+
+- **Title:** OpenAI unexpectedly tightens limits for ChatGPT Plus users
+- **Source:** Thanh Nien
+- **Date:** August 26, 2026
+- **My Initial Assessment:** This article reports that OpenAI has reinstated a 5-hour usage limit on the Work and Codex features for ChatGPT Plus subscribers, ending a brief period of "unlimited" access. I see this as a predictable move in the pattern I have documented for years: AI companies offer unlimited access as a marketing tactic, then quietly reintroduce limits to manage costs and force upgrades
+
+---
+
+### 2. My Critical Findings
+
+**2.1. The "Unlimited" Illusion**
+
+The article states that the 5-hour limit was temporarily removed on July 12, 2026, and is now being reinstated. The stated reason is to "stabilize the infrastructure".
+
+**My Concern:** I see this as a classic bait-and-switch. OpenAI used the promise of unlimited access to attract users to the Plus plan, knowing full well that the infrastructure couldn't sustain it. The "temporary" removal was a marketing tactic. The reinstatement is the reality. Users are now paying for a product that is being reduced.
+
+**2.2. The Paid "Solution"**
+
+The article mentions that users can "spend more money to buy additional credits" instead of waiting for the timer to reset.
+
+**My Concern:** I interpret this as a deliberate strategy to extract more money from users. The limit isn't a technical necessity, it's a monetization tool. Users who need more access are forced to pay more. This is the same pattern I have documented with "generative credits" in Adobe and "message limits" in ChatGPT.
+
+**2.3. The Tiered System: Pro Users Are Exempt**
+
+The article notes that Pro users ($100 and $200 per month) are exempt from the 5-hour limit, while Plus users aren't.
+
+**My Concern:** This is a clear signal that OpenAI is prioritizing high-paying customers. The limit isn't about infrastructure, it's about creating a tiered system where the highest-paying users get the best experience. This is the same pattern I have documented in other platforms: the free tier is made unusable, the mid-tier is restricted, and the premium tier is the only one that works.
+
+**2.4. The Justification is Weak**
+
+The article quotes an OpenAI engineer saying the 5-hour limit "helps maintain a broad weekly quota and ensures stable infrastructure". This is a vague and unconvincing justification.
+
+**My Concern:** I see this as a corporate excuse. If infrastructure stability were the real issue, OpenAI would be transparent about the costs and limitations. Instead, they present a weak justification and quietly reintroduce a limit. This is the same pattern of deception I have documented.
+
+**2.5. The Impact on Users**
+
+The article states that users "must arrange their habits rationally" to avoid being interrupted.
+
+**My Concern:** I interpret this as victim-blaming. The article presents the limit as a user problem, not a corporate problem. Users are expected to adapt to the restriction, rather than demand better service. This is the same pattern I have documented with YouTube's monetization and Adobe's enforcement.
+
+---
+
+### 3. My Analysis of the Evidence
+
+I see this article as further proof of the pattern I have documented across all major AI companies.
+
+| Pattern I Have Documented | How This Article Confirms It |
+| :--- | :--- |
+| **Exaggerating Advertising** | "Unlimited" access was a marketing tactic, not a reality |
+| **Profit-Driven** | The limit is a tool to force users to pay more |
+| **Tiered System** | Plus users are restricted, Pro users are exempt |
+| **Weak Justifications** | Vague excuses are given for the restriction |
+| **Victim-Blaming** | Users are blamed for needing more access |
+| **No Real Transparency** | OpenAI doesn't explain the true costs or limitations |
+
+---
+
+### 4. My Conclusion
+
+**I conclude that this article is evidence of OpenAI's ongoing pattern of bait-and-switch tactics and profit-driven limitations.** The "unlimited" access was never truly unlimited. The limit isn't about infrastructure, it's about monetization. The tiered system is designed to extract more money from users. This is consistent with the pattern I have documented across all major platforms. Users aren't customers, they are sources of revenue to be managed and restricted.
