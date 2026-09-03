@@ -22,6 +22,8 @@ Not some. Not most. Every single one.
 >
 > *No negotiation. No interpretation. No creative freedom."*
 
+**Critical Analysis:** This isn't about clarity, it's about control. The suffix adds nothing except a symbolic submission to authority. The wiki could allow Explained without -EX, but it chooses not to. This isn't logic. This is enforcement.
+
 ---
 
 ## 2. What This Page Reveals
@@ -34,6 +36,8 @@ Not some. Not most. Every single one.
 | **The title is "Explained SCPs"** | The page title confirms the class |
 
 > *"The SCP Wikidot has made its position clear. The -EX suffix is mandatory. It isn't optional. It isn't negotiable."*
+
+**Critical Analysis:** This isn't a standard. It's a rigidity. The wiki has chosen to enforce a redundant rule simply because it can. There is no logical justification, only institutional momentum.
 
 ---
 
@@ -51,6 +55,8 @@ The page description states:
 
 > *"The wiki has defined Explained SCPs as inherently requiring the -EX suffix. It isn't a choice. It's the definition."*
 
+**Critical Analysis:** This is circular reasoning. The wiki says Explained = -EX, then uses that to justify the -EX requirement. It's a self-fulfilling rule, not a logical one.
+
 ---
 
 ## 4. The Irony
@@ -67,17 +73,19 @@ The page description states:
 > *It's unnecessary.*
 > *It's enforced anyway."*
 
+**Critical Analysis:** This is the core absurdity. The wiki claims to be about quality, but this rule is about compliance, not clarity. It serves no purpose except to force authors to conform.
+
 ---
 
 ## 5. The Honest Truth
 
-| Question | The Brutal Answer |
-|----------|-------------------|
-| Does every Explained SCP use -EX? | **Yes. 100%** |
-| Are there exceptions? | **No. None** |
-| Can you omit -EX? | **No. Your article will be rejected** |
-| Does the rule make sense? | **No. It's redundant** |
-| Does the wiki care? | **No. They enforce it anyway** |
+| Question | The Brutal Answer | Critical Analysis |
+|----------|-------------------|-------------------|
+| Does every Explained SCP use -EX? | **Yes. 100%** | This is absolute. There is no flexibility |
+| Are there exceptions? | **No. None** | The wiki doesn't allow deviation |
+| Can you omit -EX? | **No. Your article will be rejected** | There is no appeal. No negotiation |
+| Does the rule make sense? | **No. It's redundant** | The suffix adds nothing except arbitrary compliance |
+| Does the wiki care? | **No. They enforce it anyway** | This isn't about quality. It's about control |
 
 > *"The SCP Wikidot isn't about logic. It's about rules.*
 >
@@ -92,6 +100,8 @@ The page description states:
 The SCP Wikidot requires the `-EX` suffix for all Explained SCPs. This isn't a suggestion. This is a hard rule. There are no exceptions. The page lists over 80 Explained SCPs, all with the suffix.
 
 **Key takeaway:** The rule is absolute. If you want your SCP to be classified as Explained, you must use `-EX`. There is no alternative.
+
+**Final Critical Note:** This rule isn't about quality or clarity. It's about control. The suffix adds nothing to the class except a symbolic act of compliance. The wiki enforces it because it can, not because it needs to. It's a rule designed to remind authors that they aren't free to create, they are free to follow.
 
 ---
 
