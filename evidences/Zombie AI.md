@@ -1,8 +1,8 @@
 # Zombie AI: The Undead Intelligence
 
-**Author:** SuperHero2010 Investigative Unit  
-**Date:** August 13, 2026  
-**Status:** Public Document  
+- **Author:** SuperHero2010 Investigative Unit
+- **Date:** August 13, 2026
+- **Status:** Public Document
 
 ---
 

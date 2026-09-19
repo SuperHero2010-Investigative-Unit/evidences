@@ -8,7 +8,7 @@
 | **Version** | Any version |
 | **Investigation Period** | August 13, 2026 |
 | **Status** | Published |
-| **Charges** | User-hostile Terms of Service, Privacy Policy, content moderation, monetization, and account termination systems |
+| **Charges** | User-hostile Terms of Service, Privacy Policy, content moderation, monetization, account termination, and AI moderation failures |
 
 ---
 
@@ -24,6 +24,8 @@
 | 6 | **Weak Appeals Process** | Appeals are slow, often automated, and rarely successful |
 | 7 | **Guilt by Association** | Multiple channels under one account can be terminated for violations on one channel |
 | 8 | **Vulnerability to Abuse** | Mass reporting can trigger false terminations |
+| 9 | **Random Deletion Pattern** | 300+ documented cases of wrongful termination by AI moderation |
+| 10 | **Restoration Only After Publicity** | Public outcry on X or Reddit required to reverse decisions |
 
 ---
 
@@ -31,17 +33,19 @@
 
 | # | File | Type | Description |
 |---|------|------|-------------|
-| 1 | `System summary.pdf` | PDF | 400-word summary |
-| 2 | `Terms of Service.md` | Markdown | YouTube Terms of Service analysis |
-| 3 | `Paid Service Terms.md` | Markdown | YouTube Paid Service Terms analysis |
-| 4 | `Paid Service Usage Rules.md` | Markdown | YouTube Paid Service Usage Rules analysis |
-| 5 | `Privacy Policy.md` | Markdown | Google Privacy Policy analysis (governs YouTube) |
-| 6 | `Moderation.md` | Markdown | YouTube Moderation analysis |
-| 7 | `Monetization.md` | Markdown | YouTube Monetization (VidIQ) analysis |
-| 8 | `Termination.md` | Markdown | YouTube Account Termination analysis |
-| 9 | `Articles.md` | Markdown | YouTube article analyses |
+| 1 | `readme.md` | README | Investigation overview |
+| 2 | `System summary.pdf` | PDF | 400-word summary |
+| 3 | `Terms of Service.md` | Markdown | YouTube Terms of Service analysis |
+| 4 | `Paid Service Terms.md` | Markdown | YouTube Paid Service Terms analysis |
+| 5 | `Paid Service Usage Rules.md` | Markdown | YouTube Paid Service Usage Rules analysis |
+| 6 | `Privacy Policy.md` | Markdown | Google Privacy Policy analysis (governs YouTube) |
+| 7 | `Moderation.md` | Markdown | YouTube Moderation analysis |
+| 8 | `Monetization.md` | Markdown | YouTube Monetization (VidIQ) analysis |
+| 9 | `Termination.md` | Markdown | YouTube Account Termination analysis |
 | 10 | `Legal's violations.md` | Markdown | List of YouTube/Google legal violations |
-| 11 | `How to sue YouTube (Collective lawsuit).md` | Markdown | Guide to suing YouTube |
+| 11 | `Articles.md` | Markdown | Analysis of YouTube Family plan trap |
+| 12 | `How to sue YouTube (Collective lawsuit).md` | Markdown | Guide to suing YouTube |
+| 13 | `Brutal Monetization.md` | Markdown | Analysis of YouTube's brutal monetization rules |
 
 ---
 
@@ -49,8 +53,8 @@
 
 ### 1. Terms of Service: A Trap
 
-| Issue | My Concern |
-|-------|------------|
+| Issue | Concern |
+|-------|---------|
 | **Broad License** | Users grant YouTube a worldwide, perpetual license to their content |
 | **$500 Liability Cap** | YouTube's liability is limited to a token amount |
 | **Indemnification** | Users must defend YouTube against claims |
@@ -59,8 +63,8 @@
 
 ### 2. Privacy Policy: A Surveillance Tool
 
-| Issue | My Concern |
-|-------|------------|
+| Issue | Concern |
+|-------|---------|
 | **Vast Data Collection** | Watch history, location, device data, voice recordings |
 | **Targeted Advertising** | User data is used for advertising without meaningful consent |
 | **Data Sharing** | Data is shared with third parties |
@@ -69,31 +73,35 @@
 
 ### 3. Moderation: Arbitrary and Punitive
 
-| Issue | My Concern |
-|-------|------------|
+| Issue | Concern |
+|-------|---------|
 | **AI Context Blindness** | Automated systems make decisions without understanding nuance |
 | **Inconsistent Enforcement** | Policies are applied arbitrarily |
 | **No Human Review** | Appeals are often denied by bots |
 | **Vague Rules** | "Severe" violations aren't clearly defined |
+| **Random Deletion** | 300+ documented cases of wrongful termination |
 
 ### 4. Monetization: A Source of Fear
 
-| Issue | My Concern |
-|-------|------------|
+| Issue | Concern |
+|-------|---------|
 | **Vague Guidelines** | "Advertiser-friendly" rules are subjective |
 | **Arbitrary Demonetization** | Videos can be demonetized for any reason |
 | **Weak Appeals** | The appeal process is slow and uncertain |
 | **Inactivity Clause** | Creators lose monetization if they stop uploading |
+| **Brutal Rules** | Entry requirements doubled, maintenance required |
 
 ### 5. Termination: Final and Absolute
 
-| Issue | My Concern |
-|-------|------------|
+| Issue | Concern |
+|-------|---------|
 | **No Warning** | Accounts can be terminated without prior notice |
 | **Three-Strikes System** | Draconian and disproportionate |
 | **Permanent Data Loss** | All content is deleted permanently |
 | **Guilt by Association** | Multiple channels can be terminated for one violation |
 | **Vulnerable to Abuse** | Mass reporting can trigger false terminations |
+| **AI Moderation Failures** | Random deletions without human review |
+| **Restoration Only After Publicity** | Public outcry required to reverse decisions |
 
 ---
 
@@ -115,6 +123,9 @@
 | 12 | Breach of Contract | Contract law |
 | 13 | Free Speech Violation | First Amendment, human rights law |
 | 14 | Surveillance and Data Retention | GDPR, CCPA |
+| 15 | Random Termination Without Due Process | Due process, consumer protection |
+| 16 | AI Moderation Failures | Consumer protection, due process |
+| 17 | Appeal Process Violations | Due process, consumer protection |
 
 ---
 
@@ -127,6 +138,7 @@
 | "Fair monetization" | Arbitrary demonetization | False |
 | "Protects your privacy" | Vast data collection and surveillance | False |
 | "Fair appeals process" | Weak, slow, and often automated | False |
+| "AI moderation is fair" | Random deletions without human review | False |
 
 ---
 
@@ -144,4 +156,4 @@
 
 *SuperHero2010 Investigative Unit*
 
-*August 13, 2026*
+*September 14, 2026*

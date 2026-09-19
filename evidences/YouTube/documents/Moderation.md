@@ -4,9 +4,9 @@
 
 | Aspect | Details |
 |--------|---------|
-| **Document** | Wikipedia: YouTube Moderation |
-| **Date** | November 1, 2024 (last updated) |
-| **My Assessment** | This isn't a moderation system. This is a **weapon designed to silence creators, protect YouTube's profits, and avoid accountability.** YouTube has built a system that is inconsistent, automated, punitive, and harmful to both creators and the human moderators tasked with reviewing content. **This is a declaration of war on free expression** |
+| **Document** | Wikipedia: YouTube Moderation + AI Moderation Crisis (2025-2026) |
+| **Date** | November 1, 2024 (last updated) − September 14, 2026 |
+| **Assessment** | This isn't a moderation system. This is a **weapon designed to silence creators, protect YouTube's profits, and avoid accountability.** YouTube has built a system that is inconsistent, automated, punitive, and harmful to both creators and the human moderators tasked with reviewing content. **This is a declaration of war on free expression** |
 
 ---
 
@@ -32,7 +32,80 @@ YouTube's AI makes decisions without understanding nuance. Appeals are denied in
 
 ---
 
-### 2.2. Inconsistent Enforcement
+### 2.2. The Enderman Incident (November 2025)
+
+**The Case:**
+YouTuber Enderman's 9-year-old channel with over 380,000 subscribers was terminated without warning on November 3, 2025. YouTube's message cited "spam, scam, or deceptive practices," a claim Enderman strongly denied. His appeal was rejected instantly with a message claiming his channel was "linked to other terminated channels for copyright violations," which he insisted was false.
+
+**Severity: EXTREME. This is random deletion.**
+
+Enderman stated, "I had no idea that something as big as a channel deletion could be done by AI only." His investigation wasn't isolated.
+
+**The Fallout:**
+Many other creators, including Old Money Documentaries, ScratchitGaming, and MAGEFIST, came forward with identical stories. Channels deleted for supposed "spam" despite clean records and no prior strikes. After massive backlash, YouTube's official X account admitted that some channels had been "mistakenly removed" and would be restored. However, many channels weren't reinstated.
+
+**Why this is illegal:**
+- **Due Process Violation:** No warning, no strikes, no fair hearing
+- **Arbitrary Enforcement:** AI linked channels to unrelated banned accounts
+- **Consumer Protection Violations:** Instant appeal rejections with no human review
+
+**The Mass Lawsuit:** This is a prime target for class action litigation.
+
+---
+
+### 2.3. The Sinevibes Case (February 2025)
+
+**The Case:**
+Sinevibes, a music software brand that had built a YouTube channel over 15 years with only original content, was abruptly deleted in February 2025. YouTube cited "spam and deceptive policies" without a single warning. The founder, Artemiy Pavlov, was stunned: "We have only posted demos of our own original products, never anything else."
+
+**Severity: EXTREME. 15 years erased.**
+
+The channel was eventually restored about three hours after Ars Technica contacted YouTube for comment. YouTube later admitted: "sometimes we make mistakes trying to get it right. We're sorry for any frustration our mistake caused you."
+
+**Why this is illegal:**
+- **Due Process Violation:** No warning, no explanation
+- **Arbitrary Enforcement:** 15 years of clean content deleted by AI
+- **Restoration Only After Publicity:** Required media pressure to reverse
+
+**The Mass Lawsuit:** This investigation proves that YouTube can see its mistakes but only corrects them under public pressure.
+
+---
+
+### 2.4. The AI Slop Purge (January 2026)
+
+**The Case:**
+YouTube began a mass purge of AI-generated content channels, deleting or stripping videos from at least 16 major channels with a combined 35 million+ subscribers and 4.7 billion views. Channels like CuentosFascinantes (5.9M subscribers) and Imperio de Jesus (5.8M subscribers) were completely removed.
+
+**Severity: EXTREME. Mass deletion without due process.**
+
+This crackdown followed CEO Neal Mohan's announcement about using anti-spam systems to limit low-quality AI content. A Kapwing report found AI content made up 21% to 33% of recommended videos.
+
+**Why this is illegal:**
+- **Due Process Violation:** Channels deleted without warning or strikes
+- **Arbitrary Enforcement:** AI determines what is "AI slop"
+- **Consumer Protection Violations:** No meaningful appeal process
+
+**The Mass Lawsuit:** This is a growing legal vulnerability.
+
+---
+
+### 2.5. The 300+ Creator Tracker
+
+**The Case:**
+A user on X, Airwingmarine, posted that their animation channel Bloomation (760,000 subscribers) was deleted for allegedly violating spam, fraud, and deception policies. In the same thread, they stated they had documented over 300 YouTube creators who were wrongfully terminated by YouTube's AI moderation systems.
+
+**Severity: EXTREME. 300+ documented cases.**
+
+**Why this is illegal:**
+- **Due Process Violation:** 300+ creators denied fair hearings
+- **Arbitrary Enforcement:** AI moderation system isn't reliable
+- **Consumer Protection Violations:** No meaningful recourse
+
+**The Mass Lawsuit:** This tracker is evidence of a systemic problem.
+
+---
+
+### 2.6. Inconsistent Enforcement
 
 **The Clause:**
 YouTube has changed its policies on election misinformation multiple times, reversing policies citing a need to "openly debate political ideas, even those that are controversial or based on disproven assumptions".
@@ -50,7 +123,7 @@ YouTube's policies aren't based on a consistent ethical framework. They change b
 
 ---
 
-### 2.3. Harm to Moderators
+### 2.7. Harm to Moderators
 
 **The Clause:**
 A class-action lawsuit by a former content moderator who developed PTSD after being forced to view graphic content without adequate support.
@@ -68,7 +141,7 @@ YouTube profits from user-generated content but outsources the psychological bur
 
 ---
 
-### 2.4. Ineffective Protection Against Harmful Content
+### 2.8. Ineffective Protection Against Harmful Content
 
 **The Clause:**
 YouTube fails to protect users from harmful content: conspiracy theories, pedophilia, animal torture, hate speech, misogyny, and AI slop.
@@ -86,7 +159,7 @@ YouTube's platform is a vector for radicalization, exploitation, and abuse. **Th
 
 ---
 
-### 2.5. The "Reward Hacking" Pattern
+### 2.9. The "Reward Hacking" Pattern
 
 **The Clause:**
 YouTube's algorithms can be tricked, such as incorrectly flagging videos of the Notre-Dame fire with information about 9/11 conspiracy theories.
@@ -113,12 +186,13 @@ YouTube's AI systems are pattern-matching engines that can be easily fooled. **T
 | **They think they can exploit moderators** | Labor laws are clear |
 | **They think they can ignore harmful content** | Regulators are cracking down |
 | **They think they can silence critics** | The evidence is public. The outrage is growing |
+| **They think they can delete channels randomly** | 300+ documented cases of wrongful termination |
 
 **YouTube isn't untouchable. They are vulnerable. They are arrogant. They are underestimating the law and the mass of lawsuits that are coming.**
 
 ---
 
-## 4. My Analysis of the Evidence
+## 4. Analysis of the Evidence
 
 YouTube's moderation system isn't a moderation system. It's a **weapon.**
 
@@ -129,12 +203,13 @@ YouTube's moderation system isn't a moderation system. It's a **weapon.**
 | **Exploitation of Moderators** | Profiting from workers' suffering. **This is labor exploitation** |
 | **Failure to Protect Users** | Harmful content proliferates. **This is a failure of responsibility** |
 | **AI Incompetence** | Easily fooled algorithms. **This is proof of incompetence** |
+| **Random Deletion** | 300+ wrongful terminations. This is a systemic crisis |
 
 ---
 
-## 5. My Conclusion
+## 5. Conclusion
 
-**I conclude that YouTube's moderation system is a weapon designed to silence creators, protect YouTube's profits, and avoid accountability.** This isn't a moderation system. It's a **tool of control.**
+**YouTube's moderation system is a weapon designed to silence creators, protect YouTube's profits, and avoid accountability.** This isn't a moderation system. It's a **tool of control.**
 
 **YouTube is underestimating the law. They are underestimating the mass of lawsuits. They think they are untouchable. They are wrong.**
 
@@ -159,4 +234,4 @@ YouTube's moderation system isn't a moderation system. It's a **weapon.**
 
 *SuperHero2010 Investigative Unit*
 
-*August 15, 2026*
+*September 14, 2026*

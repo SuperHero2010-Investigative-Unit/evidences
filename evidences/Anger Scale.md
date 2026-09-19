@@ -1,8 +1,8 @@
 # Anger Scale
 
-**Author:** SuperHero2010 Investigative Unit  
-**Date:** August 2026  
-**Status:** Public Document  
+- **Author:** SuperHero2010 Investigative Unit
+- **Date:** August 2026
+- **Status:** Public Document
 
 ---
 
@@ -14,7 +14,9 @@ This document defines the **Anger Scale** used to measure the emotional impact o
 
 ## 2. Emoji Points System
 
-Each negative emoji is assigned a point value based on its intensity:
+Each negative emoji is assigned a point value based on its intensity. Exception emojis also have a physical crushing force equivalent.
+
+### Normal Emojis (1-10 Scale)
 
 | Emoji | Points | Description |
 |-------|--------|-------------|
@@ -25,6 +27,21 @@ Each negative emoji is assigned a point value based on its intensity:
 | 😠 | 7 | Clear anger, visible frustration |
 | 😡 | 8 | Severe anger, visible rage |
 | 🤬 | 9 | Extreme anger, cursing, fury |
+| 😈 | 9.5 | Destructive anger/Insane Demon anger, desire for revenge |
+| 👿 | 10 | Maximum anger/Extreme Demon anger, uncontrolled fury |
+
+### Exception Emojis (Breaking the 10 Limit)
+
+These emojis exceed the normal scale and have their own physical crushing force equivalents.
+
+| Emoji | Points | Description | Crushing Force |
+|-------|--------|-------------|----------------|
+| 🔥 | 12 | Burning rage, consuming anger | 3 kgf |
+| ⚡ | 15 | Sudden, Lightning Fury | 5 kgf |
+| 💥 | 20 | Explosive Wrath, uncontrollable | 20 kgf |
+| 🌊 | 30 | Tsunami of Anger, destructive force | 1000 tons |
+| 🌪 | 40 | Tornado of Anger, Cyclone of Destruction, chaos, unstoppable | 10 tons |
+| 🌋 | 50 | Volcanic eruption, total destruction | 2000 tons |
 
 ---
 
