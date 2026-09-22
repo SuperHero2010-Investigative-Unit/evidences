@@ -4,6 +4,8 @@
 
 **Date of Analysis:** 2026-08-30
 
+**Last Updated:** 2026-09-11
+
 ---
 
 ## 1. Document Overview
@@ -114,7 +116,22 @@ The escalation path is:
 
 ---
 
-## 4. Observations
+## 4. Rule Violations
+
+The following violations aren't explicitly listed in the Site Rules but are enforced through other official documents and canon.
+
+| Violation | Rule Source | Consequence |
+|-----------|-------------|-------------|
+| **Custom Object Classes** | Object Classes page | Article rejected and deleted |
+| **Explained without -EX** | Object Classes page | Article rejected |
+| **Internal Foundation war** | Official canon | Article rejected |
+| **Military opposition to O5** | Official canon | Article rejected |
+| **O5 Council defiance** | Official canon | Article rejected |
+| **SCP intervention in Foundation affairs** | Official canon | Article rejected |
+
+---
+
+## 5. Observations
 
 | Observation | Note |
 |-------------|------|
@@ -124,10 +141,12 @@ The escalation path is:
 | **Deletion culture is brutal** | Articles can be deleted for low quality, votes, or staff decisions |
 | **Offsite behavior is monitored** | Actions outside the wiki can affect membership |
 | **-EX requirement is redundant** | The class already says "Explained". The suffix adds nothing |
+| **Custom classes are prohibited** | No exceptions, no flexibility |
+| **Internal wars are prohibited** | The Foundation must appear unified |
 
 ---
 
-## 5. Potential Points of Tension
+## 6. Potential Points of Tension
 
 | Tension | Explanation |
 |---------|-------------|
@@ -137,10 +156,12 @@ The escalation path is:
 | **Content restrictions** | AI ban, image size limits, tagging rules |
 | **Offsite behavior** | Activities outside the wiki can lead to bans |
 | **-EX requirement** | Redundant and arbitrary |
+| **Custom class prohibition** | Stifles creativity |
+| **Internal war prohibition** | Prevents narrative complexity |
 
 ---
 
-## 6. Summary
+## 7. Summary
 
 | Aspect | Assessment |
 |--------|------------|
@@ -152,10 +173,16 @@ The escalation path is:
 
 ---
 
-## 7. Conclusion
+## 8. Conclusion
 
 The SCP Wikidot's rules aren't designed to foster a creative community. They are designed to control it. The discretionary power given to staff, combined with vague rules like "Don't be a dick", creates a system where enforcement is inconsistent and unfair.
 
-The `-EX` suffix requirement is redundant and absurd. The prohibition of custom classes stifles creativity. The AI ban is an overreaction. The appeals process is a formality.
+The `-EX` suffix requirement is redundant and absurd. The prohibition of custom classes stifles creativity. The AI ban is an overreaction. The appeals process is a formality. Internal Foundation wars are prohibited.
 
 **Key takeaway:** The wiki isn't as open as it presents itself. It's a tightly controlled environment with significant consequences for rule violations. It isn't a community, it's a machine.
+
+---
+
+**SuperHero2010 Investigative Unit**
+
+*Evidence. Truth. Accountability. No threats. No fabrication.*

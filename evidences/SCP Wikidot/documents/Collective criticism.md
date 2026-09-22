@@ -74,7 +74,25 @@ When the volume of criticism reaches a critical mass, platform staff and adminis
 
 ---
 
-## 7. The Honest Truth
+## 7. The Rules Being Criticized
+
+The following rules and policies are the most common targets for collective criticism. They are documented in the Case 12 evidence files.
+
+| Rule | Issue | Evidence File |
+|------|-------|---------------|
+| **Custom Object Classes Prohibited** | Stifles creativity. No exceptions | `What Object Classes do not allow Custom Classes.md` |
+| **-EX Suffix Mandatory** | Redundant. The class already says "Explained" | `Explained SCPs.md` |
+| **Deletion at -10** | Articles deleted for score, not quality | `Article Deletions.md` |
+| **AI Ban Absolute** | Overreaction. AI is a legitimate tool | `Site Rules.md` |
+| **18+ Only** | High barrier to entry. No exceptions | `Site Membership.md` |
+| **Staff Discretion** | Rules enforced subjectively. Limited appeals | `Site Rules.md` |
+| **Internal Foundation Wars Prohibited** | Prevents narrative complexity | `Internal Foundation War.md` |
+| **Rigid Rules** | No flexibility. No exceptions | `Site Rules.md` |
+| **Illogical System** | Claims logic. Practices illogic | `Logic vs Illogic.md` |
+
+---
+
+## 8. The Honest Truth
 
 Collective criticism isn't a guarantee of change. It's a tool. Like any tool, it must be used correctly.
 
@@ -87,9 +105,11 @@ When the numbers are large enough, platforms are forced to respond. They can't i
 
 ---
 
-## 8. Conclusion
+## 9. Conclusion
 
 Collective criticism is a legitimate strategy for user advocacy. It relies on the existing reporting system and uses it to its full capacity. When used responsibly, it can expose systemic issues and force platforms to address them.
+
+The rules are rigid. The enforcement is subjective. The system is illogical. But collective criticism can change it.
 
 **Remember:** The goal is accountability, not chaos. The goal is fairness, not revenge. The goal is change, not destruction.
 
