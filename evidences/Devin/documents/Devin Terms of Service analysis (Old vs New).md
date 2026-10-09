@@ -19,7 +19,7 @@ I have compared the two versions of Cognition's Terms of Service to identify cha
 
 | Aspect | April 2025 (Old) | June 2026 (New) |
 |--------|------------------|-----------------|
-| **Model Training Opt-In** | **Opt-in required.** I must explicitly agree to allow my data to be used for training. (Section 3.3.1) | **Opt-out only for paid users.** Cognition may use my data for training unless I am a paid subscriber and actively opt out. (Section 3.3.1) |
+| **Model Training Opt-In** | **Opt-in required.** I must explicitly agree to allow my data to be used for training. (Section 3.3.1) | **Opt-out only for paid users.** Cognition may use my data for training unless I'm a paid subscriber and actively opt out. (Section 3.3.1) |
 | **Free Users** | My data is safe unless I agree | My data can be used for training automatically. I can't opt out |
 
 **Analysis:**
@@ -73,7 +73,7 @@ Even if I suffer significant damage to my project or time, I have no legal recou
 | **My Indemnification** | I must indemnify Cognition for claims arising from my use | I must indemnify Cognition for claims arising from my use, including claims related to my data |
 
 **Analysis:**
-Cognition has expanded its protection while reducing its obligations to free users. If a third party sues Cognition because of my use of the service, I am responsible for their legal costs.
+Cognition has expanded its protection while reducing its obligations to free users. If a third party sues Cognition because of my use of the service, I'm responsible for their legal costs.
 
 **Relevance to My Experience:**
 This creates a situation where I bear risk for using the service, while Cognition bears none. This is a classic "as-is" approach.

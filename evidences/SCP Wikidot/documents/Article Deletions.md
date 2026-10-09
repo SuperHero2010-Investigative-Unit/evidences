@@ -97,9 +97,9 @@ Articles that violate site rules or policies may be deleted immediately. This in
 |----------|--------|
 | **How many staff witnesses?** | At least 3 |
 | **When are deletion timers used?** | Only for low score and coauthor issues |
-| **My article is at -10. Should I delete it?** | Yes. It rarely recovers. |
-| **Can I get a copy of my deleted article?** | Staff will try to include the source, but it's not guaranteed. |
-| **Will staff delete my page for me?** | No. You must delete it yourself. |
+| **My article is at -10. Should I delete it?** | Yes. It rarely recovers |
+| **Can I get a copy of my deleted article?** | Staff will try to include the source, but it's not guaranteed |
+| **Will staff delete my page for me?** | No. You must delete it yourself |
 
 ---
 

@@ -6,7 +6,7 @@
 |--------|---------|
 | **Document** | YouTube Legal Violations |
 | **Date** | September 14, 2026 |
-| **Assessment** | YouTube has systematically violated user rights across multiple legal domains. The evidence is irrefutable. The violations are clear. Accountability is overdue. |
+| **Assessment** | YouTube has systematically violated user rights across multiple legal domains. The evidence is irrefutable. The violations are clear. Accountability is overdue |
 
 ---
 

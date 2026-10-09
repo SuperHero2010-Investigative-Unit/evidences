@@ -1,7 +1,5 @@
 # Case 12: SCP Wikidot
 
----
-
 ## Case Overview
 
 | Aspect | Details |
@@ -9,7 +7,7 @@
 | **Target** | SCP Foundation – SCP Wikidot |
 | **Version** | Any version |
 | **Investigation Period** | August 30, 2026 – August 31, 2026 |
-| **Status** | Published |
+| **Status** | Closed |
 | **Charges** | Strict rules that stifle creativity, non-standard classes rejected, -EX suffix required, inconsistent enforcement, internal conflicts, lack of transparency |
 
 ---

@@ -7,7 +7,7 @@
 | **Target** | Cognition − Devin |
 | **Version** | Any version |
 | **Investigation Period** | May 2026 − July 25, 2026 |
-| **Status** | Published |
+| **Status** | Closed |
 | **Charges** | Token-based quota traps, fake errors, deleted messages, account lockouts, fake evidence, gaslighting |
 
 ---

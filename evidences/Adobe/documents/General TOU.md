@@ -26,7 +26,7 @@ This is the most crucial part of the agreement. While Adobe states, "we don't tr
 - **Publicly display/perform:** They can show my work on their platforms (like Behance) at my direction
 - **Sublicense:** They can allow their trusted infrastructure providers to access my content
 
-**My Concern:** While the stated purpose is "to operate the Services and Software on your behalf", I consider the scope of this license to be overly broad and permissive. I am granting Adobe rights far beyond simply storing my files, and these rights are granted without any additional compensation.
+**My Concern:** While the stated purpose is "to operate the Services and Software on your behalf", I consider the scope of this license to be overly broad and permissive. I'm granting Adobe rights far beyond simply storing my files, and these rights are granted without any additional compensation.
 
 ### 2.2 Content Analytics (Section 4.3(B))
 
@@ -115,7 +115,7 @@ If I have a free Adobe account and don't sign in periodically, Adobe can permane
 
 The services are provided **"AS-IS"**. Adobe disclaims all warranties that the services will be "uninterrupted, timely, secure, or error-free", or that the "results... will be effective, accurate, or reliable".
 
-**My Concern:** This is a total disclaimer of responsibility for the quality, security, and availability of their paid services. I am paying for a service they clearly state they don't guarantee.
+**My Concern:** This is a total disclaimer of responsibility for the quality, security, and availability of their paid services. I'm paying for a service they clearly state they don't guarantee.
 
 ---
 
@@ -126,8 +126,8 @@ The services are provided **"AS-IS"**. Adobe disclaims all warranties that the s
 | **Broad License to Content (4.3)** | Grants Adobe extensive rights to my Cloud Content for operational purposes, including reproduction, distribution, and derivative works, without additional compensation | Overbroad licensing may violate users' moral rights and data sovereignty laws (GDPR, CCPA) if consent isn't freely given, specific, and informed | This clause must be challenged. Users should demand a narrow, purpose-specific license that doesn't grant Adobe perpetual, worldwide rights. Class action lawsuit is warranted |
 | **Content Analytics (4.3(B))** | Opt-out by default. My data is analyzed to improve their services without my explicit consent. Adobe profits from my work without sharing the benefits | Opt-out systems violate the GDPR principle of "consent" (Article 7) and the ePrivacy Directive, which require freely given, specific, informed, and unambiguous consent | Users must demand an opt-in system. This is a violation of basic data protection rights. A regulatory complaint (EU, UK, California) is justified |
 | **Generative AI Loophole (2.2, 4.3)** | The "no AI training" claim doesn't apply to Adobe Stock or future policy changes. This is a deceptive loophole designed to extract user content for AI training without fair compensation | Misleading statements may violate consumer protection laws (FTC Act, EU Unfair Commercial Practices Directive). Users are deceived into believing their content is safe | Users should never submit content to Adobe Stock. Adobe's deceptive promise must be exposed. This is a case for false advertising |
-| **Indemnification (8.2)** | I am obligated to defend and pay Adobe for claims arising from my use of their software or my content. This shifts Adobe's legal costs onto me | Unconscionable shift of liability. May violate consumer protection laws in many jurisdictions (EU, Australia, US). Courts may strike this down as unfair | This is one of the most dangerous clauses. No user should agree to defend a billion-dollar corporation. Legal action to strike this down is necessary |
-| **Limitation of Liability (10)** | Adobe's liability is capped at US $100 or three months' fees. This offers users no real protection. If their software destroys my work, I am uncompensated | Grossly disproportionate. Unconscionable under U.S. law. Violates consumer protection laws (EU, Australia). Courts may deem this void | This cap is illegal. Users must demand full liability for damages caused by Adobe's negligence. A class action lawsuit is the only way to break this shield |
+| **Indemnification (8.2)** | I'm obligated to defend and pay Adobe for claims arising from my use of their software or my content. This shifts Adobe's legal costs onto me | Unconscionable shift of liability. May violate consumer protection laws in many jurisdictions (EU, Australia, US). Courts may strike this down as unfair | This is one of the most dangerous clauses. No user should agree to defend a billion-dollar corporation. Legal action to strike this down is necessary |
+| **Limitation of Liability (10)** | Adobe's liability is capped at US $100 or three months' fees. This offers users no real protection. If their software destroys my work, I'm uncompensated | Grossly disproportionate. Unconscionable under U.S. law. Violates consumer protection laws (EU, Australia). Courts may deem this void | This cap is illegal. Users must demand full liability for damages caused by Adobe's negligence. A class action lawsuit is the only way to break this shield |
 | **Mandatory Arbitration (14)** | Removes my right to sue in court or join a class action. This hides systemic harm and silences users | Unconscionable. Violates due process and the right to a jury trial (Seventh Amendment). Courts are increasingly hostile to forced arbitration clauses | Users must demand their day in court. The 30-day opt-out window is a trap. This clause must be invalidated through legislation or litigation |
 
 ---

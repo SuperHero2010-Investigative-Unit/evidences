@@ -129,14 +129,14 @@ Modrinth's Limitation on Liability clause is a contractual shield, not an absolu
 
 | Point | Explanation |
 |-------|-------------|
-| I am not filing a lawsuit | My goal is public documentation, not legal action |
+| I'm not filing a lawsuit | My goal is public documentation, not legal action |
 | The clause is a deterrent | It's designed to make users think they can't sue |
 | But it isn't absolute | Courts can and do reject such clauses in cases of bad faith |
 | My evidence documents bad faith | Unreasonable conditions, invented rules, and silence are evidence of unfair conduct |
 
 **My Verdict:**
 
-> *"Modrinth's Limitation on Liability clause is a powerful deterrent, but it isn't an absolute legal shield. Courts don't always enforce such clauses, especially when a company acts in bad faith. While I am not pursuing legal action, my evidence documents a pattern of unfair conduct that could undermine Modrinth's contractual protections in any serious legal scrutiny."*
+> *"Modrinth's Limitation on Liability clause is a powerful deterrent, but it isn't an absolute legal shield. Courts don't always enforce such clauses, especially when a company acts in bad faith. While I'm not pursuing legal action, my evidence documents a pattern of unfair conduct that could undermine Modrinth's contractual protections in any serious legal scrutiny."*
 
 ---
 
@@ -156,7 +156,7 @@ Modrinth's Limitation on Liability clause is a contractual shield, not an absolu
 
 **Implication:**
 
-If I had a legal claim, I would have to act quickly. However, I am not pursuing legal action. I am documenting publicly.
+If I had a legal claim, I would have to act quickly. However, I'm not pursuing legal action. I'm documenting publicly.
 
 ---
 

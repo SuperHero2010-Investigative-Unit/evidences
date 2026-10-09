@@ -44,7 +44,7 @@ Data is collected for multiple purposes, including providing and improving servi
 
 **Severity: EXTREME. This is exploitation disguised as service.**
 
-While some purposes are legitimate, the "personalized ads" and "measuring performance" purposes are primarily for Google's benefit. **I am the product, not the customer.** The data is the currency, and Google is the beneficiary.
+While some purposes are legitimate, the "personalized ads" and "measuring performance" purposes are primarily for Google's benefit. **I'm the product, not the customer.** The data is the currency, and Google is the beneficiary.
 
 **Why this is illegal:**
 - **Violates GDPR:** The use of your data for advertising requires explicit consent
@@ -146,11 +146,11 @@ Google's Privacy Policy isn't a protection. It's a **permission slip for total s
 
 | Pattern | How This Policy Confirms It |
 |---------|-----------------------------|
-| **Total Surveillance** | Collects everything about you. **This is a permanent record.** |
-| **Exploitation Disguised as Service** | Uses your data for advertising. **This is manipulation.** |
-| **Data Free-for-All** | Shares your data with hundreds of third parties. **This is a data breach waiting to happen.** |
-| **Permanent Data Prison** | Retains your data forever. **This is a trap.** |
-| **Blank Check** | "Legitimate interests" is a loophole. **This is deception.** |
+| **Total Surveillance** | Collects everything about you. **This is a permanent record** |
+| **Exploitation Disguised as Service** | Uses your data for advertising. **This is manipulation** |
+| **Data Free-for-All** | Shares your data with hundreds of third parties. **This is a data breach waiting to happen** |
+| **Permanent Data Prison** | Retains your data forever. **This is a trap** |
+| **Blank Check** | "Legitimate interests" is a loophole. **This is deception** |
 
 ---
 

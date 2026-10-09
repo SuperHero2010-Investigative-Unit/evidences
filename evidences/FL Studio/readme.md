@@ -7,7 +7,7 @@
 | **Target** | Image-Line − FL Studio |
 | **Version** | Any version (trial/free version) |
 | **Investigation Period** | August 12, 2026 − August 13, 2026 |
-| **Status** | Published |
+| **Status** | Closed |
 | **Charges** | FL Studio's free version blocks users from opening saved projects, forcing them to pay to access their own work. This is a deliberate lock-in tactic disguised as a "trial" |
 
 ---

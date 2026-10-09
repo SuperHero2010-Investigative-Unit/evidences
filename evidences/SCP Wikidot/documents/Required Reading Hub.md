@@ -34,7 +34,7 @@ The page is organized into four categories:
 
 | Document | Purpose |
 |----------|---------|
-| **Site Rules** | You must know and understand the rules. Ignorance isn't an excuse. |
+| **Site Rules** | You must know and understand the rules. Ignorance isn't an excuse |
 | **Guide for Newcomers** | Introduction to the Foundation and the wiki |
 | **Official Anti-Harassment Policy** | Code of conduct for all community spaces |
 | **FAQ** | Frequently asked questions about the SCP universe and site |

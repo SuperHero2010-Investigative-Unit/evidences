@@ -58,7 +58,7 @@ This document provides a clear, structured guide for reporting Modrinth's violat
 
 > *Dear Overwolf Team,*
 >
-> *I am writing to formally report Modrinth for unfair moderation practices and potential retaliation.*
+> *I'm writing to formally report Modrinth for unfair moderation practices and potential retaliation.*
 >
 > **Summary:**
 > - I submitted a project to Modrinth on *[date]*.

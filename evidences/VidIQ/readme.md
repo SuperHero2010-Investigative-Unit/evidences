@@ -7,7 +7,7 @@
 | **Target** | VidIQ |
 | **Version** | Any version |
 | **Investigation Period** | August 13, 2026 |
-| **Status** | Published |
+| **Status** | Closed |
 | **Charges** | Useless AI suggestions, Western-centric bias, arbitrary limits, paywall traps, defensive AI Coach |
 
 ---

@@ -70,7 +70,7 @@ This document provides a roadmap for creators and users who have been harmed by 
 | **Weak Appeals Process** | Appeals are slow, often automated, rarely successful |
 | **No Real Recourse** | Users can't defend themselves effectively |
 | **Random Deletion** | Channels deleted without strikes or warnings |
-| **No Explanation** | YouTube does n't explain what triggered the ban |
+| **No Explanation** | YouTube doesn't explain what triggered the ban |
 
 **Legal Basis:** Due process protections (U.S. and international law).
 
@@ -243,7 +243,7 @@ This document provides a roadmap for creators and users who have been harmed by 
 | **COPPA Violations** | Clear legal violations with regulatory precedent |
 | **Privacy Violations** | GDPR and CCPA violations are clear |
 | **AI Moderation Failures** | 300+ documented cases of wrongful termination |
-| **Random Deletion Pattern** | Proves systemic failure, n't isolated incidents |
+| **Random Deletion Pattern** | Proves systemic failure, not isolated incidents |
 | **Restoration Only After Publicity** | Proves YouTube knows it makes mistakes |
 | **Public Evidence** | My documentation is public and irrefutable |
 

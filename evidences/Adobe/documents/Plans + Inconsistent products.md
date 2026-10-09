@@ -39,7 +39,7 @@ The naming conventions are, in my view, a major source of confusion:
 - **"Acrobat Pro"** and **"Acrobat Standard"** are separate, but I find the difference between them unclear
 - **"Creative Cloud Pro"** and **"Creative Cloud Standard"** sound similar but have vastly different prices and, I assume, different feature sets
 
-**My Concern:** I interpret this inconsistent naming as a deliberate tactic to make it difficult for me, as a user, to understand exactly what I am buying and to compare plans effectively.
+**My Concern:** I interpret this inconsistent naming as a deliberate tactic to make it difficult for me, as a user, to understand exactly what I'm buying and to compare plans effectively.
 
 ### 2.4. The "Sell the Bundle" Strategy
 
@@ -47,7 +47,7 @@ I note that several plans bundle applications together (e.g., Photography, Subst
 
 ### 2.5. Extreme AI Pricing
 
-I am particularly struck by the pricing of the Firefly AI plans:
+I'm particularly struck by the pricing of the Firefly AI plans:
 
 - **Firefly Standard:** $9.99/month
 - **Firefly Pro Plus:** $34.97/month

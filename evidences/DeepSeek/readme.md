@@ -7,7 +7,7 @@
 | **Target** | DeepSeek AI − DeepSeek |
 | **Version** | R1 or more |
 | **Investigation Period** | 2025 − July 24, 2026 |
-| **Status** | Published |
+| **Status** | Closed |
 | **Charges** | Fraudulent AI (minimal) |
 
 ---
