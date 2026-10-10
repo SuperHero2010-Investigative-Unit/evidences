@@ -1,8 +1,8 @@
 # Extra Usage Balance: A Hidden Trap
 
-- **Author:** SuperHero2010 Investigative Unit
-- **Date:** September 2026
-- **Status:** Public Document
+**Author:** SuperHero2010  
+**Date:** September 2026  
+**Status:** Public Document  
 
 ---
 

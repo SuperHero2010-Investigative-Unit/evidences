@@ -1,6 +1,6 @@
 # Pattern-matching (Big companies)
 
-**Author:** SuperHero2010 Investigative Unit  
+**Author:** SuperHero2010  
 **Date:** October 2026  
 **Status:** Public Document 
 

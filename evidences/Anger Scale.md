@@ -1,8 +1,8 @@
 # Anger Scale
 
-- **Author:** SuperHero2010 Investigative Unit
-- **Date:** August 2026
-- **Status:** Public Document
+**Author:** SuperHero2010  
+**Date:** August 2026  
+**Status:** Public Document  
 
 ---
 

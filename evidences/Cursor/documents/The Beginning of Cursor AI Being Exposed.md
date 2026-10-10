@@ -1,9 +1,9 @@
 # The Beginning of Cursor AI Being Exposed
 
-**Author:** SuperHero2010 Investigative Unit  
+**Author:** SuperHero2010  
 **Date:** October 2026  
 **Status:** Public Document  
-**Source**: https://x.com/LoopandPixels/status/2108760817193611731
+**Source:** https://x.com/LoopandPixels/status/2108760817193611731
 
 ---
 
