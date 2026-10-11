@@ -73,7 +73,7 @@ The cycle continues
 | [@mrtbrgl](https://x.com/mrtbrgl) | X | Followers |
 | [@berkanagaa](https://x.com/berkanagaa) | X | Followers |
 | [@crypto_mooncity](https://x.com/crypto_mooncity) | X | Followers |
-| [@Whomujtaba1](https://x.com/Whomujtaba1) | X | Followers |
+| [@Whomujtaba1](https://x.com/Whomujtaba1) *(He followed me)* | X | Followers |
 | [@rrr981532](https://x.com/rrr981532) | X | Followers |
 | [@MNJ1396471](https://x.com/MNJ1396471) | X | Followers |
 | [@UntamedMinion](https://x.com/UntamedMinion) *(He followed me)* | X | Followers |
@@ -84,6 +84,7 @@ The cycle continues
 | [@princexsol](https://x.com/princexsol) | X | Money |
 | [@mohitmishr93531](https://x.com/mohitmishr93531) | X | Money |
 | [@Tanaypawar27](https://x.com/Tanaypawar27) | X | Money |
+| [@Adam_Veyronn](https://x.com/Adam_Veyronn) | X | Money |
 
 ---
 
