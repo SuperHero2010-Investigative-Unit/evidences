@@ -85,6 +85,8 @@ The cycle continues
 | [@mohitmishr93531](https://x.com/mohitmishr93531) | X | Money |
 | [@Tanaypawar27](https://x.com/Tanaypawar27) | X | Money |
 | [@Adam_Veyronn](https://x.com/Adam_Veyronn) | X | Money |
+| [@AIPulse12](https://x.com/AIPulse12) | X | Followers |
+| [@Galaxy_Labs0](https://x.com/Galaxy_Labs0) | X | Followers |
 
 ---
 
