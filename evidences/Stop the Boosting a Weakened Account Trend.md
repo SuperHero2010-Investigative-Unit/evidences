@@ -111,6 +111,9 @@ The cycle continues
 | [@Nylorien](https://x.com/Nylorien) | X | Followers |
 | [@1f__l](https://x.com/1f__l) | X | Followers |
 | [@chipadodo3002](https://x.com/chipadodo3002) | X | Followers |
+| [@X_supporttop1](https://x.com/X_supporttop1) | X | Followers |
+| [@iamelvisfx](https://x.com/iamelvisfx) | X | Followers |
+| [@jahilokimasti](https://x.com/jahilokimasti) | X | Followers |
 
 ---
 
