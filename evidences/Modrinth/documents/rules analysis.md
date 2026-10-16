@@ -6,13 +6,7 @@
 
 ## Executive Summary
 
-Modrinth cited specific rules during the moderation of my two projects:
-
-- **Rule 4 (Copyright and Reuploads)**: Cited for my mod project (2024) regarding MCreator Link
-- **Rule 5.7 [Miscellaneous (Additional Files)]**: Cited for my mod project (2024) regarding additional files
-- **Uncited Rule (Versioning)**: Applied to my datapack project (2025-2026) despite no explicit rule existing
-
-This analysis examines whether these rules were correctly applied and whether Modrinth's demands were supported by their published policies.
+Modrinth cited multiple rules during the moderation of my two projects. This analysis examines whether these rules were correctly applied and whether Modrinth's demands were supported by their published policies.
 
 ---
 
@@ -87,7 +81,7 @@ This analysis examines whether these rules were correctly applied and whether Mo
 | Aspect | Details |
 |--------|---------|
 | **Project** | Player boss bar |
-| **My Structure** | Two versions: `v0.1 - Singleplayer` and `v0.2 - Multiplayer` |
+| **My Structure** | Originally: `0.1` for Singleplayer, `0.2` for Multiplayer. Updated to: `0.1-single` and `0.1-multi` |
 | **Modrinth's Claim** | Versions must be "strictly a linear upgrade" and can't be split by environment |
 | **My Position** | Clear labels help users choose the correct version for their world |
 
@@ -107,73 +101,87 @@ This analysis examines whether these rules were correctly applied and whether Mo
 
 ---
 
-### 4. Same Projects, Two Platforms
+## 4. Section 5.8: Misapplied to Environment-Specific Labels
 
-| Project | CurseForge (Overwolf) | Modrinth |
-|---------|-----------------------|----------|
-| **Mod (2024)** | Accepted with additional mods | Rejected (Rule 4 & 5.7) |
-| **Datapack (2025 - 2026)** | Accepted immediately | Withheld for 9+ months |
+### Rule Text:
+
+> *"Files uploaded to a project should be directly related to the content of the initial project page or a direct linear upgrade. Files with different functionality should not be uploaded as new versions within a single project; instead, they should be published as separate projects."*
+
+### My Project: Datapack (2026)
+
+| Aspect | Details |
+|--------|---------|
+| **Project** | Player boss bar |
+| **My Structure** | `0.1-single` for Singleplayer, `0.1-multi` for Multiplayer |
+| **Modrinth's Claim** | Section 5.8 prohibits my structure because files have "different functionality" |
+| **My Position** | Both files have the same functionality |
+
+### Analysis
+
+| Question | Answer |
+|----------|--------|
+| Is `0.1-single` "directly related" to the project? | Yes |
+| Is `0.1-multi` "directly related" to the project? | Yes |
+| Do the files have "different functionality"? | No. Both display total player health |
+| Is `0.1-multi` a "direct linear upgrade" of `0.1-single`? | No. But it doesn't need to be. It's a parallel version. |
+| Does Section 5.8 prohibit environment-specific labels? | No. The rule prohibits "different functionality", not different environments |
+
+### My Verdict
+
+**Section 5.8 was misapplied.** The rule prohibits "files with different functionality" from being uploaded as versions within a single project. My two files have the same functionality. Both display total player health. The only difference is the environment they support. This isn't "different functionality". This is the same functionality, labeled clearly for the user's environment.
 
 ---
 
-#### Analysis
+## 5. Same Projects, Two Platforms
+
+| Project | CurseForge (Overwolf) | Modrinth |
+|---------|-----------------------|----------|
+| **Mod (2024)** | Accepted with additional mods | Rejected (Rule 4 and 5.7) |
+| **Datapack (2025 - 2026)** | Accepted immediately | Withheld for 10+ months |
+
+---
+
+### Analysis
 
 | Question | Answer |
 |----------|--------|
 | Same projects? | Yes |
-| Same creator? | Yes (me) |
+| Same creator? | Yes |
 | Same structure? | Yes |
 | Different outcome? | Yes |
 | Who accepted? | CurseForge (Overwolf) |
 | Who rejected? | Modrinth |
-| Who owns CurseForge? | Overwolf |
+
+### My Verdict
+
+> *"The same projects were accepted by CurseForge and rejected by Modrinth. This proves the issue is not my projects. The issue is Modrinth's moderation. Overwolf owns CurseForge. If Overwolf accepted what Modrinth rejected, Modrinth's decision is indefensible."*
 
 ---
 
-#### What This Proves
-
-| Finding | Why It Matters |
-|---------|----------------|
-| CurseForge accepted my mod (2024) | My mod structure was valid and acceptable |
-| Modrinth rejected my mod (2024) | Modrinth's rules were misapplied |
-| CurseForge accepted my datapack (2025-2026) | My datapack structure was valid and acceptable |
-| Modrinth withheld my datapack (2025-2026) | Modrinth invented a rule that doesn't exist |
-| Same projects, different outcomes | The issue isn't my projects. The issue is Modrinth's moderation |
-
----
-
-#### My Verdict
-
-> *"The same projects were accepted by CurseForge and rejected by Modrinth. This proves the issue isn't my projects. The issue is Modrinth's moderation.*
->
-> *Overwolf owns CurseForge. Overwolf is also connected to Modrinth. If Overwolf accepted what Modrinth rejected, Modrinth's decision is indefensible.*
->
-> *The evidence is undeniable."*
-
----
-
-## 5. Pattern of Behavior
+## 6. Pattern of Behavior
 
 | Case | Rule Cited | Was Rule Applicable? | My Verdict |
 |------|------------|----------------------|------------|
 | 2024: Mod (MCreator Link) | Rule 4 | No | Misapplied |
 | 2024: Mod (Additional Files) | Rule 5.7 | Ambiguous | Rigidly enforced |
 | 2025-2026: Datapack (Versioning) | Uncited | No | Invented |
+| 2026: Datapack (Environment Labels) | Section 5.8 | No | Misapplied |
 
 ---
 
-## 6. My Overall Conclusion
+## 7. My Overall Conclusion
 
 | Finding | Severity |
 |---------|----------|
 | Rule 4 was misapplied to a dependency distribution case | High |
 | Rule 5.7 was rigidly enforced with no constructive guidance | Medium |
 | A versioning rule was invented that doesn't exist in the Content Rules | High |
+| Section 5.8 was misapplied to environment-specific labels | High |
 | Multiple projects were rejected based on unclear or invented rules | High |
 
-### My Final Statement
+## My Final Statement
 
-> *"Modrinth's moderation of my projects relied on misapplied rules, rigid enforcement without guidance, and at least one rule that doesn't exist in their published Content Rules. This pattern suggests systemic moderation failures, not isolated mistakes."*
+> *"Modrinth's moderation of my projects relied on misapplied rules, rigid enforcement without guidance, invented rules, and at least one rule that doesn't exist in their published Content Rules. This pattern suggests systemic moderation failures, not isolated mistakes."*
 
 ---
 
