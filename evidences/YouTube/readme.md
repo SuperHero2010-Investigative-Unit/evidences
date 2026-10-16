@@ -7,7 +7,7 @@
 | **Target** | Google − YouTube |
 | **Version** | Any version |
 | **Investigation Period** | August 13, 2026 |
-| **Status** | Published |
+| **Status** | Open & Published |
 | **Charges** | User-hostile Terms of Service, Privacy Policy, content moderation, monetization, account termination, and AI moderation failures |
 
 ---
