@@ -24,9 +24,9 @@ This document examines whether these claims are logical.
 
 | Claim | Reality | Logical? |
 |-------|---------|----------|
-| **Logical** | Custom classes are prohibited even when they fit | Illogical |
+| **Logical** | Custom classes are heavily discouraged and rejected by community voting, even when they fit | Illogical |
 | **Quality-driven** | Deletion at -10, regardless of quality | Illogical |
-| **Creative** | -EX suffix is mandatory, even when redundant | Illogical |
+| **Creative** | -EX suffix is mandatory in practice, even when redundant | Illogical |
 | **Open** | 18+, strict username, AI ban | Illogical |
 | **Fair** | Staff discretion, subjective enforcement | Illogical |
 
@@ -36,7 +36,7 @@ This document examines whether these claims are logical.
 
 | Example | Why It's Illogical |
 |---------|---------------------|
-| **Custom classes prohibited** | If a class fits the anomaly, why prohibit it? |
+| **Custom classes rejected** | If a class fits the anomaly, why reject it? |
 | **-EX suffix mandatory** | If the class says "Explained," why add -EX? |
 | **Deletion at -10** | If an article is good, why delete it for a score? |
 | **AI ban absolute** | If AI helps writing, why ban it completely? |
@@ -64,7 +64,7 @@ This document examines whether these claims are logical.
 | **Rigid rules** | No exceptions, no flexibility |
 | **Vague rules** | "Don't be a dick" is subjective |
 | **Redundant rules** | -EX suffix adds nothing |
-| **Control-focused rules** | Custom classes prohibited to maintain control |
+| **Control-focused rules** | Custom classes rejected to maintain control |
 | **Fear-based rules** | AI ban is an overreaction |
 
 ---
@@ -74,7 +74,7 @@ This document examines whether these claims are logical.
 The SCP Wikidot claims to be logical. It isn't.
 
 It claims to value quality. It values control.
-It claims to encourage creativity. It prohibits it.
+It claims to encourage creativity. It rejects it.
 It claims to be open. It's closed.
 It claims to be fair. It's subjective.
 

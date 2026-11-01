@@ -57,8 +57,8 @@ This is the foundational rule. It's intentionally broad and subject to interpret
 | Rule | Implication | Critical Analysis |
 |------|-------------|-------------------|
 | **Posting Articles** | Low-quality articles are discouraged, staff may ask you to stop | "Low-quality" is subjective. This gives staff the power to censor content they personally dislike |
-| **Object Classes** | All SCP articles must use one of the approved Object Classes. Custom classes are prohibited. Articles using custom classes will be deleted | This is a rigid, creativity-stifling rule. Authors can't create new classes even when existing ones don't fit their work |
-| **Explained Class** | Explained-class SCPs must include the `-EX` suffix. This is mandatory. Explained = -EX. There are no exceptions | This is redundant and absurd. The class already says "Explained". The suffix adds nothing except arbitrary compliance |
+| **Object Classes** | All SCP articles must use one of the approved standard Object Classes. Custom classes are heavily discouraged and rejected by community voting | Authors can't create new classes. Even if a custom class fits perfectly, the community will downvote it if it looks redundant. The system is rigid and stifles creativity |
+| **Explained Class** | Explained-class SCPs must include the `-EX` suffix. This is a formatting standard enforced by staff and the community. There are no exceptions in practice | This is redundant and absurd. The class already says "Explained". The suffix adds nothing except arbitrary compliance |
 | **Plagiarism** | Strictly prohibited, results in deletion | This is reasonable and necessary |
 | **AI-generated content** | **Banned.** ChatGPT, Midjourney, etc., aren't allowed | This is an overreaction. AI tools are legitimate writing aids. The ban is fear-based, not logic-based |
 | **Collaborative Posting** | Must indicate co-authors | This is reasonable |
@@ -122,12 +122,11 @@ The following violations aren't explicitly listed in the Site Rules but are enfo
 
 | Violation | Rule Source | Consequence |
 |-----------|-------------|-------------|
-| **Custom Object Classes** | Object Classes page | Article rejected and deleted |
-| **Explained without -EX** | Object Classes page | Article rejected |
-| **Internal Foundation war** | Official canon | Article rejected |
-| **Military opposition to O5** | Official canon | Article rejected |
-| **O5 Council defiance** | Official canon | Article rejected |
-| **SCP intervention in Foundation affairs** | Official canon | Article rejected |
+| **Custom Object Classes** | Object Classes page & Deletions Guide | Article rejected and deleted by community consensus |
+| **Explained without -EX** | Formatting standards | Article rejected or downvoted |
+| **Military opposition to O5** | Article rejected | |
+| **O5 Council defiance** | Article rejected | |
+| **SCP intervention in Foundation affairs** | Article rejected | |
 
 ---
 
@@ -141,8 +140,9 @@ The following violations aren't explicitly listed in the Site Rules but are enfo
 | **Deletion culture is brutal** | Articles can be deleted for low quality, votes, or staff decisions |
 | **Offsite behavior is monitored** | Actions outside the wiki can affect membership |
 | **-EX requirement is redundant** | The class already says "Explained". The suffix adds nothing |
-| **Custom classes are prohibited** | No exceptions, no flexibility |
-| **Internal wars are prohibited** | The Foundation must appear unified |
+| **Custom classes are prohibited** | By community consensus and formatting standards, not a written rule |
+| **Internal wars are prohibited** | |
+| **The Foundation must appear unified** | |
 
 ---
 
@@ -157,7 +157,6 @@ The following violations aren't explicitly listed in the Site Rules but are enfo
 | **Offsite behavior** | Activities outside the wiki can lead to bans |
 | **-EX requirement** | Redundant and arbitrary |
 | **Custom class prohibition** | Stifles creativity |
-| **Internal war prohibition** | Prevents narrative complexity |
 
 ---
 
@@ -177,7 +176,7 @@ The following violations aren't explicitly listed in the Site Rules but are enfo
 
 The SCP Wikidot's rules aren't designed to foster a creative community. They are designed to control it. The discretionary power given to staff, combined with vague rules like "Don't be a dick", creates a system where enforcement is inconsistent and unfair.
 
-The `-EX` suffix requirement is redundant and absurd. The prohibition of custom classes stifles creativity. The AI ban is an overreaction. The appeals process is a formality. Internal Foundation wars are prohibited.
+The `-EX` suffix requirement is redundant and absurd. The prohibition of custom classes stifles creativity. The AI ban is an overreaction. The appeals process is a formality.
 
 **Key takeaway:** The wiki isn't as open as it presents itself. It's a tightly controlled environment with significant consequences for rule violations. It isn't a community, it's a machine.
 

@@ -4,19 +4,19 @@
 
 ## 1. The Brutal Truth
 
-The SCP Wikidot doesn't allow custom Object Classes. Period. End of discussion.
+The SCP Wikidot doesn't have a written rule that says "Custom Object Classes are banned". Period. But it doesn't need one. The system is designed to reject them anyway.
 
-**This isn't a suggestion. This isn't a guideline. This is a hard rule.**
+**This isn't a written policy. It's a reality enforced by the community.**
 
-If you create your own class, your article will be rejected. Deleted. Thrown out. No exceptions.
+If an author creates a custom class, their article will be rejected. Deleted. Thrown out. Not because staff delete it under a specific rule, but because the community downvotes it and the formatting standards reject it.
 
-**Critical Analysis:** This isn't about quality control. It's about control. The wiki doesn't trust its authors to make creative decisions. It enforces a rigid system that stifles innovation and forces all articles into a predetermined mold.
+**Critical Analysis:** This isn't about quality control. It's about control. The wiki doesn't trust its authors to make creative decisions. It enforces a rigid system through community consensus that stifles innovation and forces all articles into a predetermined mold.
 
 ---
 
 ## 2. The Approved Classes
 
-These are the only classes you are allowed to use:
+These are the only classes authors are allowed to use in practice:
 
 | Class | Meaning |
 |-------|---------|
@@ -45,15 +45,15 @@ These are the only classes you are allowed to use:
 
 | Prohibited Class | Why It Isn't Allowed |
 |------------------|----------------------|
-| **Neutralized (De Facto)** | Not official. Neutralized means dead/disabled |
-| **Pacified** | Not official |
-| **Vigil** | Not official |
-| **Invictus** | Not official |
-| **Any custom class** | Not permitted. Ever |
+| **Neutralized (De Facto)** | Redundant. Neutralized already means dead/disabled |
+| **Pacified** | Not part of the standard system |
+| **Vigil** | Not part of the standard system |
+| **Invictus** | Not part of the standard system |
+| **Any custom class** | Not permitted in practice. Ever |
 
-> *"You can't create your own class. You can't bend the rules. You can't make an exception. The system is rigid. It's unforgiving. It's designed to reject you if you don't follow it."*
+> *"Authors can't create their own class. They can't bend the rules. They can't make an exception. The system is rigid. It's unforgiving. It's designed to reject them if they don't follow it."*
 
-**Critical Analysis:** The phrase "any custom class" is a blanket ban. There is no room for creativity. The wiki doesn't care if your class fits your article perfectly, it only cares if you follow the rules.
+**Critical Analysis:** The phrase "any custom class" is a blanket rejection. There is no room for creativity. The wiki doesn't care if a class fits an article perfectly, it only cares if it follows the established standard. Even a well-explained custom class like "Neutralized (De Facto)" is rejected because it looks redundant to the community.
 
 ---
 
@@ -66,7 +66,7 @@ These are the only classes you are allowed to use:
 | **Reader Expectation** | Readers expect a familiar system | Readers can adapt. This is a weak argument for stifling creativity |
 | **Historical Abuse** | Custom classes were abused for power fantasies | This is a historical reason, not a logical one. Past abuse doesn't justify a permanent ban |
 
-> *"The wiki doesn't care about your creativity. It cares about its rules. Your custom class isn't special. It's a violation. It will be rejected."*
+> *"The wiki doesn't care about creativity. It cares about its rules. A custom class isn't special. It's a violation. It will be rejected."*
 
 ---
 
@@ -78,7 +78,7 @@ These are the only classes you are allowed to use:
 | **How they become official** | Must be used in 25 articles | This is an impossibly high barrier. It ensures that most custom classes will never become official |
 | **Do they allow custom classes?** | No. They are still part of the system | This isn't an exception. It's a controlled process that still limits creativity |
 
-> *"Esoteric classes aren't a loophole. They are still approved by the system. You can't just make one up and expect it to be accepted."*
+> *"Esoteric classes aren't a loophole. They are still approved by the system. Authors can't just make one up and expect it to be accepted."*
 
 ---
 
@@ -86,22 +86,22 @@ These are the only classes you are allowed to use:
 
 | Question | The Brutal Answer | Critical Analysis |
 |----------|-------------------|-------------------|
-| Does the SCP Wikidot allow custom classes? | **No** | This is absolute. There is no flexibility |
-| Can you create your own class? | **No** | Creativity isn't encouraged, compliance is required |
-| What happens if you do? | **Your article will be rejected and deleted** | There is no warning. No chance to adjust. Just deletion |
+| Does the SCP Wikidot allow custom classes? | **No, not in practice** | This is absolute. There is no flexibility |
+| Can an author create their own class? | **No** | Creativity isn't encouraged, compliance is required |
+| What happens if an author does? | **Their article will be rejected and deleted** | There is no warning. No chance to adjust. Just deletion |
 | Is there any exception? | **No. Never** | The system is designed to reject non-conformity |
 
-> *"The SCP Wikidot isn't flexible. It isn't open to interpretation. It's a machine that enforces its rules without mercy. Custom classes aren't allowed. They have never been allowed. They will never be allowed."*
+> *"The SCP Wikidot isn't flexible. It isn't open to interpretation. It's a machine that enforces its rules without mercy. Custom classes aren't allowed in practice. They have never been allowed. They will never be allowed."*
 
 ---
 
 ## 7. Conclusion
 
-The SCP Wikidot doesn't allow custom Object Classes. You must use one of the approved classes. If you don't, your article will be rejected.
+The SCP Wikidot doesn't have a written rule banning custom Object Classes. But it enforces their rejection through community voting and formatting standards. Authors must use one of the approved classes. If they don't, their article will be rejected.
 
-**Key takeaway:** The system is rigid. It doesn't care about your creativity. It only cares about its rules. Follow them or be rejected.
+**Key takeaway:** The system is rigid. It doesn't care about creativity. It only cares about its rules. Follow them or be rejected.
 
-**Final Critical Note:** This isn't about quality. It's about control. The wiki has created a system that forces conformity. It doesn't trust its authors to make creative decisions. It enforces its rules without mercy. And it rejects anyone who dares to think differently.
+**Final Critical Note:** This isn't about quality. It's about control. The wiki has created a system that forces conformity. It doesn't trust its authors to make creative decisions. It enforces its rules through community pressure and formatting standards. And it rejects anyone who dares to think differently.
 
 ---
 

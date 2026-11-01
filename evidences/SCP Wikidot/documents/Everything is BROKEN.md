@@ -21,17 +21,17 @@ And so it remains broken.
 | **Too strict** | No flexibility, no exceptions |
 | **Too vague** | "Don't be a dick" is subjective |
 | **Too subjective** | Staff discretion is unchecked |
-| **Too rigid** | Custom classes prohibited |
-| **Too redundant** | -EX suffix required |
+| **Too rigid** | The formatting standards and community consensus reject any deviation |
+| **Too redundant** | -EX suffix required by formatting standards, not by logic |
 
 ### The Object Classes
 
 | Problem | Explanation |
 |---------|-------------|
-| **Rigid** | No custom classes allowed |
+| **Rigid** | No custom classes allowed in practice |
 | **Redundant** | -EX suffix adds nothing |
 | **Incomplete** | Many anomalies don't fit |
-| **Controlling** | Creativity is stifled |
+| **Controlling** | Creativity is stifled by community voting |
 
 ### The Deletion System
 
@@ -68,15 +68,6 @@ And so it remains broken.
 | **Confusing** | Readers don't know what is true |
 | **Unresolved** | No one decides what is official |
 | **Chaotic** | SCP-001 has too many variants |
-
-### The Internal Wars
-
-| Problem | Explanation |
-|---------|-------------|
-| **Prohibited** | The Foundation must appear unified |
-| **Unrealistic** | Real organizations fracture |
-| **Limiting** | Narrative complexity is prevented |
-| **Controlling** | The Foundation can't be challenged |
 
 ### The Criticism Policy
 
@@ -121,13 +112,12 @@ And so it remains broken.
 | Case 12 File | What It Proves |
 |-----------------------|----------------|
 | `Site Rules.md` | Rules are strict, vague, subjective |
-| `Object Classes.md` | Classes are rigid, custom classes prohibited |
-| `Explained SCPs.md` | -EX suffix is redundant |
+| `Object Classes.md` | Classes are rigid, custom classes rejected by consensus |
+| `Explained SCPs.md` | -EX suffix is redundant, enforced by formatting standards |
 | `Article Deletions.md` | Deletion at -10 is brutal |
 | `Site Membership.md` | 18+ only, strict username, AI ban |
 | `Criticism Policy.md` | Staff-enforced, subjective |
 | `Required Reading Hub.md` | High barrier to entry |
-| `Internal Foundation War.md` | Internal wars prohibited |
 | `Rule Violations.md` | Many violations, no flexibility |
 | `Logic vs Illogic.md` | The wiki is illogical |
 
@@ -137,7 +127,7 @@ And so it remains broken.
 
 The SCP Wikidot is broken. Not now. From the beginning.
 
-The rules are broken. The classes are broken. The deletion system is broken. The staff authority is broken. The membership is broken. The canon is broken. The SCP-001 is broken. The wars are broken. The criticism is broken. The community is broken.
+The rules are broken. The classes are broken. The deletion system is broken. The staff authority is broken. The membership is broken. The canon is broken. The SCP-001 is broken. The criticism is broken. The community is broken.
 
 Everything is broken.
 

@@ -88,7 +88,24 @@ The page notes:
 
 ---
 
-## 6. Potential Points of Tension
+## 6. The Gap: Marketing vs. Reality
+
+The "About" page markets the wiki as a collaborative, open, and welcoming community. However, the reality of the wiki's operation creates a significant gap between the *ideal* presented on the page and the *actual* rules enforced on the site.
+
+| The Promise | The Reality (Documented in Case 12) |
+| :--- | :--- |
+| **"Anyone can contribute"** | Contributors must be 18+, pass strict username policies, and acknowledge a permanent AI ban just to join |
+| **"Collaborative"** | The community enforces rigid formatting (like the `-EX` suffix) and heavily downvotes custom classes, making it a tightly controlled environment |
+| **"Open and welcoming"** | Articles are deleted at a score of -10. The "delete first" culture discourages new authors |
+| **"Creative freedom"** | The Object Class system is rigid. The `-EX` suffix is mandatory in practice. The system is designed to enforce conformity, not encourage deviation |
+
+The page presents the Foundation as a noble, necessary organization. It presents the wiki as an open, collaborative community. It doesn't mention the strict rules, the deletion process, the rejection of non-standard classes, or the high barrier to entry. 
+
+This isn't an accident. It is a recruiting strategy. The page sells the *idea* of the Foundation. It doesn't sell the *rules* of the wiki.
+
+---
+
+## 7. Potential Points of Tension
 
 | Tension | Explanation |
 |---------|-------------|
@@ -98,7 +115,7 @@ The page notes:
 
 ---
 
-## 7. Summary
+## 8. Summary
 
 | Aspect | Assessment |
 |--------|------------|
@@ -109,8 +126,14 @@ The page notes:
 
 ---
 
-## 8. Conclusion
+## 9. Conclusion
 
 The "About The SCP Foundation" page is a well-crafted introductory document. It presents the Foundation as a noble, necessary organization and the wiki as an open, collaborative community.
 
-However, it doesn't mention the strict rules, the deletion process, or the rejection of non-standard classes. This creates a gap between the *ideal* presented on the page and the *reality* of the wiki's operation.
+However, it doesn't mention the strict rules, the deletion process, or the rejection of non-standard classes. This creates a gap between the *ideal* presented on the page and the *reality* of the wiki's operation. The page is a recruiting tool that sells the fantasy, while the reality is a highly controlled, strict environment.
+
+---
+
+**SuperHero2010 Investigative Unit**
+
+*Evidence. Truth. Accountability. No threats. No fabrication.*

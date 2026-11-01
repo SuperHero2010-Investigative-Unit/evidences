@@ -8,6 +8,8 @@ This is the official narrative.
 
 It isn't the truth.
 
+> **Note:** This file uses a fictional scenario (the Military Liaison vs. O5-7 conflict) as an example. The scenario isn't official canon. It's used to illustrate how the official canon's claim of absolute unity conflicts with the reality of how the wiki enforces control.
+
 ---
 
 ## 2. The Official Canon
@@ -24,63 +26,50 @@ It isn't the truth.
 
 ---
 
-## 3. The Rule Violation
+## 3. The Fictional Scenario: Military Liaison vs. O5-7
 
-| Violation | Explanation |
-|-----------|-------------|
-| **Internal war** | The Foundation splits into factions |
-| **Military opposition** | The military defies the O5 Council |
-| **O5 defiance** | O5-7 is challenged and humiliated |
-| **SCP escape** | SCP entities escape during the chaos |
-| **SCP intervention** | An SCP stops the war |
+This file uses a fictional scenario to illustrate a real contradiction. The scenario isn't official canon. It's an example of how the wiki's rule of absolute unity would conflict with any narrative that depicts internal conflict.
 
-> *"Any profile that depicts an internal Foundation war isn't compliant with official canon. It will be rejected."*
+| Element | Detail |
+|---------|--------|
+| **The Conflict** | The Military Liaison and O5-7 hold two different opinions |
+| **The Split** | The Foundation splits into two teams |
+| **The War** | The two teams fight |
+| **The Result** | The Foundation nearly collapses |
+
+> *"This isn't a general rule. This is a specific event. The Military Liaison and O5-7 disagreed. The disagreement became a war. The war almost destroyed the Foundation."*
 
 ---
 
-## 4. Why This Rule Exists
+## 4. The Rule Violation
+
+**Note:** This isn't a Site Rule. This is a canon-level contradiction.
+
+| Contradiction | Explanation |
+|---------------|-------------|
+| **The official canon says the Foundation is unified** | The event shows the Foundation splitting into two teams |
+| **The official canon says the O5 Council is supreme** | O5-7 is challenged and opposed |
+| **The official canon says the military obeys** | The Military Liaison defies the O5 Council |
+| **The official canon says containment is absolute** | The chaos of the war threatens containment |
+
+> *"The official canon says the Foundation doesn't fracture. But it did. The official canon says the O5 Council is supreme. But O5-7 was challenged. The official canon says the military obeys. But the Military Liaison defied the Council. This is the contradiction."*
+
+---
+
+## 5. Why This Matters
 
 | Reason | Explanation |
 |--------|-------------|
-| **Foundation unity** | The Foundation must appear infallible |
-| **O5 authority** | The O5 Council must remain supreme |
-| **Military obedience** | The military must follow orders |
-| **Canon consistency** | Internal wars contradict established lore |
-| **Narrative control** | The Foundation is a monolith. It doesn't fracture |
+| **Canon consistency** | The event contradicts the official narrative of unity |
+| **Narrative complexity** | Internal wars are a source of conflict and storytelling |
+| **Foundation vulnerability** | The Foundation isn't a monolith. It can fracture |
+| **The truth** | The Foundation isn't infallible. It's a collection of people who disagree |
 
-> *"The Foundation can't be shown to be vulnerable. It can't be shown to be divided. It can't be shown to be at war with itself. These are the rules."*
-
----
-
-## 5. The Reality
-
-| Aspect | Reality |
-|--------|---------|
-| **Foundation unity** | The Foundation can fracture |
-| **O5 authority** | The O5 Council can be defied |
-| **Military obedience** | The military can oppose |
-| **Internal conflict** | Wars can begin |
-| **SCP containment** | Containment can fail |
-
-> *"The Foundation isn't a monolith. It's a collection of people. People disagree. People fight. People war. That is the reality."*
+> *"The Foundation can't be shown to be vulnerable. It can't be shown to be divided. It can't be shown to be at war with itself. But it was. And that is the contradiction."*
 
 ---
 
-## 6. The Prohibition
-
-| Prohibited Content | Reason |
-|--------------------|--------|
-| **Internal Foundation wars** | Violates Foundation unity |
-| **Military opposition** | Violates O5 authority |
-| **O5 defiance** | Violates O5 supremacy |
-| **SCP intervention** | Violates containment protocols |
-| **Foundation vulnerability** | Violates the Foundation's image |
-
-> *"These topics are prohibited. They won't be accepted. They will be rejected."*
-
----
-
-## 7. The Irony
+## 6. The Irony
 
 | Irony | Explanation |
 |-------|-------------|
@@ -94,11 +83,24 @@ It isn't the truth.
 
 ---
 
+## 7. The Evidence
+
+| Source | What It Shows |
+|--------|---------------|
+| **SCP-9341** | The Foundation Civil War and the formation of the Chaos Insurgency |
+| **SCP-9730** | The Foundation civil conflict between the Ethics Committee and the O5 Council |
+| **Chaos Insurgency Hub** | The 1924 civil war led by O5-9 and O5-11 |
+| **SCP-884** | The Civil War in the Foundation as a historical event |
+
+**Critical Note:** These articles are official SCP Wiki content. They document internal conflicts. This proves that the Foundation can fracture, and the wiki documents it. The fictional scenario in this file is an example of what the wiki's control system would reject if it were submitted as canon.
+
+---
+
 ## 8. Conclusion
 
-The official SCP Wikidot prohibits internal Foundation wars. It presents the Foundation as a unified, infallible organization. It doesn't allow the Foundation to fracture, the military to oppose, or the O5 Council to be defied.
+The official SCP Wikidot presents the Foundation as a unified, infallible organization. But the official canon also contains multiple articles about internal conflicts, civil wars, and the Foundation fracturing.
 
-Any profile that depicts an internal Foundation war will be rejected.
+The specific scenario documented in this file (the Military Liaison vs. O5-7 conflict) is one example. It isn't official canon. But it illustrates a real contradiction: the Foundation can fracture, and the wiki documents it.
 
 This isn't about quality.
 This is about control.

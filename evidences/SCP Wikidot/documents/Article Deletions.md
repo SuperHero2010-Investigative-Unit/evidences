@@ -58,6 +58,8 @@ Articles that violate site rules or policies may be deleted immediately. This in
 | **Security risks** | Content that threatens site security |
 | **Custom Object Classes** | Use of non-standard Object Classes is prohibited. Articles using custom classes will be deleted |
 
+**Critical Analysis:** While custom classes aren't technically banned by a written Site Rule, they are explicitly listed here in the Deletions Guide as a reason for immediate deletion. The community consensus is absolute.
+
 ### 2.3. Cleanup and Special Events
 
 | Reason | Action |
@@ -139,6 +141,12 @@ Articles that violate site rules or policies may be deleted immediately. This in
 
 ## 9. Conclusion
 
-The Deletions Guide reveals a system where articles are easily removed. A score of -10 triggers deletion. Staff can delete for rule violations. Authors are encouraged to delete their own work.
+The Deletions Guide reveals a system where articles are easily removed. A score of -10 triggers a 24-hour timer, and a score of -20 triggers immediate deletion. Staff can delete for rule violations, including the use of custom classes. Authors are encouraged to delete their own work.
 
-**Key takeaway:** The SCP Wikidot operates on a "delete first" model. Articles are disposable, and authors must constantly monitor their scores to avoid deletion.
+**Key takeaway:** The SCP Wikidot operates on a "delete first" model. Articles are disposable, and authors must constantly monitor their scores to avoid deletion. The system requires three staff members to witness a deletion, but the outcome is the same: if an article is unpopular or violates the formatting standards, it is removed.
+
+---
+
+**SuperHero2010 Investigative Unit**
+
+*Evidence. Truth. Accountability. No threats. No fabrication.*

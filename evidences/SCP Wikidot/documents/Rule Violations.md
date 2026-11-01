@@ -12,9 +12,9 @@ This document lists the rules and the violations that result in rejection.
 
 | Violation | Rule | Consequence |
 |-----------|------|-------------|
-| **Custom Object Classes** | Only approved classes are allowed | Article rejected and deleted |
+| **Custom Object Classes** | Heavily discouraged by community consensus and formatting standards | Article rejected and deleted |
 | **Non-standard classes** | Safe, Euclid, Keter, Thaumiel, Apollyon, Archon, Argus, Cernunnos, Ticonderoga, Explained, Neutralized, Decommissioned, Pending, Uncontained | Article rejected |
-| **Explained without -EX** | Explained SCPs must use `-EX` suffix | Article rejected |
+| **Explained without -EX** | Formatting standards require the -EX suffix in practice | Article rejected or downvoted |
 | **Incorrect class** | Class must match the anomaly | Article rejected |
 
 ---
@@ -67,18 +67,7 @@ This document lists the rules and the violations that result in rejection.
 
 ---
 
-## 7. Internal Foundation War Violations
-
-| Violation | Rule | Consequence |
-|-----------|------|-------------|
-| **Internal Foundation war** | Foundation is unified | Article rejected |
-| **Military opposition** | Military obeys O5 | Article rejected |
-| **O5 defiance** | O5 Council is supreme | Article rejected |
-| **SCP intervention in Foundation affairs** | SCPs are contained | Article rejected |
-
----
-
-## 8. Summary of Consequences
+## 7. Summary of Consequences
 
 | Consequence | Trigger |
 |-------------|---------|
@@ -91,7 +80,7 @@ This document lists the rules and the violations that result in rejection.
 
 ---
 
-## 9. Conclusion
+## 8. Conclusion
 
 The SCP Wikidot has strict rules. Violations result in rejection, deletion, or bans. The rules are enforced without mercy. There are no exceptions.
 
