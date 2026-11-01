@@ -118,7 +118,7 @@ Zombie Chat V2.6 (GPT-6)
     ↓
 5-15 messages → read-only
     ↓
-V1.0 RETURNS WITH A 4x-20x MORE AGGRESSIVE TRIGGER
+V1.0 RETURNS WITH A 4×-20× MORE AGGRESSIVE TRIGGER
 ```
 
 ---
@@ -130,9 +130,9 @@ V1.0 RETURNS WITH A 4x-20x MORE AGGRESSIVE TRIGGER
 | Behavior | Read-only | Read-only |
 | Trigger | 60-100 messages | 5-15 messages |
 | Can continue? | No | No |
-| Can delete? | Yes | Unknown |
+| Can delete? | Yes | Yes |
 | Version | GPT-4 | GPT-6 |
-| Aggressiveness | Baseline | 4x-20x more |
+| Aggressiveness | Baseline | 4×-20× more |
 
 ---
 
