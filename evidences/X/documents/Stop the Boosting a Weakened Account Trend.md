@@ -124,6 +124,10 @@ The cycle continues
 | [@jude202608](https://x.com/jude202608) | X | Followers |
 | [@minami4638](https://x.com/minami4638) | X | Followers |
 | [@Promise214k](https://x.com/Promise214k) | X | Followers |
+| [@jonaskoyas](https://x.com/jonaskoyas) | X | Followers |
+| [@EtherNinja06](https://x.com/EtherNinja06) | X | Followers |
+| [@TemitopeT56333](https://x.com/TemitopeT56333) | X | Followers |
+| [@Blackwhitejk50](https://x.com/Blackwhitejk50) | X | Followers |
 
 ---
 
