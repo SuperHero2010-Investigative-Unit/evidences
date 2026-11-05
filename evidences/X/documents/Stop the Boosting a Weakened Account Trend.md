@@ -114,6 +114,16 @@ The cycle continues
 | [@X_supporttop1](https://x.com/X_supporttop1) | X | Followers |
 | [@iamelvisfx](https://x.com/iamelvisfx) | X | Followers |
 | [@jahilokimasti](https://x.com/jahilokimasti) | X | Followers |
+| [@alinaaxo0](https://x.com/alinaaxo0) | X | Followers |
+| [@rubana_kh](https://x.com/rubana_kh) | X | Followers |
+| [@Kira_vibes1](https://x.com/Kira_vibes1) | X | Followers |
+| [@Hamza_Directa](https://x.com/Hamza_Directa) | X | Followers |
+| [@stick_web3](https://x.com/stick_web3) | X | Followers |
+| [@EooraX](https://x.com/EooraX) | X | Followers |
+| [@nurXI20](https://x.com/nurXI20) | X | Followers |
+| [@jude202608](https://x.com/jude202608) | X | Followers |
+| [@minami4638](https://x.com/minami4638) | X | Followers |
+| [@Promise214k](https://x.com/Promise214k) | X | Followers |
 
 ---
 
